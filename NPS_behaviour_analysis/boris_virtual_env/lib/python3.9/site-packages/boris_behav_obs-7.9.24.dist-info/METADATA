@@ -1,0 +1,50 @@
+Metadata-Version: 2.1
+Name: boris-behav-obs
+Version: 7.9.24
+Summary: BORIS
+Home-page: http://www.boris.unito.it
+Author: Olivier Friard - Marco Gamba
+Author-email: olivier.friard@unito.it
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Topic :: Scientific/Engineering
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Requires-Dist: MarkupPy
+Requires-Dist: matplotlib
+Requires-Dist: numpy (==1.19.3)
+Requires-Dist: odfpy
+Requires-Dist: openpyxl
+Requires-Dist: portion
+Requires-Dist: pyqt5
+Requires-Dist: tablib
+Requires-Dist: xlrd
+Requires-Dist: xlwt
+
+=======================
+BORIS
+=======================
+
+
+**Behavioral Observation Research Interactive Software**
+
+BORIS is an easy-to-use event logging software for video/audio coding and live observations.
+
+BORIS is a free and open-source software available for GNU/Linux, Windows and Mac OS X.
+
+
+See http://www.boris.unito.it
+
+
+
+
+
+
+
