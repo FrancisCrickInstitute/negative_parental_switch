@@ -1,0 +1,333 @@
+mice_ID,exp_cond,deprivation_duration,birth_date,estrous_stage,state_before,retrieval_before_latency,state_before_comment,1h_food_consumption_before,state_after,state_after_latency,parental_state_after,retrieval_after_latency,state_after_comment,1h_food_consumption_after,target_before,target_before_latency,target_2_before,litter_size,target,target_after,target_after_latency,target_2_after,exp_time,prev_exp,exp_date
+JKAM3.1h,all_stressor_5h,404,20/07/19,E,Parental-,,,,Agg-,,,,1620 attack time out of range,,,,,,pup,,,,1,,09/11/19
+JKAM2.1e,all_stressor_5h,363,26/07/19,M,Parental+,,build a nest around the pups,,Agg+,197,,,,,,,,,pup,,,,1,,10/11/19
+JKAM2.1d,all_stressor_5h,431,26/07/19,D,Parental+,102,,,Agg+,143,,,,,,,,,pup,,,,1,,12/11/19
+JKAM2.1g,all_stressor_5h,450,26/07/19,D,Parental+,33,,,Agg+,417,,,some crouching(?) before the attack,,,,,,pup,,,,1,,12/11/19
+JKAM3.1j,all_stressor_5h,383,20/07/19,P,Parental+,30,,,Agg-,,Parental+,,,,,,,,pup,,,,1,,13/11/19
+JKAM3.1i,all_stressor_5h,238,20/07/19,E,Parental+,157,,,Agg-,,Parental+,,,,,,,,pup,,,,1,,14/11/19
+JKAM3.1c,all_stressor_5h,250,20/07/19,E,Parental+,,build a nest around the pups,,Agg-,,Parental+,,,,,,,,pup,,,,1,,17/11/19
+JKAM3.1f,all_stressor_5h,288,20/07/19,M,Parental-,,some grooming but not a lot,,Agg+,419,,,,,,,,,pup,,,,1,,17/11/19
+JKAM3.1d,all_stressor_5h,267,20/07/19,E,Parental-,,become parental after 20 min,,Agg+,185,,,,,,,,,pup,,,,1,,17/11/19
+BRZZ109.6d,all_stressor_5h,427,10/09/19,P,Parental+,,build a nest around the pups,,Agg+,225,,,,,,,,,pup,,,,1,,26/12/19
+JKAM2.4h,all_stressor_5h,427,05/10/19,M,Parental-,,,,Agg+,884,,,,,,,,,pup,,,,1,,26/12/19
+BRZZ132.5f,all_stressor_5h,382,20/09/19,M,Parental+,173,,,Agg+,143,,,,,,,,,pup,,,,1,,26/12/19
+BRZZ260.2h,all_stressor_5h,382,20/09/19,M,Parental+,,build a nest around the pups,,Agg-,70,Parental+,,,,,,,,pup,,,,1,,26/12/19
+JKAM3.4i,all_stressor_5h,280,04/11/19,P,Parental+,459,,,Agg+,132,,,,,,,,,pup,,,,1,,30/12/19
+BRZZ288.2a,all_stressor_5h,356,27/09/19,D,Parental-,,,,Agg-,,Parental-,,aggressive but out of the time range,,,,,,pup,,,,1,,04/01/20
+JKAM1.4b,all_stressor_5h,371,24/09/19,D,Parental+,688,,,Agg-,,Parental+,,,,,,,,pup,,,,1,,08/01/20
+BRZZ109.6c,all_stressor_5h,287,20/09/19,P-E,Parental+,123,,,Agg-,,Parental+,,,,,,,,pup,,,,2,all_stressor_plus_food(1),30/12/19
+BRZZ109.6e,all_stressor_5h,277,20/09/19,E,Parental+,,build a nest around the pups,,Agg-,,Parental-,,,,,,,,pup,,,,2,all_stressor_plus_food,03/01/20
+BRZZ136.4c,all_stressor_2h,,23/09/19,M,Parental+,158,retrieve both pups,,Agg-,,Parental+,,,,,,,,pup,,,,1,,14/02/20
+BRZZ136.4d,all_stressor_2h,,23/09/19,P-E,Parental-,,,,Agg-,,Parental+,,,,,,,,pup,,,,1,,14/02/20
+BRZZ371.2f,all_stressor_2h,173,23/11/19,E,Parental+,,build a nest around the pups,,Agg-,,Parental-,,,,,,,,pup,,,,1,,18/02/20
+BRZZ371.2d,all_stressor_2h,173 /158,23/11/19,D,Parental-,,,,Agg-,,Parental-,,,,,,,,pup,,,,1,,18/02/20
+BRZZ371.2e,all_stressor_2h,,23/11/19,P-E,Parental+,,build a nest around the pups,,Agg-,,Parental+,,,,,,,,pup,,,,1,,18/02/20
+BRZZ136.4d,all_stressor_2h,,23/11/19,P,Parental+,,build a nest around the pups,,Agg-,,Parental+,,,,,,,,pup,,,,2,,18/02/20
+BRZZ136.4e,all_stressor_2h,158,23/11/19,E,Parental-,,,,Agg+,204,,,,,,,,,pup,,,,1,,25/02/20
+BRZZ371.2d,all_stressor_2h,,,P,Parental+,123,retrieve both pups,,Agg-,,Parental+,,,,,,,,pup,,,,2,,25/02/20
+BRZZ371.2h,all_stressor_2h,,23/11/19,M,Parental+,,video concatenated,,Agg-,,Parental+,,,,,,,,pup,,,,1,,25/02/20
+BRZZ371.2g,all_stressor_2h,,23/11/19,M,Parental+,,video concatenated,,Agg-,,Parental+,,,,,,,,pup,,,,1,,25/02/20
+JKAM2.2f,food_deprivation,262,18/08/19,D,Parental+,,build a nest around the pups,,Agg+,329,,,,,,,,,pup,,,,1,,21/12/19
+BRZZ200.5f,food_deprivation,262,20/09/19,E,Parental+,121,video starting point missing,,Agg-,,Parental+,,,,,,,,pup,,,,1,,21/12/19
+BRZZ200.5e,food_deprivation,331,20/09/19,P,Parental+,,cannot define retrieval as pus climb to the nest,,Agg-,,Parental+,,,,,,,,pup,,,,1,,21/12/19
+JKAM2.2e,food_deprivation,331,18/08/19,P,Parental+,406,,,Agg-,,Parental+,,,,,,,,pup,,,,1,,21/12/19
+BRZZ132.5g,food_deprivation,359,20/09/19,M,Parental+,,build a nest around the pups,,Agg-,,Parental+,,build a nest around the pups,,,,,,pup,,,,1,,22/12/19
+BRZZ200.5d,food_deprivation,359,20/09/19,M,Parental+,227,,,Agg+,235,,,,,,,,,pup,,,,1,,22/12/19
+BRZZ101.5b,food_deprivation,328,,M,Parental+,356,,,Agg-,,Parental+,,,,,,,,pup,,,,2,light_cycle_disturbed,20/12/19
+BRZZ154.3e,food_deprivation,328,,M,Parental+,123,,,Agg+,171,,,,,,,,,pup,,,,2,light_cycle_disturbed,20/12/19
+BRZZ101.5c,food_deprivation,302,,M,Parental+,45,,,Agg+,182,,,,,,,,,pup,,,,2,light_cycle_disturbed(6),22/12/19
+BRZZ180.4b,food_deprivation,,,D,,,,,Agg-,,Parental+,314,,,,,,,pup,,,,2,water_deprivation(6),24/12/19
+BRZZ260.2g,food_deprivation,302,,P,Parental+,,build a nest around the pups,,Agg-,,Parental+,,build a nest around the pups,,,,,,pup,,,,2,light_cycle_disturbed(6),22/12/19
+BRAC5163.3h,food_deprivation,302,18/09/20,D,Parental-,,,,Agg-,,Parental-,,,,,,,,pup,,,,1,,11/11/20
+BRAC4857.7j,food_deprivation,302,18/09/20,M,Parental+,390,retrieve both pups,,Agg+,253,,,,,,,,,pup,,,,1,,11/11/20
+BRAC4709.7c,food_deprivation,298,20/09/20,E,Parental+,,build a nest around the pups,0.3,Agg-,,Parental+,,build a nest around the pups,0.8,,,,,pup,,,,1,,22/11/20
+BRAC4709.7d,food_deprivation,,20/09/20,D,Parental+,579,retrieve one pup,0,Agg+,254,,,,0.7,,,,,pup,,,,1,,22/11/20
+BRAC4742.4b,food_deprivation,,18/09/20,M,Parental-,,,0,Agg-,,Parental+,,build a nest around the pups,0.4,,,,,pup,,,,1,,22/11/20
+BRAC4742.4c,food_deprivation,,18/09/20,M,Parental+,,build a nest around the pups,0.1,Agg-,,Parental+,,build a nest around the pups,0.2,,,,,pup,,,,1,,22/11/20
+BRAC5178.2i,food_deprivation,359,20/09/20,D,Parental-,,,0.2,Agg-,,Parental-,,,0.5,,,,,pup,,,,1,,03/12/20
+BRAC4908.4e,food_deprivation,364,18/09/20,M,Parental-,,,0,Agg+,64,,,,0.9,,,,,pup,,,,1,,03/12/20
+BRAC5178.2j,food_deprivation,359,20/09/20,P,Parental-,,,0.1,Agg+,191,,,,0.9,,,,,pup,,,,1,,03/12/20
+BRAC5215.1c,food_deprivation,359,20/09/20,P,Parental+,101,retrieve both pups,0.3,Agg-,,Parental+,74,retrieve both pups,0.5,,,,,pup,,,,1,,03/12/20
+BRAC4673.7b,food_deprivation,364,18/09/20,P,Parental-,,,,Agg+,194,,,,,,,,,pup,,,,1,,03/12/20
+BRAC5215.1d,food_deprivation,359,24/10/20,M,Parental+,264,retrieve both pups,0.1,Agg+,68,,,,0.9,,,,,pup,,,,1,,03/12/20
+BRAC4908.4f,food_deprivation,364,18/09/20,P,Parental+,147,retrieve both pups,0.1,Agg-,,Parental+,,build a nest around only one pup,0.5,,,,,pup,,,,1,,03/12/20
+BRAC4673.7c,food_deprivation,364,18/09/20,P,Parental-,,,0,Agg-,,Parental+,,build a nest around the pups,0.6,,,,,pup,,,,1,,03/12/20
+BRAC4892.5e,food_deprivation,356,03/10/20,P,Parental+,,nest too close to the pups,,Agg+,75,,,,,Hunt-,,,,cricket,Hunt-,,,1,,09/12/20
+BRAC4892.5d,food_deprivation,356,03/10/20,M,Parental+,529,retrieve both pups,,Agg+,406,,,,,Hunt-,,,,cricket,Hunt-,,,1,,09/12/20
+BRAC4971.4d,food_deprivation,354,04/10/20,P,Parental+,383,retrieve both pups,,Agg-,,Parental+,,onset very very late,,Hunt-,,,,cricket,Hunt-,,,1,,09/12/20
+BRAC4914.6a,food_deprivation,354,03/10/20,P,Parental+,230,retrieve both pups,,Agg+,34,,,,,Hunt-,,,,cricket,Hunt-,,,1,,09/12/20
+BRAC4892.5c,food_deprivation,349,03/10/20,P,Parental+,394,retrieve both pups,,Agg-,,Parental+,,build a nest around the pups,,Hunt-,,,,cricket,Hunt-,,,1,,09/12/20
+BRAC4971.4e,food_deprivation,349,04/10/20,P,Parental-,,,,Agg+,446,,,,,Hunt-,,,,cricket,Hunt-,,,1,,09/12/20
+BRAC4971.4g,food_deprivation,349,04/10/20,P,Parental+,,build a nest around the pups,,Agg-,,Parental+,,build a nest around the pups,,Hunt-,,,,cricket,Hunt-,,,1,,09/12/20
+BRAC4971.4f,food_deprivation,349,04/10/20,P,Parental-,,,,Agg+,122,,,,,Hunt+,15,,,cricket,Hunt+,12,,1,,09/12/20
+BRAC5196.2i,food_deprivation,331,03/10/20,P,Parental+,133,retrieve both pups,,Agg-,,Parental-,,,,Hunt-,,,,cricket,Hunt-,,,1,,13/12/20
+BRAC5196.2h,food_deprivation,331,03/10/20,M,Parental+,,build a nest around the pups,,Agg+,63,,,,,Hunt-,,,,cricket,Hunt-,,,1,,13/12/20
+BRAC5132.4e,food_deprivation,331,03/10/20,D,Parental+,329,retrieve both pups,,Agg+,638,,,,,Hunt-,,,,cricket,Hunt+,545,,1,,13/12/20
+BRAC5132.4c,food_deprivation,331,03/10/20,D,Parental+,,build a nest around the pups,,Agg+,271,,,,,Hunt+,853,,,cricket,Hunt+,144,,1,,13/12/20
+BRAC5148.5c,food_deprivation,334,03/10/20,P,Parental+,316,retrieve both pups,,Agg+,313,,,,,Hunt-,,,,cricket,Hunt-,,,1,,13/12/20
+BRAC5132.4d,food_deprivation,334,03/10/20,M,Parental-,,,,Agg+,163,,,,,Hunt-,,,,cricket,Hunt+,224,,1,,13/12/20
+BRAC5196.2g,food_deprivation,335,03/10/20,E,Parental+,,build a nest around the pups,,Agg-,,Parental+,,build a nest around only one pup,,Hunt-,,,,cricket,Hunt-,,,1,,13/12/20
+BRAC5148.5d,food_deprivation,335,03/10/20,D,Parental-,,,,Agg-,,Parental-,,,,Hunt+,692,,,cricket,Hunt+,20,,1,,18/12/20
+BRAC5077.5c,food_deprivation,,03/10/20,M,Parental+,,build a nest around the pups,,Agg+,79,,,,0.9,Agg-,,Agg-,,intruder,Agg-,,Agg-,1,,18/12/20
+BRAC5077.5b,food_deprivation,,03/10/20,D,Parental-,,,0.3,Agg+,397,,,retrieve the other pup to the nest,0.9,Agg-,,Agg-,,intruder,Agg-,,Agg-,1,,18/12/20
+BRAC5077.5d,food_deprivation,,03/10/20,M,Parental-,,,0.3,Agg+,59,,,,0.7,Agg-,,Agg-,,intruder,Agg-,,Agg-,1,,18/12/20
+BRAC4939.7d,food_deprivation,,04/10/20,M,Parental-,,some grooming but not a lot,0.2,Agg+,266,,,,,Agg-,,Agg-,,intruder,Agg-,,Agg-,1,,18/12/20
+BRAC4939.7c,food_deprivation,,04/10/20,P,Parental-,,,0.2,Agg+,145,,,,0.8,Agg-,,Agg-,,intruder,Agg-,,Agg-,1,,18/12/20
+BRAC5077.5e,food_deprivation,,03/10/20,D,Parental-,,,0.2,Agg-,,Parental-,,,0.6,Agg-,,Agg-,,intruder,Agg-,,Agg-,1,,18/12/20
+BRAC5077.5a,food_deprivation,,03/10/20,M,Parental-,,,0.1,Agg+,62,,,,,Agg-,,Agg-,,intruder,Agg-,,Agg-,1,,18/12/20
+BRAC4939.7e,food_deprivation,,04/10/20,D,Parental+,231,retrieve both pups,0.1,Agg-,,Parental+,222,retrieve both pups,0.5,Agg-,,Agg-,,intruder,Agg-,,Agg-,1,,18/12/20
+BRAC4895.5b,food_deprivation,,17/10/20,D,Parental+,726,retrieve one pup,0.1,Agg-,,Parental-,,,0.4,Agg-,,Agg-,,intruder,Agg-,,Agg-,1,,20/12/20
+BRAC4895.5e,food_deprivation,,17/10/20,,Parental+,,build a nest around the pups,0,Agg-,,Parental+,,build a nest around only one pup,0.5,Agg-,,Agg-,,intruder,Agg-,,Agg-,1,,20/12/20
+BRAC4895.5d,food_deprivation,,17/10/20,M,Parental-,,,0,Agg+,151,,,,,Agg-,,Agg-,,intruder,Agg-,,Agg-,1,,20/12/20
+BRAC4895.5c,food_deprivation,,17/10/20,E,Parental+,,build a nest around the pups,0,Agg-,,Parental+,,build a nest around only one pup,1.1,Agg-,,Agg-,,intruder,Agg-,,Agg-,1,,20/12/20
+BRAC4943.6b,food_deprivation,,17/10/20,D,Parental-,,show pup-directed aggression(latency 486),0.2,Agg+,193,,,,0.7,Agg-,,Agg-,,intruder,Agg-,,Agg-,1,,20/12/20
+BRAC5007.4d,food_deprivation,,16/10/20,D,Parental-,,,0.1,Agg-,,Parental+,470,retrieve both pups,0.7,Agg-,,Agg-,,intruder,Agg-,,Agg-,1,,20/12/20
+BRAC5007.4c,food_deprivation,,16/10/20,D,Parental+,476,retrieve both pups,0.2,Agg+,568,,,retrieve the other pup to the nest,0.7,Agg-,,Agg-,,intruder,Agg-,,Agg-,1,,20/12/20
+BRAC4943.6c,food_deprivation,,17/10/20,P,Parental+,,build a nest around the pups (late onset),0,Agg+,114,,,,0.8,Agg-,,Agg-,,intruder,Agg-,,Agg-,1,,20/12/20
+BRAC5163.3h,food_deprivation,,,M,Parental+,,build a nest around the pups,,Agg-,,Parental+,,build a nest around the pups,,,,,,pup,,,,2,food_deprivation(4),15/11/20
+BRAC4857.7j,food_deprivation,,,P,Parental+,,"retrieve both pups, no one way retrieval",,Agg+,145,,,,,,,,,pup,,,,2,food_deprivation(4),15/11/20
+BRAC5163.3h,food_deprivation,,,M,Parental+,2,"retrieve both pups, retrieve the second one a few minutes later",,Agg-,,Parental+,180,retrieve both pups,0.4,,,,,pup,,,,3,food_deprivation(4),19/11/20
+BRAC4857.7j,food_deprivation,,,M,Parental+,,build a nest around the pups,0.6,Agg-,,Parental+,,long grooming time,0.6,,,,,pup,,,,3,food_deprivation(4),19/11/20
+BRAC5163.3h,food_deprivation,,,D,Parental+,,retrieve both pups,0.1,Agg-,,Parental+,,build a nest around the pups,,,,,,pup,,,,4,food_deprivation(4),23/11/20
+BRAC4857.7j,food_deprivation,,,D,Parental+,,retrieve both pups,0.6,Agg-,,Parental+,62,retrieve both pups,,,,,,pup,,,,4,food_deprivation(4),23/11/20
+BRAC4709.7c,food_deprivation,,,P,Parental+,,build a nest around the pups (only for one pup),0.2,Agg-,,Parental+,,build a nest around the pups(only for one pup),0.8,,,,,pup,,,,2,food_deprivation(4),26/11/20
+BRAC4709.7d,food_deprivation,,,M,Parental+,,build a nest around the pups,0.3,Agg-,,Parental+,,long bouts of grooming and crouching,0.3,,,,,pup,,,,2,food_deprivation(4),26/11/20
+BRAC4742.4b,food_deprivation,,,P,Parental+,,build a nest around the pups,0.1,Agg-,,Parental+,,build a nest around the pups,0.4,,,,,pup,,,,2,food_deprivation(4),26/11/20
+BRAC4742.4c,food_deprivation,,,E,Parental+,,build a nest around the pups,0.2,Agg-,,Parental+,,build a nest around the pups,0.5,,,,,pup,,,,2,food_deprivation(4),26/11/20
+BRAC4709.7c,food_deprivation,,,P,Parental+,,build a nest around the pups,0.4,Agg-,,Parental+,12,retrieve both pups,0.4,,,,,pup,,,,3,food_deprivation(4),30/11/20
+BRAC4709.7d,food_deprivation,,,M,Parental+,193,retrieve both pups,0.2,Agg-,,Parental+,,build a nest around the pups (very slow onset),0.6,,,,,pup,,,,3,food_deprivation(4),30/11/20
+BRAC4742.4b,food_deprivation,,,E,Parental+,,build a nest around the pups (only for one pup),0,Agg-,,Parental+,3,retrieve both pups,0.5,,,,,pup,,,,3,food_deprivation(4),30/11/20
+BRAC4742.4c,food_deprivation,,,P,Parental+,,build a nest around the pups (late onset),0.1,Agg-,,Parental+,,build a nest around the pups,0.2,,,,,pup,,,,3,food_deprivation(4),30/11/20
+BRAC5178.2i,food_deprivation,,,P,Parental-,,retrieve both but not parental,0,Agg-,,Parental+,,retrieve both pups,0.2,,,,,pup,,,,2,food_deprivation(4),07/12/20
+BRAC4908.4e,food_deprivation,,,P,Parental-,,,0.4,Agg-,,Parental-,,,0.8,,,,,pup,,,,2,food_deprivation(4),07/12/20
+BRAC5178.2j,food_deprivation,,,P,Parental+,140,retrieve both pups,0.2,Agg+,190,,,,1,,,,,pup,,,,2,food_deprivation(4),07/12/20
+BRAC5215.1c,food_deprivation,,,E,Parental+,167,"retrieve both pups, initial contact with the pups a bit aggressive, video unplugged in middle",0.1,Agg-,,Parental+,74,retrieve both pups,0.3,,,,,pup,,,,2,food_deprivation(4),07/12/20
+BRAC4673.7b,food_deprivation,,,P,Parental-,,retrieve one and attempt to build a nest around the other but not enough parenting time,,Agg-,,Parental+,,build a nest around the pups,,,,,,pup,,,,2,food_deprivation(4),07/12/20
+BRAC5215.1d,food_deprivation,,,E,Parental+,,"retrieve both pups but not directly to the nest, video unplugged in middle",0.2,Agg+,77,,,"weirdly, pup was first retrieved to the nest",0.5,,,,,pup,,,,2,food_deprivation(4),07/12/20
+BRAC4908.4f,food_deprivation,,,E,Parental+,248,retrieve both pups,0,Agg-,,Parental+,13,retrieve one pups,0.4,,,,,pup,,,,2,food_deprivation(4),07/12/20
+BRAC4673.7c,food_deprivation,,,E,Parental-,,,0.1,Agg-,,Parental-,,,0.6,,,,,pup,,,,2,food_deprivation(4),07/12/20
+BRAC5204.2i,food_deprivation,347,17/10/20,D,Parental+,,,0.2,Agg-,,Parental+,111,retrieve both pups,0.8,,,,,maze,,,,1,,12/01/21
+BRAC5266.1g,food_deprivation,334,18/10/20,D,Parental-,,,0,Agg-,,Parental-,,,0.1,,,,,maze,,,,1,,12/01/21
+BRAC5266.1f,food_deprivation,334,18/10/20,M,Parental-,,,0,Agg+,292,,,,0.7,,,,,maze,,,,1,,12/01/21
+BRAC5204.2j,food_deprivation,347,17/10/20,M,Parental-,,,0.1,Agg+,162,,,,0.6,,,,,maze,,,,1,,12/01/21
+BRAC5195.3c,food_deprivation,341,17/10/20,D,Parental-,,,0.2,Agg-,,Parental-,,,0.4,,,,,maze,,,,1,,13/01/21
+BRAC5195.3e,food_deprivation,341,17/10/20,,Parental-,,,0.3,Agg-,,,,,0.3,,,,,maze,,,,1,,13/01/21
+BRAC5195.3d,food_deprivation,339,17/10/20,P,Parental+,386,retrieve one pup and build the nest around the pups( the other pup crawl to the nest),0.2,Agg+,111,,,,0.8,,,,,maze,,,,1,,13/01/21
+BRAC5204.2h,food_deprivation,339,17/10/20,M,Parental-,,,,Agg+,273,,,,1.1,,,,,maze,,,,1,,13/01/21
+BRAC5048.5e,food_deprivation,332,18/10/20,P,Parental+,254,retrieve both pups,0.1,Agg+,306,,,,0.7,,,,,maze,,,,1,,14/01/21
+BRAC5081.3c,food_deprivation,332,17/10/20,M,Parental-,,,0,Agg+,429,,,,0.7,,,,,maze,,,,1,,14/01/21
+BRAC5081.3e,food_deprivation,344,17/10/20,P,Parental-,,,0.1,Agg+,56,,,,0.6,,,,,maze,,,,1,,14/01/21
+BRAC5081.3d,food_deprivation,344,17/10/20,E,Parental-,,retrieve both but not parental,,Agg+,73,,,,0.8,,,,,maze,,,,1,,14/01/21
+BRAC5018.4d,food_deprivation,,18/10/20,P,Parental-,,,0,Agg-,,Parental+,,build a nest around the pups,0.8,,,,,maze,,,,1,,19/01/21
+BRAC5048.5d,food_deprivation,,18/10/20,E,Parental-,,,0.2,Agg-,,Parental-,,,0.6,,,,,maze,,,,1,,19/01/21
+BRAC5048.5c,food_deprivation,,18/10/20,D,Parental+,,build a nest around the pups,0,Agg-,,Parental+,,build a nest around the pups (a bit late onset),0.4,,,,,maze,,,,1,,19/01/21
+BRAC5018.4e,food_deprivation,,18/10/20,D,Parental-,,retrieve one pup but not parental,0.1,Agg-,,Parental+,365,retrieve both pups,0.4,,,,,maze,,,,1,,19/01/21
+BRAC5204.2i,food_deprivation,,,M,Parental+,15,retrieve both pups,0.1,Agg-,,Parental+,8,retrieve both pups,0.7,,,,,pup,,,,2,food_deprivation(4),16/01/21
+BRAC5266.1g,food_deprivation,,,M,Parental+,139,retrieve both pups,0.1,Agg-,,Parental+,505,retrieve both pups,0.5,,,,,pup,,,,2,food_deprivation(4),16/01/21
+BRAC5266.1f,food_deprivation,,,D,Parental+,,build a nest around the pups,0,Agg-,,Parental+,,build a nest around pups,0.2,,,,,pup,,,,2,food_deprivation(4),16/01/21
+BRAC5204.2j,food_deprivation,,,P,Parental+,220,retrieve both pups,0.1,Agg-,,Parental+,282,retrieve both pups,0.6,,,,,pup,,,,2,food_deprivation(4),16/01/21
+BRAC5195.3c,food_deprivation,,,D,Parental-,,attempt to make a nest but not enough parenting time,0.1,Agg-,,Parental-,,,0.5,,,,,pup,,,,2,food_deprivation(4),17/01/21
+BRAC5195.3e,food_deprivation,,,E,Parental-,,attempt to make a nest but not enough parenting time,0.1,Agg-,,Parental+,,build a nest around the pups,0.1,,,,,pup,,,,2,food_deprivation(4),17/01/21
+BRAC5195.3d,food_deprivation,,,P,Parental+,168,retrieve both pups,0.2,Agg-,,Parental+,140,retrieve both pups,0.3,,,,,pup,,,,2,food_deprivation(4),17/01/21
+BRAC5204.2h,food_deprivation,,,M,Parental+,248,retrieve both pups,0,Agg-,,Parental+,293,retrieve both pups,0.6,,,,,pup,,,,2,food_deprivation(4),17/01/21
+BRAC5048.5e,food_deprivation,,,P,Parental+,,build a nest around the pups,0.2,Agg-,,Parental+,136,retrieve both pups,0.3,,,,,pup,,,,2,food_deprivation(4),18/01/21
+BRAC5081.3c,food_deprivation,,,M,Parental-,,attempt to make a nest but not enough parenting time,0,Agg-,,Parental+,,build a nest around only one pup,0.2,,,,,pup,,,,2,food_deprivation(4),18/01/21
+BRAC5081.3e,food_deprivation,,,P,Parental+,185,retrieve both pups,0.1,Agg+,162,,,,0.5,,,,,pup,,,,2,food_deprivation(4),18/01/21
+BRAC5081.3d,food_deprivation,,,D,Parental+,111,retrieve both pups,0.2,Agg+,65,,,,0.5,,,,,pup,,,,2,food_deprivation(4),18/01/21
+BRAC5204.2i,food_deprivation,,,P,Parental+,55,retrieve both pups,0.1,Agg-,,Parental+,19,retrieve both pups,0.7,,,,,pup,,,,3,food_deprivation(4),20/01/21
+BRAC5204.2j,food_deprivation,,,E,Parental+,481,retrieve both pups,0.3,Agg-,,Parental-,,"mouse confused, tried to build a test but too little parenting time",0.4,,,,,pup,,,,3,food_deprivation(4),20/01/21
+BRAC5266.1f,food_deprivation,,,E,Parental+,,build a nest around the pups,0,Agg-,,Parental+,304,retrieve both pups,0.4,,,,,pup,,,,3,food_deprivation(4),20/01/21
+BRAC5266.1g,food_deprivation,,,M,Parental+,363,retrieve both pups,0.1,Agg-,,Parental+,418,retrieve both pups,0.6,,,,,pup,,,,3,food_deprivation(4),20/01/21
+BRAC5195.3e,food_deprivation,,,M,Parental+,209,retrieve both pups,0,Agg-,,Parental+,13,retrieve both pups,0.3,,,,,pup,,,,3,food_deprivation(4),21/01/21
+BRAC5195.3c,food_deprivation,,,M,Parental+,575,retrieve both pups,0.2,Agg-,,Parental+,358,retrieve both pups,0.1,,,,,pup,,,,3,food_deprivation(4),21/01/21
+BRAC5195.3d,food_deprivation,,,P,Parental+,35,retrieve both pups,0.2,Agg-,,Parental+,104,retrieve both pups,0.3,,,,,pup,,,,3,food_deprivation(4),21/01/21
+BRAC5204.2h,food_deprivation,,,P,Parental+,148,retrieve both pups,0.4,Agg-,,Parental+,84,retrieve both pups,0.6,,,,,pup,,,,3,food_deprivation(4),21/01/21
+BRAC5081.3e,food_deprivation,,,P,Parental+,116,"retrieve both pups, one pup run out of the next later",0.2,Agg+,259,,,,0.9,,,,,pup,,,,3,food_deprivation(4),22/01/21
+BRAC5081.3c,food_deprivation,,,P,Parental+,,build a nest around the pups,0.1,Agg-,,Parental+,,build a nest around the pups,0.8,,,,,pup,,,,3,food_deprivation(4),22/01/21
+BRAC5048.5e,food_deprivation,,,P,Parental+,47,retrieve both pups,0.3,Agg-,,Parental+,13,retrieve both pups,1,,,,,pup,,,,3,food_deprivation(4),22/01/21
+BRAC5081.3d,food_deprivation,,,P,Parental+,128,retrieve both pups,0.2,Agg-,,Parental+,,build a nest around the pups really late but a lot of grooming,1,,,,,pup,,,,3,food_deprivation(4),22/01/21
+BRAC5048.5c,food_deprivation,,,E,Parental+,26,retrieve both pups,0.1,Agg-,,Parental+,46,retrieve both pups,0.1,,,,,pup,,,,2,food_deprivation(4),23/01/21
+BRAC5018.4e,food_deprivation,,,M,Parental+,391,retrieve both pups,0.1,Agg-,,Parental+,129,retrieve both pups,0.5,,,,,pup,,,,2,food_deprivation(4),23/01/21
+BRAC5018.4d,food_deprivation,,,P,Parental+,91,retrieve both pups,0.1,Agg-,,Parental+,19,retrieve both pups,0.6,,,,,pup,,,,2,food_deprivation(4),23/01/21
+BRAC5048.5d,food_deprivation,,,P,Parental+,,"build a nest around the pups (late onset), spent some time messing around",0.2,Agg-,,Parental+,,build a nest around the pups,0.6,,,,,pup,,,,2,food_deprivation(4),23/01/21
+BRAC5204.2i,food_deprivation,,,D,Parental-,,,0.3,Agg-,,Parental+,,build a nest around the pups (late onset),0.6,,,,,pup,,,,4,food_deprivation(4),24/01/21
+BRAC5204.2j,food_deprivation,,,E,Parental+,94,retrieve both pups,0.1,Agg-,,Parental+,20,retrieve both pups,0.5,,,,,pup,,,,4,food_deprivation(4),24/01/21
+BRAC5266.1f,food_deprivation,,,E,Parental+,,build a nest around the pups,0.1,Agg-,,Parental+,,build a nest around one pup and retrieve the left out,0.3,,,,,pup,,,,4,food_deprivation(4),24/01/21
+BRAC5266.1g,food_deprivation,,,E,Parental+,106,retrieve both pups,0.2,Agg-,,Parental+,141,retrieve both pups,0.6,,,,,pup,,,,4,food_deprivation(4),24/01/21
+BRAC5195.3e,food_deprivation,,,M,Parental+,13,retrieve both pups,0.2,Agg-,,Parental+,31,retrieve both pups,0.4,,,,,pup,,,,4,food_deprivation(4),25/01/21
+BRAC5195.3c,food_deprivation,,,D,Parental+,471,retrieve both pups,0.1,Agg-,,Parental+,178,retrieve both pups,0.3,,,,,pup,,,,4,food_deprivation(4),25/01/21
+BRAC5204.2h,food_deprivation,,,D,Parental+,187,retrieve both pups,0.4,Agg-,,Parental+,33,retrieve both pups,0.6,,,,,pup,,,,4,food_deprivation(4),25/01/21
+BRAC5195.3d,food_deprivation,,,P,Parental+,180,retrieve both pups,0.3,Agg-,,Parental+,71,retrieve both pups,0.3,,,,,pup,,,,4,food_deprivation(4),25/01/21
+BRAC5081.3e,food_deprivation,,,P,Parental+,265,retrieve both pups,0.5,Agg-,,Parental+,642,"retrieve one pup, parental program starts really late",0.4,,,,,pup,,,,4,food_deprivation(4),26/01/21
+BRAC5081.3d,food_deprivation,,,D,Parental-,,some nesting behaviour but not enough time with the pups,0.6,Agg-,,Parental+,,build a nest around the pups(tiny late onset),0.8,,,,,pup,,,,4,food_deprivation(4),26/01/21
+BRAC5081.3c,food_deprivation,,,P,Parental+,,build a nest around the pups,0.3,Agg-,,Parental+,,build a nest around the pups,0.5,,,,,pup,,,,4,food_deprivation(4),26/01/21
+BRAC5048.5e,food_deprivation,,,D,Parental+,35,retrieve both pups,0.4,Agg-,,Parental+,17,retrieve both pups,0.7,,,,,pup,,,,4,food_deprivation(4),26/01/21
+BRAC5048.5c,food_deprivation,,,D,Parental+,8,retrieve both pups,0.1,Agg-,,Parental+,141,retrieve both pups,0.2,,,,,pup,,,,3,food_deprivation(5),28/01/21
+BRAC5018.4e,food_deprivation,,,M,Parental+,140,retrieve both pups,0.3,Agg-,,Parental+,89,retrieve both pups,0.4,,,,,pup,,,,3,food_deprivation(5),28/01/21
+BRAC5018.4d,food_deprivation,,,E,Parental+,126,retrieve both pups,0.1,Agg-,,Parental+,335,retrieve both pups,0.4,,,,,pup,,,,3,food_deprivation(5),28/01/21
+BRAC5048.5d,food_deprivation,,,P,Parental+,,build a nest around the pups (late onset),0.3,Agg-,,Parental+,,build a nest around only one pup,0.3,,,,,pup,,,,3,food_deprivation(5),28/01/21
+BRAC5048.5c,food_deprivation,,,E,Parental+,15,retrieve both pups,,Agg-,,Parental+,6,retrieve both pups,0.3,,,,,pup,,,,4,food_deprivation(4),01/02/21
+BRAC5018.4e,food_deprivation,,,M,Parental+,98,retrieve both pups,,Agg-,,Parental+,46,retrieve both pups,0.3,,,,,pup,,,,4,food_deprivation(4),01/02/21
+BRAC5018.4d,food_deprivation,,,E,Parental+,,build a nest around the pups,,Agg-,,Parental+,593,retrieve both pups,0.6,,,,,pup,,,,4,food_deprivation(4),01/02/21
+BRAC5048.5d,food_deprivation,,,M,Parental+,,build a nest around the pups,,Agg-,,Parental+,,build a nest around the pups,0.5,,,,,pup,,,,4,food_deprivation(4),01/02/21
+BRAC5066.7c,food_deprivation,324,11/01/21,M,,,,,Agg-,,,,,,,,,,elisa,,,,1,,08/03/21
+BRAC5066.7b,food_deprivation,317,11/01/21,M,,,,,Agg-,,,,,,,,,,elisa,,,,1,,08/03/21
+BRAC5508.1g,food_deprivation,314,02/01/21,E,,,,,Agg-,,,,,,,,,,elisa,,,,1,,04/03/21
+BRAC5504.1k,food_deprivation,313,30/12/20,D,,,,,Agg-,,,,,,,,,,elisa,,,,1,,04/03/21
+BRAC5302.3j,food_deprivation,315,28/12/20,P,,,,,Agg-,,,,,,,,,,elisa,,,,1,,03/03/21
+BRAC5504.1l,food_deprivation,312,30/12/20,D,,,,,Agg+,,,,,,,,,,elisa,,,,1,,03/03/21
+BRAC5504.1h,food_deprivation,353,30/12/20,M,,,,,Agg-,,,,,,,,,,elisa,,,,1,,02/03/21
+BRAC5510.1d,food_deprivation,352,02/01/21,M,,,,,Agg-,,,,,,,,,,elisa,,,,1,,02/03/21
+BRAC5504.1i,food_deprivation,347,30/12/20,E,,,,,Agg-,,,,,,,,,,elisa,,,,1,,02/03/21
+BRAC5302.3i,food_deprivation,337,28/12/20,D,,,,,Agg-,,,,,,,,,,elisa,,,,1,,02/03/21
+BRZZ180.4b,water_deprivation,315,,M,Parental+,308,,,Agg-,,Parental+,,build a nest around the pups,,,,,,pup,,,,1,,18/12/19
+BRZZ136.4c,water_deprivation,346,,E,Parental+,120,retrieve both pups,,Agg-,,Parental+,100,,,,,,,pup,,,,2,all_stressor_2h(20),05/03/20
+BRZZ136.4e,water_deprivation,346,,E,Parental+,59,retrieve both pups,,Agg-,,Parental+,551,,,,,,,pup,,,,2,all_stressor_2h(9),05/03/20
+BRZZ371.2f,water_deprivation,344,,E,Parental-,,,,Agg-,,Parental+,,build a nest around the pups,,,,,,pup,,,,2,all_stressor_2h(16),05/03/20
+BRZZ371.2e,water_deprivation,344,,P,Parental+,,build a nest around the pups,,Agg-,,Parental+,,build a nest around the pups,,,,,,pup,,,,2,all_stressor_2h(16),05/03/20
+BRZZ260.4e,water_deprivation,348,,M,Parental-,,,,Agg-,,Parental-,,,,,,,,pup,,,,1,,11/03/20
+BRZZ169.6g,water_deprivation,348,,E,Parental+,,build a nest around the pups,,Agg-,,Parental+,,build a nest around the pups,,,,,,pup,,,,1,,11/03/20
+BRZZ136.4f,water_deprivation,345,,P,Parental+,338,retrieve both pups,,Agg-,,Parental+,413,,,,,,,pup,,,,1,,11/03/20
+BRZZ371.2h,water_deprivation,345,,E,Parental+,,build a nest around the pups,,Agg-,,Parental+,,build a nest around the pups,,,,,,pup,,,,2,all_stressor_2h(9),11/03/20
+BRAC4924.6d,water_deprivation,310,,P,Parental-,,,,Agg-,,Parental-,,more parental than state_before,,,,,,pup,,,,1,,19/11/20
+BRAC4908.4g,water_deprivation,310,,E,Parental-,,,,Agg-,,Parental-,,,,,,,,pup,,,,1,,19/11/20
+BRAC4908.4h,water_deprivation,310,,D,Parental-,,,,Agg-,,Parental-,,,,,,,,pup,,,,1,,19/11/20
+BRAC4924.6c,water_deprivation,343,,M,Parental-,,retrieve both but not parental,,Agg-,,Parental+,710,retrieve both pups,,,,,,pup,,,,1,,19/11/20
+JKAM3.2e,light_cycle_disturbed,338,,E,Parental+,15,,,Agg-,,Parental+,34,,,,,,,pup,,,,1,,05/12/19
+JKAM2.2g,light_cycle_disturbed,345,,M,Parental+,282,,,Agg-,,Parental+,,build a nest around the pups,,,,,,pup,,,,1,,06/12/19
+JKAM2.2d,light_cycle_disturbed,345,,D,Parental+,,build a nest around the pups,,Agg-,,Parental+,209,,,,,,,pup,,,,1,,06/12/19
+BRZZ329.2c,light_cycle_disturbed,354,,P,Parental+,171,retrieve both pups,,Agg-,,Parental+,88,retrieve both pups,,,,,,pup,,,,1,,07/12/19
+BRZZ154.3f,light_cycle_disturbed,354,,D,Parental+,,build a nest around the pups,,Agg-,,Parental+,535,retrieve both pups,,,,,,pup,,,,1,,07/12/19
+BRZZ329.2d,light_cycle_disturbed,341,,P,Parental+,97,retrieve both pups,,Agg-,,Parental+,56,retrieve both pups,,,,,,pup,,,,1,,07/12/19
+BRZZ144.4i,light_cycle_disturbed,341,,M,Parental+,426,"first retrieval not completely to the nest, retrieve both pups",,Agg-,,Parental+,218,retrieve both pups,,,,,,pup,,,,1,,07/12/19
+BRZZ101.5b,light_cycle_disturbed,339,,D,Parental-,,,,Agg-,,Parental+,188,retrieve both pups,,,,,,pup,,,,1,,16/12/19
+BRZZ101.5c,light_cycle_disturbed,339,,D,Parental+,263,retrieve both pups,,Agg-,,Parental+,,build a nest around the pups,,,,,,pup,,,,1,,16/12/19
+BRZZ260.2g,light_cycle_disturbed,405,,P-E,Parental+,101,retrieve both pups,,Agg-,,Parental+,,,,,,,,pup,,,,1,,16/12/19
+BRZZ154.3e,light_cycle_disturbed,405,,M,Parental-,,retrieve but little parenting time,,Agg-,,Parental+,,build a nest around the pups,,,,,,pup,,,,1,,16/12/19
+BRZZ109.6e,novel_env,,,E,,,,,Agg-,,,,,,,,,,pup,,,,1,,29/12/19
+BRZZ109.6c,novel_env,,,D,,,,,Agg-,,,,,,,,,,pup,,,,1,,29/12/19
+BRZZ374.3f,novel_env,347,,,Parental-,,,,Agg-,,Parental-,,,,,,,,pup,,,,1,,20/03/20
+BRZZ410.4g,novel_env,347,,,Parental-,,only one pups was put into the cage,,Agg-,,Parental-,,only one pup was put into the cage,,,,,,pup,,,,1,,20/03/20
+BRZZ410.4f,novel_env,338,,,Parental+,394,retrieve both pups,,Agg-,,Parental-,,,,,,,,pup,,,,1,,20/03/20
+BRZZ374.3h,novel_env,338,,,Parental-,,only one pups was put into the cage,,Agg-,,Parental+,,only one pup was put into the cage,,,,,,pup,,,,1,,20/03/20
+BRZZ374.3i,novel_env,349,,,Parental-,,,,Agg-,,Parental-,,,,,,,,pup,,,,1,,20/03/20
+BRZZ374.3g,novel_env,349,,,Parental+,498,retrieve both pups,,Agg-,,Parental-,,only crouch one pup,,,,,,pup,,,,1,,20/03/20
+BRZZ410.4e,novel_env,346,,,Parental-,,,,Agg-,,Parental-,,some really rigorous sniffing,,,,,,pup,,,,1,,20/03/20
+BRZZ410.4h,novel_env,346,,,Parental+,502,,,Agg-,,Parental-,,,,,,,,pup,,,,1,,20/03/20
+BRZZ109.6e,all_stressor_plus_food,369,,E,Parental-,,,,Agg-,,Parental-,,,,,,,,pup,,,,1,,29/12/19
+BRZZ109.6c,all_stressor_plus_food,400,,D,Parental+,86,retrieve both pups,,Agg-,,Parental+,,,,,,,,pup,,,,1,,29/12/19
+BRZZ132.5g,all_stressor_plus_food,369,,D,Parental-,,nest building but no other parental acts,,Agg-,,Parental+,,,,,,,,pup,,,,2,food_deprivation(7),29/12/19
+BRZZ200.5f,all_stressor_plus_food,344,,M,Parental+,137,retrieve both pups,,Agg-,,Parental+,,,,,,,,pup,,,,2,food_deprivation(9),30/12/19
+JKAM2.2e,all_stressor_plus_food,344,,D,Parental+,148,retrieve both pups,,Agg-,,Parental+,,,,,,,,pup,,,,2,,30/12/19
+BRZZ200.5e,all_stressor_plus_food,307,,D,Parental+,,build a nest around the pups,,Agg-,,Parental+,,,,,,,,pup,,,,2,food_deprivation(10),31/12/19
+BRZZ260.2h,all_stressor_plus_food,367,,E,Parental+,,build a nest around the pups,,Agg-,,Parental+,,,,,,,,pup,,,,2,all_stressor_5h(7),02/01/20
+BRZZ132.5f,all_stressor_plus_food,367,,D,Parental+,,build a nest around the pups,,Agg-,,Parental+,,,,,,,,pup,,,,2,all_stressor_5h(7),02/01/20
+BRAC4857.7h,all_stressor_plus_food,298,,D,Parental-,,,,Agg-,,Parental+,,,,,,,,pup,,,,1,,11/11/20
+BRAC5178.2h,all_stressor_plus_food,298,,P,Parental+,385,retrieve both pups,,Agg-,,Parental+,,,,,,,,pup,,,,1,,11/11/20
+BRAC4857.7k,all_stressor_plus_food,300,,M,Parental+,121,retrieve both pups,,Agg-,,Parental+,,,,,,,,pup,,,,1,,11/11/20
+BRAC4857.7i,all_stressor_plus_food,300,,M,Parental+,299,retrieve both pups,,Agg-,,Parental+,,,,,,,,pup,,,,1,,11/11/20
+BRAC5163.3g,all_stressor_plus_food,315,,E,Parental+,,build a nest around the pups,,Agg-,,Parental+,,,,,,,,pup,,,,1,,11/11/20
+BRAC5163.3f,all_stressor_plus_food,303,,M,Parental-,,,,Agg-,,Parental+,,,,,,,,pup,,,,1,,11/11/20
+BRAC5383.3c,food_deprivation,,,,Parental-,,late retrieval both but little interaction,0.1,Agg+,147,,,,0.8,,,,7,PD2,,,,1,,13/04/21
+BRAC5383.3h,food_deprivation,,,,Parental+,,build a nest around the pups,0.2,Agg+,105,,,,0.6,,,,7,PD2,,,,1,,13/04/21
+BRAC5385.5d,food_deprivation,,,,Parental+,151,retrieve both pups,0.4,Agg+,569,,,,0.9,,,,7,PD2,,,,1,,14/04/21
+BRAC5603.2d,food_deprivation,,,,Parental+,,build a nest around the pups,0.1,Agg-,,Parental+,,build a nest around one pup,0.5,,,,,PD2,,,,1,,16/05/21
+BRAC5385.5c,food_deprivation,,,,Parental-,,,,,,,,,,,,,,PD2_pre,,,,1,,16/04/21
+BRAC5922.1d,food_deprivation,,,,Parental+,,build a nest around both pups (late onset),0.3,Agg-,,Parental+,,long bouts of grooming and crouching,0.6,,,,,PD2,,,,1,,06/06/21
+BRAC5529.4c,food_deprivation,,,,Parental-,,,0.2,Agg-,,Parental+,,long bouts of grooming and crouching,0.4,,,,,PD2_NP,,,,1,,06/06/21
+BRAC5529.4e,food_deprivation,,,,Parental+,,build a nest around both pups,0.5,Agg-,,Parental+,,build a nest around both pups,0.5,,,,,PD2,,,,1,,06/06/21
+BRAC5922.1c,food_deprivation,,,,Parental-,,,0.3,Agg+,,,,,0.9,,,,,PD2_NP,,,,1,,07/06/21
+BRAC5922.1b,food_deprivation,,,,Parental-,,,0.4,Agg-,,Parental-,,,0.3,,,,,PD2,,,,1,,07/06/21
+BRAC5204.4c,food_deprivation,360,,,Parental+,,build a nest around both pups,0.4,Agg-,,Parental+,,build a nest around both pups,0.9,,,,8,PD10,,,,1,,11/04/21
+BRAC5585.1f,food_deprivation,360,,,Parental-,,,0.4,Agg+,131,,,,0.7,,,,3,PD10,,,,1,,11/04/21
+BRAC5583.1g,food_deprivation,360,,,Parental+,147,retrieve both pups,0.4,Agg-,,Parental+,308,retrieve both pups,0.5,,,,5,PD10,,,,1,,11/04/21
+BRAC5583.1h,food_deprivation,360,,,Parental+,201,retrieve both pups,0.7,Agg-,,Parental+,,build a nest around both pups,,,,,7,PD10,,,,1,,11/04/21
+BRAC5575.1d,food_deprivation,,,,Parental+,,pup crawling to nest,0.2,Agg-,,Parental-,,,1.1,,,,8,PD10,,,,1,,12/04/21
+BRAC5383.3g,food_deprivation,,,,Parental+,,build a nest around the pups,0.2,Agg-,,Parental+,,build a nest around both pups,0.6,,,,9,PD10,,,,1,,21/04/21
+BRAC5480.3g,food_deprivation,,,,Parental-,819,late retrieve one pup,0.3,Agg+,663,,,,0.8,,,,8,PD10,,,,1,,22/04/21
+BRAC5383.3f,food_deprivation,,,,Parental+,,build a nest around the pups,0.3,Agg+,262,,,,,,,,7,PD10,,,,1,,23/04/21
+BRAC5585.1e,food_deprivation,,,,Parental+,,build a nest around one pup,0.1,Agg+,265,,,,1.2,,,,4,PD18,,,,1,,17/04/21
+BRAC5506.2e,food_deprivation,,,,Parental-,,,0,Agg-,675,Parental-,,retrieve both pups late,0.5,,,,5,PD18,,,,1,,17/04/21
+BRAC5204.4d,food_deprivation,,,,Parental+,159,retrieve both pups,0.1,Agg-,,Parental+,28,retrieve both pups,1.1,,,,8,PD18,,,,1,,18/04/21
+BRAC5587.1e,food_deprivation,,,,Parental+,82,retrieve both pups,0.1,Agg-,,Parental+,40,retrieve both pups,0.6,,,,7,PD18,,,,1,,18/04/21
+BRAC5480.3f,food_deprivation,,,,Parental+,22,retrieve both pups,,Agg-,,Parental+,85,retrieve both pups,1.2,,,,7,PD18,,,,1,,30/04/21
+BRAC5383.3e,food_deprivation,,,,Parental+,295,retrieve both pups,,Agg-,,Parental+,144,retrieve both pups,0.7,,,,6,PD18,,,,1,,30/04/21
+BRAC5685.1g,food_deprivation,,,,Parental+,,lick pups to nest,0.4,Agg-,,Parental+,41,retrieve both pups,0.7,,,,,PD18,,,,1,,30/05/21
+BRAC5686.1f,food_deprivation,,,,Parental+,,build a nest around both pups,0.1,Agg-,,Parental+,,build a nest around both pups,,,,,,PD18,,,,1,,31/05/21
+BRAC5481.2f,food_deprivation,,,E,,,,0.1,NA,,,,,0.6,,,,,pup_absent,,,,1,,27/04/21
+BRAC5481.2e,food_deprivation,,,M,,,,0.1,NA,,,,,0.3,,,,,pup_absent,,,,1,,27/04/21
+BRAC5479.3d,food_deprivation,,,P,,,,0.1,NA,,,,,0.6,,,,,pup_absent,,,,1,,27/04/21
+BRAC5479.3e,food_deprivation,,,P,,,,0,NA,,,,,0.6,,,,,pup_absent,,,,1,,27/04/21
+BRAC5546.3b,food_deprivation,,,E,,,,0.1,NA,,,,,0.6,,,,,pup_absent,,,,1,,27/04/21
+BRAC5603.2d,food_deprivation,,,D,,,,0.3,NA,,,,,0.8,,,,,pup_absent,,,,1,,27/04/21
+BRAC5603.2e,food_deprivation,,,P,,,,0.1,NA,,,,,0.6,,,,,pup_absent,,,,1,,27/04/21
+BRAC5603.2f,food_deprivation,,,D,,,,0.3,NA,,,,,0.5,,,,,pup_absent,,,,1,,27/04/21
+BRAC5685.1g,food_deprivation,,,E,,,,0.1,NA,,,,,0.5,,,,,pup_absent,,,,1,,27/04/21
+BRAC5686.1f,food_deprivation,,,P,,,,0.3,NA,,,,,0.4,,,,,pup_absent,,,,1,,27/04/21
+BRAC5388.4b,food_deprivation,,,P,,,,0,NA,,,,,0.5,,,,,pup_absent,,,,1,,27/04/21
+BRAC5388.4c,food_deprivation,,,P,,,,0.2,NA,,,,,0.7,,,,,pup_absent,,,,1,,27/04/21
+BRAC5487.3j,food_deprivation,,,P,,,,0.1,NA,,,,,0.6,,,,,pup_absent,,,,1,,27/04/21
+BRAC5487.3k,food_deprivation,,,M,,,,0,NA,,,,,0.6,,,,,pup_absent,,,,1,,27/04/21
+BRAC5481.2g,food_deprivation,,,E,,,,0.2,NA,,,,,0.8,,,,,pup_absent,,,,1,,27/04/21
+BRAC5487.3i,food_deprivation,,,E,,,,0.1,NA,,,,,0.3,,,,,pup_absent,,,,1,,27/04/21
+BRAC5334.5d,food_deprivation,,,,,,,0.1,NA,,,,,0.6,,,,,pup_absent,,,,1,,18/06/21
+BRAC5334.5e,food_deprivation,,,,,,,0.2,NA,,,,,0.9,,,,,pup_absent,,,,1,,18/06/21
+BRAC5334.5f,food_deprivation,,,,,,,0.2,NA,,,,,1,,,,,pup_absent,,,,1,,18/06/21
+BRAC5334.5g,food_deprivation,,,,,,,0.1,NA,,,,,0.6,,,,,pup_absent,,,,1,,18/06/21
+BRAC5529.4b,food_deprivation,,,,,,,0.1,NA,,,,,0.8,,,,,pup_absent,,,,1,,18/06/21
+BRAC5334.5h,food_deprivation,,,,,,,0.1,NA,,,,,0.9,,,,,pup_absent,,,,1,,18/06/21
+BRAC5873.1d,food_deprivation,,,,,,,,NA,,,,,0.5,,,,,pup_absent,,,,1,,10/07/21
+BRAC5873.1e,food_deprivation,,,,,,,,NA,,,,,0.5,,,,,pup_absent,,,,1,,10/07/21
+BRAC6031.1d,food_deprivation,,,,,,,,NA,,,,,0.2,,,,,pup_absent,,,,1,,10/07/21
+BRAC6031.1f,food_deprivation,,,,,,,,NA,,,,,0.4,,,,,pup_absent,,,,1,,10/07/21
+BRAC6031.1e,food_deprivation,,,,,,,,NA,,,,,0.4,,,,,pup_absent,,,,1,,10/07/21
+BRAC6031.1g,food_deprivation,,,,,,,,NA,,,,,0.3,,,,,pup_absent,,,,1,,10/07/21
+BRAC5481.2f,food_deprivation,,,P,Parental-,,,,Agg-,,Parental-,,,0.9,,,,,cfos,,,,1,,29/04/21
+BRAC5481.2e,food_deprivation,,,M,Parental+,,retrieve both pups,,Agg-,,Parental+,,retrieve both pups,0.5,,,,,cfos,,,,1,,29/04/21
+BRAC5603.2f,food_deprivation,,,E,Parental+,,build a nest around the pups,,Agg-,,Parental+,,build a nest around the pups,0.4,,,,,cfos,,,,1,,30/04/21
+BRAC5603.2e,food_deprivation,,,D,Parental+,,build a nest around the pups,,Agg+,217,,,,1,,,,,cfos,,,,1,,30/04/21
+BRAC5487.3i,food_deprivation,,,D,Parental+,,,,Agg-,,Parental+,,,0.5,,,,,cfos,,,,1,,12/05/21
+BRAC5487.3k,food_deprivation,,,E,Parental+,,,,Agg-,,Parental+,,,0.3,,,,,cfos,,,,1,,12/05/21
+BRAC5487.3j,food_deprivation,,,M,Parental+,,,,Agg+,226,,,,0.7,,,,,cfos,,,,1,,12/05/21
+BRAC5872.1b,food_deprivation,,,P,Parental-,,,,Agg-,,Parental-,,,0.4,,,,,pup,,,,1,,26/05/21
+BRAC5872.1c,food_deprivation,,,D,Parental-,,,,Agg+,153,,,,0.9,,,,,cfos,,,,1,,26/05/21
+BRAC5872.1d,food_deprivation,,,D,Parental-,,,,Agg+,24,,,,0.9,,,,,cfos,,,,1,,26/05/21
+BRAC5872.1e,food_deprivation,,,M,Parental-,,,,Agg-,,Parental-,,,0.5,,,,,pup,,,,1,,26/05/21
+BRAC5872.1f,food_deprivation,,,P,Parental-,,build a nest near the pups but not parental,,Agg+,513,,,pup was consumed � which may compromise the the food consumption data,0.4,,,,,cfos,,,,1,,26/05/21
+BRAC5872.1g,food_deprivation,,,E,Parental-,,retrieve one pup very late,,Agg+,100,,,,0.6,,,,,cfos,,,,1,,26/05/21
+BRAC5112.5g,food_deprivation,,,,Parental-,,,,Agg-,,Parental+,,,,,,,,cfos,,,,1,,
+BRAC5319.3e,food_deprivation,,,,Parental-,,,,Agg-,,Parental-,,,,,,,,cfos,,,,1,,23/03/21
+BRAC5319.3f,food_deprivation,,,,Parental+,,retrieve both pups,,Agg-,,Parental+,,,,,,,,cfos,,,,1,,23/03/21
+BRAC5873.1d,food_deprivation,,,D,Parental-,,,,Agg-,,Parental-,,,0.4,,,,,pup,,,,1,,27/06/21
+BRAC5873.1e,food_deprivation,,,D,Parental-,,,,Agg+,47,,,,0.6,,,,,refeeding_1h,,,,1,,27/06/21
+BRAC6031.1d,food_deprivation,,,M,Parental-,,,,Agg+,191,,,,0.5,,,,,refeeding_1h,,,,1,,27/06/21
+BRAC6031.1e,food_deprivation,,,M,Parental-,,,,Agg+,91,,,,0.6,,,,,refeeding_1h,,,,1,,27/06/21
+BRAC6031.1f,food_deprivation,,,P,Parental-,,transitioning to parental behaviour late onset nest building,,Agg+,506,,,,0.7,,,,,refeeding_1h,,,,1,,27/06/21
+BRAC6031.1g,food_deprivation,,,E,Parental-,,,,Agg-,,Parental+,,build a nest around both pups,0.5,,,,,pup,,,,1,,27/06/21
+BRAC5044.7d,food_deprivation,,,,Parental+,,retrieve both pups,,Agg+,192,,,,,,,,,refeeding_1h,,,,1,,11/03/21
+BRAC5044.7e,food_deprivation,,,,Parental+,,retrieve both pups,,Agg+,77,,,,,,,,,refeeding_1h,,,,1,,11/03/21
+BRAC5986.1c,food_deprivation,,,D,Parental+,,build a nest around both pups,,Agg-,,Parental+,,long grooming followed by late nest building,0.7,,,,,pup,,,,1,,04/07/21
+BRAC5858.2h,food_deprivation,,,E,Parental+,,retrieve both pups,,Agg-,,Parental-,,,0.1,,,,,cfos,,,,1,,04/07/21
+BRAC5986.1d,food_deprivation,,,M,Parental-,,transitioning to parental behaviour,,Agg-,,Parental+,,long grooming followed by late nest building,0.5,,,,,pup,,,,1,,04/07/21
+BRAC5986.1e,food_deprivation,,,M,Parental+,,retrieve both pups,,Agg+,597,,,,0.6,,,,,refeeding_1h,,,,1,,04/07/21
+BRAC5986.1f,food_deprivation,,,M,Parental-,,,,Agg-,,Parental+,,build a nest around both pups,0.2,,,,,pup,,,,1,,04/07/21
+BRAC5873.1h,food_deprivation,,,E,Parental-,,,,Agg+,305,,,,0.8,,,,,refeeding_1h,,,,1,,14/07/21
+BRAC5873.1g,food_deprivation,,,M,Parental-,,,,Agg-,,Parental-,,,0.7,,,,,pup,,,,1,,14/07/21
+BRAC5873.1f,food_deprivation,,,E,Parental-,,,,Agg+,781,,,,0.8,,,,,refeeding_1h,,,,1,,14/07/21
+BRAC5801.3f,food_deprivation,,,M,Parental+,,retrieve both pups,,Agg-,,Parental+,,retrieve both pups,,,,,,openfield,,,,1,,20/07/21
+BRAC5801.3e,food_deprivation,,,M,Parental+,,retrieve both pups,,Agg+,151,,,,,,,,,refeeding_2h,,,,1,,20/07/21
+BRAC5801.3d,food_deprivation,,,M,Parental+,,retrieve both pups,,Agg+,270,,,,,,,,,refeeding_2h,,,,1,,20/07/21
+BRAC5801.3c,food_deprivation,,,E,Parental-,,,,Agg+,131,,,,,,,,,refeeding_2h,,,,1,,20/07/21
+BRAC5491.5f,food_deprivation,,,D,Parental-,,,,Agg-,,Parental-,,,,,,,,openfield,,,,1,,20/07/21
+BRAC5626.4e,food_deprivation,,,M,Parental+,,retrieve both pups,,Agg+,40,,,,,,,,,refeeding_2h,,,,1,,20/07/21
+BRAC5626.4h,food_deprivation,,,D,Parental+,,retrieve both pups,,Agg+,133,,,,,,,,,refeeding_2h,,,,1,,21/07/21
+BRAC5679.4b,food_deprivation,,,P,Parental-,,,,Agg+,84,,,,,,,,,refeeding_2h,,,,1,,21/07/21
+BRAC5679.4c,food_deprivation,,,M,Parental-,,,,Agg-,,Parental-,,,,,,,,openfield,,,,1,,21/07/21
+BRAC5740.4d,food_deprivation,,,E,Parental-,,,,Agg-,,Parental-,,late onset nest building around both pups,,,,,,openfield,,,,1,,21/07/21
+BRAC5626.4f,food_deprivation,,,M,Parental-,,,,Agg+,446,,,,,,,,,refeeding_2h,,,,1,,21/07/21
+BRAC5626.4g,food_deprivation,,,D,Parental-,,,,Agg+,152,,,,,,,,,refeeding_2h,,,,1,,21/07/21
+BRAC5370.6e,food_deprivation,,,D,Parental+,,build a nest around one pup,,Agg-,,Parental+,,retrieve both pups,,,,,,openfield,,,,1,,22/07/21
+BRAC5539.5g,food_deprivation,,,D,Parental+,,build a nest around both pups,,Agg-,,Parental-,,,,,,,,openfield,,,,1,,22/07/21
+BRAC5539.5h,food_deprivation,,,M,Parental-,,,,Agg-,,Parental-,,,,,,,,openfield,,,,1,,22/07/21
+BRAC5539.5i,food_deprivation,,,D,Parental-,,,,Agg+,,,,,,,,,,refeeding_2h,,,,1,,22/07/21
+BRAC5858.2g,food_deprivation,,,D,Parental-,,,,Agg+,58,,,,,,,,,refeeding_2h,,,,1,,22/07/21
