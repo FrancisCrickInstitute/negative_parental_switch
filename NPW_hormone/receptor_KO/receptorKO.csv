@@ -1,0 +1,64 @@
+mice_ID,surgery_date,KO,estrous_stage,injection_site,virus,exp_date,registration,state_before,retrieval_before_latency,state_before_comment,state_after,state_after_latency,parental_state_after,retrieval_after_latency,state_after_comment,collection,validation,comment
+JKAX6.2h,29/11/21,PR,M,MPOA,EGFP-CRE,20/12/21,,,,,Agg-,,Parental-,,,done,valid,"very spready injection, one side injected way too anteriorly"
+JKAX6.2g,29/11/21,PR,D,MPOA,EGFP-CRE,20/12/21,,,,,Agg-,,Parental+,,build a nest around two pups,done,valid,
+JKAX6.2f,29/11/21,PR,D,MPOA,EGFP-CRE,11/01/22,,,,,Agg-,,,,,done,valid,"unilateral injection, very spready"
+JKAX6.2e,29/11/21,PR,P,MPOA,EGFP-CRE,20/12/21,,,,,Agg+,809,,,,done,valid,"injection very uneven, not a lot of expression in the MPOA"
+JKAX12.1e,05/01/22,PR,M,MPOA,EGFP-CRE,29/01/22,,,,,Agg-,,Parental+,,build a nest around two pups,done,valid,
+JKAX7.3d,05/01/22,PR,P,MPOA,EGFP-CRE,29/01/22,,,,,Agg-,,Parental-,,,cryo,,
+JKAX4.3e,06/01/22,PR,M,MPOA,EGFP-CRE,29/01/22,,,,,Agg-,,Parental-,,long grooming,done,valid,
+JKAX12.1d,06/01/22,PR,D,MPOA,EGFP-CRE,29/01/22,done,,,,Agg+,45,,,,done,valid,
+JKAX7.3c,04/01/22,PR,P,MPOA,EGFP-CRE,29/01/22,,,,,Agg-,,Parental+,,build a nest around two pups,done,valid,
+JKAX4.3d,06/01/22,PR,M,MPOA,EGFP-CRE,29/01/22,,,,,Agg-,,Parental-,,long grooming,done,valid,
+JKAX12.1c,05/01/22,PR,P,MPOA,EGFP-CRE,29/01/22,NA,,,,Agg+,260,,,,done,invalid,
+JKAX7.3b,04/01/22,PR,E,MPOA,EGFP-CRE,29/01/22,,,,,Agg-,,Parental-,,long grooming,done,valid,
+JKAX12.3d,09/02/22,PR,P,MPOA,EGFP-CRE,02/03/22,,,,,Agg+,46,,,,done,valid,in FM box
+JKAX12.3e,09/02/22,PR,P,MPOA,EGFP-CRE,02/03/22,NA,,,,Agg+,120,,,,done,invalid,"virus expression very faint, also structural changes (MPOA missing)"
+JKAX12.3f,09/02/22,PR,E,MPOA,EGFP-CRE,02/03/22,,,,,Agg-,,Parental+,,build a nest around two pups,cryo,,taken by Francesco?
+JKAX5.3b,19/01/22,PR,P,ARC,EGFP-CRE,16/02/22,NA,,,,Agg+,241,,,,done,invalid,
+JKAX5.3c,19/01/22,PR,P,ARC,EGFP-CRE,16/02/22,NA,,,,Agg-,,Parental+,,build a nest around two pups,done,valid,posterior side infection missing
+JKAX5.3d,21/01/22,PR,D,ARC,EGFP-CRE,16/02/22,NA,,,,Agg+,497,,,,done,valid,
+JKAX12.2c,21/01/22,PR,D,ARC,EGFP-CRE,16/02/22,NA,,,,Agg-,,Parental+,,build a nest around two pups,done,valid,injection uneven on both side
+JKAX16.1g,05/05/22,PR,M,ARC,EGFP-CRE,29/05/22,NA,,,,Agg+,534,,,,done,valid,nice bilateral injection
+JKAX16.1e,05/05/22,PR,P,ARC,EGFP-CRE,29/05/22,NA,,,,Agg+,453,,,,done,valid,"a bit uneven injection, a bit spready"
+JKAX16.1f,05/05/22,PR,M,ARC,EGFP-CRE,29/05/22,NA,,,,Agg+,238,,,,done,invalid,injection in place but very faint
+JKAX16.1h,05/05/22,PR,P,ARC,EGFP-CRE,29/05/22,NA,,,,Agg+,242,,,,done,valid,"unilateral, a bit spready"
+JKAX16.1d,05/05/22,PR,M,ARC,EGFP-CRE,29/05/22,NA,,,,Agg+,314,,,,done,valid,"maybe wrongly labelled as JKAX16.1c, bilateral injection but uneven"
+JKAX18.1d,06/05/22,PR,P,ARC,EGFP-CRE,29/05/22,NA,,,,Agg+,122,,,,done,valid,nice bilateral injection
+JKAX18.1e,06/05/22,PR,P,ARC,EGFP-CRE,29/05/22,NA,,,,Agg+,99,,,,done,valid,nice bilateral injection
+JKAX18.1f,06/05/22,PR,E,ARC,EGFP-CRE,29/05/22,NA,,,,Agg-,,,,,done,invalid,injection in place but very faint
+JKAX12.5e,27/04/22,PR,P,ARC,EGFP-CRE,06/06/22,NA,,,,Agg-,,,,,done,valid,"nice bilateral injection,two side uneven"
+JKAX12.5f,27/04/22,PR,E,ARC,EGFP-CRE,06/06/22,NA,,,,Agg-,,,,,done,valid,unilateral injection
+JKAH24.1e,18/01/22,ESR,E,MPOA,EGFP-CRE,08/02/22,,,,,Agg+,104,,,,done,valid,in FM box
+JKAH24.1f,18/01/22,ESR,P,MPOA,EGFP-CRE,08/02/22,,,,,Agg+,377,,,,done,valid,virus very faint
+JKAH28.1e,14/02/22,ESR,E,MPOA,EGFP-CRE,09/03/22,NA,,,,invalid,,,,,done,valid,
+JKAH28.1f,14/02/22,ESR,D,MPOA,EGFP-CRE,09/03/22,done,,,,Agg+,53,,,,done,valid,nice bilateral injection
+JKAH28.1g,16/02/22,ESR,M,MPOA,EGFP-CRE,09/03/22,,,,,Agg+,55,,,,done,valid,"nice bilateral injection, virus a bit faint, MPOA a bit damaged from perfusion"
+JKAH30.1d,22/02/22,ESR,M,MPOA,EGFP-CRE,16/03/22,,,,,Agg+,84,,,,done,valid,nice bilateral injection
+JKAH30.1e,22/02/22,ESR,D,MPOA,EGFP-CRE,16/03/22,,,,,Agg+,40,,,,done,valid,"nice bilateral injection, virus a bit faint"
+JKAH27.2c,14/04/22,ESR,D,MPOA,EGFP-CRE,06/05/22,,,,,Agg+,135,,,,cryo,valid,RNAscope by FM
+JKAH27.2d,14/04/22,ESR,E,MPOA,EGFP-CRE,06/05/22,,,,,Agg+,64,,,,done,valid,nice bilateral injection
+JKAH27.2e,14/04/22,ESR,D,MPOA,EGFP-CRE,06/05/22,,,,,Agg+,84,,,,done,valid,nice bilateral injection
+JKAH27.2h,14/04/22,ESR,E,MPOA,EGFP-CRE,06/05/22,,,,,Agg+,112,,,,done,valid,nice bilateral injection
+JKAH30.2b,21/04/22,ESR,M,ARC,EGFP-CRE,13/05/22,NA,,,,Agg+,518,,,,done,valid,unilateral
+JKAH31.1b,21/04/22,ESR,M,ARC,EGFP-CRE,13/05/22,NA,,,,Agg+,257,,,,done,valid,spready
+JKAH32.1c,21/04/22,ESR,M,ARC,EGFP-CRE,13/05/22,NA,,,,Agg+,304,,,,done,valid,uneven on both side
+JKAH29.1e,20/04/22,ESR,D,ARC,EGFP-CRE,13/05/22,NA,,,,Agg+,729,,,,done,valid,very nice bilateral injection
+JKAH32.1d,21/04/22,ESR,P,ARC,EGFP-CRE,13/05/22,NA,,,,Agg-,,,,,done,valid,very nice bilateral injection
+JKAH27.2f,27/04/22,ESR,E,ARC,EGFP-CRE,20/05/22,NA,,,,Agg-,,,,,done,valid,"likely unilateral, likely labelled as 29.2f (only one slide)"
+JKAH27.2g,27/04/22,ESR,P,ARC,EGFP-CRE,20/05/22,NA,,,,Agg+,98,,,,done,valid,uneven injection
+JKAH29.2f,27/04/22,ESR,M,ARC,EGFP-CRE,20/05/22,NA,,,,Agg-,,,,,done,valid,slices not perfectly cut
+JKAH29.1g,20/04/22,ESR,P,ARC,EGFP-CRE,29/05/22,NA,,,,Agg-,,,,,done,invalid,"unilateral injection, signal a bit faint"
+JKAH29.1f,20/04/22,ESR,P,ARC,EGFP-CRE,29/05/22,NA,,,,Agg+,456,,,,done,invalid,very faint unilateral signal
+JKAH31.1c,21/04/22,ESR,E,ARC,EGFP-CRE,29/05/22,NA,,,,Agg-,,,,,done,valid,very nice bilateral injection
+JKAH29.1d,20/04/22,ESR,E,ARC,EGFP-CRE,29/05/22,NA,,,,Agg-,,,,,done,valid,
+JKAX7.4a,10/02/22,PR,P,MPOA,wrongEGFP,02/03/22,NA,,,,Agg+,,,,,done,invalid,
+JKAX7.4b,10/02/22,PR,M,MPOA,wrongEGFP,02/03/22,NA,,,,Agg+,,,,,done,invalid,
+JKAX12.3g,10/02/22,PR,D,MPOA,wrongEGFP,02/03/22,NA,,,,Agg-,,,,,done,invalid,
+JKAX12.6e,19/05/22,PR,E,MPOA,EGFP,10/06/22,NA,,,,Agg-,,,,,cryo,,
+JKAX12.6f,19/05/22,PR,E,MPOA,EGFP,10/06/22,NA,,,,Agg+,192,,,,cryo,,
+JKAH27.3b,13/05/22,ESR,M,MPOA,EGFP,10/06/22,NA,,,,Agg+,30,,,,cryo,,
+JKAH27.3c,13/05/22,ESR,D,MPOA,EGFP,10/06/22,NA,,,,Agg-,,,,,cryo,,
+JKAH28.2d,13/05/22,ESR,M,MPOA,EGFP,10/06/22,NA,,,,Agg+,260,,,,done,valid,"collected by Jonny, injection a bit uneven"
+JKAH29.3a,17/05/22,ESR,D,MPOA,EGFP,10/06/22,NA,,,,Agg+,46,,,,ready,,culled by Andres (?)
+JKAH27.3d,13/05/22,ESR,M,MPOA,EGFP,10/06/22,NA,,,,Agg+,18,,,,cryo,,
+JKAH29.3b,17/05/22,ESR,P,MPOA,EGFP,10/06/22,NA,,,,Agg+,145,,,pup screaming,done,valid,"collected by Jonny, nice bilateral injection"
