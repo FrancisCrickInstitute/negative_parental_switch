@@ -1,0 +1,59 @@
+,Image,Name,Class,Parent,ROI,Centroid X µm,Centroid Y µm,Allen ID,Parent Allen ID,Side,Num Detections,Area µm^2,Perimeter µm
+0,JKAH30.1e_MPOA_1_Scan1.qptiff - resolution #1_Region 1.ome.tif,Anteroventral preoptic nucleus,AVP,Periventricular region,Geometry,1308.1,4900.2,263.0,141.0,0.0,95,202402.1,2438.3
+1,JKAH30.1e_MPOA_1_Scan1.qptiff - resolution #1_Region 1.ome.tif,Medial preoptic area,MPO,Periventricular region,Geometry,1518.4,4866.1,523.0,141.0,0.0,145,418246.1,6229.9
+2,JKAH30.1e_MPOA_1_Scan1.qptiff - resolution #1_Region 1.ome.tif,Anterodorsal preoptic nucleus,ADP,Periventricular region,Geometry,2076.8,4948.7,72.0,141.0,0.0,71,135534.9,1935.7
+3,JKAH30.1e_MPOA_1_Scan1.qptiff - resolution #1_Region 1.ome.tif,Parastrial nucleus,PS,Periventricular region,Geometry,1826.5,5042.8,1109.0,141.0,0.0,108,159268.2,2346.3
+4,JKAH30.1e_MPOA_1_Scan1.qptiff - resolution #1_Region 2.ome.tif,Anteroventral preoptic nucleus,AVP,Periventricular region,Geometry,1393.8,4525.8,263.0,141.0,0.0,74,240696.7,2722.1
+5,JKAH30.1e_MPOA_1_Scan1.qptiff - resolution #1_Region 2.ome.tif,Medial preoptic area,MPO,Periventricular region,Geometry,1597.8,4481.4,523.0,141.0,0.0,188,419739.0,6784.5
+6,JKAH30.1e_MPOA_1_Scan1.qptiff - resolution #1_Region 2.ome.tif,Anterodorsal preoptic nucleus,ADP,Periventricular region,Geometry,2098.9,4449.4,72.0,141.0,0.0,86,263042.9,2749.3
+7,JKAH30.1e_MPOA_1_Scan1.qptiff - resolution #1_Region 2.ome.tif,Parastrial nucleus,PS,Periventricular region,Geometry,1863.7,4492.2,1109.0,141.0,0.0,123,197918.8,2588.9
+8,JKAH30.1e_MPOA_1_Scan1.qptiff - resolution #1_Region 3.ome.tif,Anteroventral preoptic nucleus,AVP,Periventricular region,Geometry,1165.3,4528.6,263.0,141.0,0.0,212,299029.2,3020.2
+9,JKAH30.1e_MPOA_1_Scan1.qptiff - resolution #1_Region 3.ome.tif,Medial preoptic area,MPO,Periventricular region,Geometry,1381.6,4516.8,523.0,141.0,0.0,265,502774.3,8427.3
+10,JKAH30.1e_MPOA_1_Scan1.qptiff - resolution #1_Region 3.ome.tif,Anterodorsal preoptic nucleus,ADP,Periventricular region,Geometry,1954.4,4507.4,72.0,141.0,0.0,194,363582.1,3201.1
+11,JKAH30.1e_MPOA_1_Scan1.qptiff - resolution #1_Region 3.ome.tif,Parastrial nucleus,PS,Periventricular region,Geometry,1708.1,4516.7,1109.0,141.0,0.0,153,249609.1,2876.8
+12,JKAH30.1e_MPOA_1_Scan1.qptiff - resolution #1_Region 4.ome.tif,Anteroventral preoptic nucleus,AVP,Periventricular region,Geometry,1012.6,4402.3,263.0,141.0,0.0,194,238022.7,2734.6
+13,JKAH30.1e_MPOA_1_Scan1.qptiff - resolution #1_Region 4.ome.tif,Medial preoptic area,MPO,Periventricular region,Geometry,1212.9,4452.5,523.0,141.0,0.0,391,566089.0,8469.8
+14,JKAH30.1e_MPOA_1_Scan1.qptiff - resolution #1_Region 4.ome.tif,Anterodorsal preoptic nucleus,ADP,Periventricular region,Geometry,1777.1,4383.0,72.0,141.0,0.0,240,338336.1,3091.2
+15,JKAH30.1e_MPOA_1_Scan1.qptiff - resolution #1_Region 4.ome.tif,Parastrial nucleus,PS,Periventricular region,Geometry,1550.0,4409.2,1109.0,141.0,0.0,134,242871.0,2819.1
+16,JKAH30.1e_MPOA_1_Scan1.qptiff - resolution #1_Region 4.ome.tif,Medial preoptic nucleus,MPN,Hypothalamic medial zone,Geometry,1052.9,4545.3,515.0,467.0,0.0,37,26581.3,1451.5
+17,JKAH30.1e_MPOA_1_Scan1.qptiff - resolution #1_Region 5.ome.tif,Anteroventral preoptic nucleus,AVP,Periventricular region,Geometry,1191.4,4772.2,263.0,141.0,0.0,86,164219.2,2196.6
+18,JKAH30.1e_MPOA_1_Scan1.qptiff - resolution #1_Region 5.ome.tif,Medial preoptic area,MPO,Periventricular region,Geometry,1409.5,4926.9,523.0,141.0,0.0,542,666914.2,8366.5
+19,JKAH30.1e_MPOA_1_Scan1.qptiff - resolution #1_Region 5.ome.tif,Anterodorsal preoptic nucleus,ADP,Periventricular region,Geometry,1940.4,4894.4,72.0,141.0,0.0,342,285540.5,2817.7
+20,JKAH30.1e_MPOA_1_Scan1.qptiff - resolution #1_Region 5.ome.tif,Parastrial nucleus,PS,Periventricular region,Geometry,1757.8,4886.0,1109.0,141.0,0.0,213,257291.6,2907.7
+21,JKAH30.1e_MPOA_1_Scan1.qptiff - resolution #1_Region 5.ome.tif,Medial preoptic nucleus,MPN,Hypothalamic medial zone,Geometry,1237.3,4973.4,515.0,467.0,0.0,231,195652.8,2761.4
+22,JKAH30.1e_MPOA_1_Scan1.qptiff - resolution #1_Region 6.ome.tif,Anteroventral preoptic nucleus,AVP,Periventricular region,Geometry,896.43,4379.5,263.0,141.0,0.0,81,91779.1,1553.9
+23,JKAH30.1e_MPOA_1_Scan1.qptiff - resolution #1_Region 6.ome.tif,Medial preoptic area,MPO,Periventricular region,Geometry,1117.8,4669.0,523.0,141.0,0.0,655,599363.8,7604.0
+24,JKAH30.1e_MPOA_1_Scan1.qptiff - resolution #1_Region 6.ome.tif,Anterodorsal preoptic nucleus,ADP,Periventricular region,Geometry,1620.7,4614.2,72.0,141.0,0.0,303,151371.5,2071.5
+25,JKAH30.1e_MPOA_1_Scan1.qptiff - resolution #1_Region 6.ome.tif,Parastrial nucleus,PS,Periventricular region,Geometry,1476.2,4543.5,1109.0,141.0,0.0,348,201905.1,2550.9
+26,JKAH30.1e_MPOA_1_Scan1.qptiff - resolution #1_Region 6.ome.tif,Medial preoptic nucleus,MPN,Hypothalamic medial zone,Geometry,967.79,4629.4,515.0,467.0,0.0,533,381327.7,3363.9
+27,JKAH30.1e_MPOA_1_Scan1.qptiff - resolution #1_Region 7.ome.tif,Anteroventral preoptic nucleus,AVP,Periventricular region,Geometry,787.27,3761.0,263.0,141.0,0.0,34,35299.9,686.81
+28,JKAH30.1e_MPOA_1_Scan1.qptiff - resolution #1_Region 7.ome.tif,Medial preoptic area,MPO,Periventricular region,Geometry,1038.5,4760.9,523.0,141.0,0.0,574,710324.9,6946.9
+29,JKAH30.1e_MPOA_1_Scan1.qptiff - resolution #1_Region 7.ome.tif,Anterodorsal preoptic nucleus,ADP,Periventricular region,Geometry,1487.5,4392.1,72.0,141.0,0.0,43,30432.6,683.13
+30,JKAH30.1e_MPOA_1_Scan1.qptiff - resolution #1_Region 7.ome.tif,Parastrial nucleus,PS,Periventricular region,Geometry,1366.2,4232.1,1109.0,141.0,0.0,167,116722.5,2176.0
+31,JKAH30.1e_MPOA_1_Scan1.qptiff - resolution #1_Region 7.ome.tif,Medial preoptic nucleus,MPN,Hypothalamic medial zone,Geometry,903.57,4680.9,515.0,467.0,0.0,743,533829.0,3873.6
+32,JKAH30.1e_MPOA_1_Scan1.qptiff - resolution #1_Region 8.ome.tif,Medial preoptic area,MPO,Periventricular region,Geometry,1083.4,4453.1,523.0,141.0,0.0,227,691100.5,6383.3
+33,JKAH30.1e_MPOA_1_Scan1.qptiff - resolution #1_Region 8.ome.tif,Posterodorsal preoptic nucleus,PD,Periventricular region,Geometry,1487.4,5131.0,914.0,141.0,0.0,6,15669.3,463.15
+34,JKAH30.1e_MPOA_1_Scan1.qptiff - resolution #1_Region 8.ome.tif,Medial preoptic nucleus,MPN,Hypothalamic medial zone,Geometry,1030.7,4476.3,515.0,467.0,0.0,429,797336.5,4675.0
+35,JKAH30.1e_MPOA_2_Scan1.qptiff - resolution #1_Region 1.ome.tif,Medial preoptic area,MPO,Periventricular region,Geometry,1320.0,5100.4,523.0,141.0,0.0,664,768422.0,6474.6
+36,JKAH30.1e_MPOA_2_Scan1.qptiff - resolution #1_Region 1.ome.tif,Parastrial nucleus,PS,Periventricular region,Geometry,1676.6,4297.8,1109.0,141.0,0.0,28,27346.9,973.0
+37,JKAH30.1e_MPOA_2_Scan1.qptiff - resolution #1_Region 1.ome.tif,Medial preoptic nucleus,MPN,Hypothalamic medial zone,Geometry,1212.1,5087.2,515.0,467.0,0.0,1236,681800.0,4345.9
+38,JKAH30.1e_MPOA_2_Scan1.qptiff - resolution #1_Region 2.ome.tif,Medial preoptic area,MPO,Periventricular region,Geometry,1436.8,4694.3,523.0,141.0,0.0,601,570763.3,5290.1
+39,JKAH30.1e_MPOA_2_Scan1.qptiff - resolution #1_Region 2.ome.tif,Posterodorsal preoptic nucleus,PD,Periventricular region,Geometry,1925.7,4828.3,914.0,141.0,0.0,68,66300.8,1309.0
+40,JKAH30.1e_MPOA_2_Scan1.qptiff - resolution #1_Region 2.ome.tif,Medial preoptic nucleus,MPN,Hypothalamic medial zone,Geometry,1489.3,4720.4,515.0,467.0,0.0,1105,699618.7,4405.2
+41,JKAH30.1e_MPOA_2_Scan1.qptiff - resolution #1_Region 3.ome.tif,Medial preoptic area,MPO,Periventricular region,Geometry,1293.3,4659.7,523.0,141.0,0.0,452,545854.5,4699.7
+42,JKAH30.1e_MPOA_2_Scan1.qptiff - resolution #1_Region 3.ome.tif,Posterodorsal preoptic nucleus,PD,Periventricular region,Geometry,1754.3,4660.4,914.0,141.0,0.0,64,73879.6,1393.0
+43,JKAH30.1e_MPOA_2_Scan1.qptiff - resolution #1_Region 3.ome.tif,Medial preoptic nucleus,MPN,Hypothalamic medial zone,Geometry,1350.5,4717.6,515.0,467.0,0.0,915,756766.6,4563.8
+44,JKAH30.1e_MPOA_2_Scan1.qptiff - resolution #1_Region 4.ome.tif,Medial preoptic area,MPO,Periventricular region,Geometry,1063.8,4749.2,523.0,141.0,0.0,354,477968.5,4375.2
+45,JKAH30.1e_MPOA_2_Scan1.qptiff - resolution #1_Region 4.ome.tif,Posterodorsal preoptic nucleus,PD,Periventricular region,Geometry,1500.5,4245.4,914.0,141.0,0.0,21,27559.6,738.77
+46,JKAH30.1e_MPOA_2_Scan1.qptiff - resolution #1_Region 4.ome.tif,Medial preoptic nucleus,MPN,Hypothalamic medial zone,Geometry,1124.4,4768.2,515.0,467.0,0.0,803,722178.9,4462.6
+47,JKAH30.1e_MPOA_2_Scan1.qptiff - resolution #1_Region 5.ome.tif,Medial preoptic area,MPO,Periventricular region,Geometry,1386.9,5002.6,523.0,141.0,0.0,276,434795.6,4120.9
+48,JKAH30.1e_MPOA_2_Scan1.qptiff - resolution #1_Region 5.ome.tif,Medial preoptic nucleus,MPN,Hypothalamic medial zone,Geometry,1453.3,5040.6,515.0,467.0,0.0,631,696943.5,4362.0
+49,JKAH30.1e_MPOA_2_Scan1.qptiff - resolution #1_Region 6.ome.tif,Medial preoptic area,MPO,Periventricular region,Geometry,1742.8,4822.3,523.0,141.0,0.0,136,370575.1,3746.4
+50,JKAH30.1e_MPOA_2_Scan1.qptiff - resolution #1_Region 6.ome.tif,Medial preoptic nucleus,MPN,Hypothalamic medial zone,Geometry,1817.4,4914.9,515.0,467.0,0.0,381,612969.9,4085.6
+51,JKAH30.1e_MPOA_2_Scan1.qptiff - resolution #1_Region 7.ome.tif,Medial preoptic area,MPO,Periventricular region,Geometry,1900.0,4866.0,523.0,141.0,0.0,78,269098.1,3218.3
+52,JKAH30.1e_MPOA_2_Scan1.qptiff - resolution #1_Region 7.ome.tif,Medial preoptic nucleus,MPN,Hypothalamic medial zone,Geometry,1973.2,5009.9,515.0,467.0,0.0,211,500354.7,3638.6
+53,JKAH30.1e_MPOA_2_Scan1.qptiff - resolution #1_Region 8.ome.tif,Medial preoptic area,MPO,Periventricular region,Geometry,1467.2,3877.0,523.0,141.0,0.0,35,109857.4,1584.5
+54,JKAH30.1e_MPOA_2_Scan1.qptiff - resolution #1_Region 8.ome.tif,Medial preoptic nucleus,MPN,Hypothalamic medial zone,Geometry,1565.9,4629.5,515.0,467.0,0.0,128,327611.8,2935.3
+55,JKAH30.1e_MPOA_3_Scan10.qptiff - resolution #1_Region 1.ome.tif,Medial preoptic area,MPO,Periventricular region,Geometry,1606.6,4291.5,523.0,141.0,0.0,0,2628.5,210.21
+56,JKAH30.1e_MPOA_3_Scan10.qptiff - resolution #1_Region 1.ome.tif,Medial preoptic nucleus,MPN,Hypothalamic medial zone,Geometry,1684.3,5187.2,515.0,467.0,0.0,20,191504.3,2247.6
+57,JKAH30.1e_MPOA_3_Scan10.qptiff - resolution #1_Region 2.ome.tif,Medial preoptic nucleus,MPN,Hypothalamic medial zone,Geometry,1854.3,4469.9,515.0,467.0,0.0,2,30077.5,640.78
