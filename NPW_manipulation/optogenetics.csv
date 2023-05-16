@@ -1,4 +1,4 @@
-mice_ID,estrous_stage,surgery_date,implantation_region,pup_light_cond,status,parental_status,state_latency,histology_validation,experiment_date
+mice_ID,estrous_stage,surgery_date,implantation_region,pup_light_cond,status,state_latency,parental_status,histology_validation,experiment_date
 JKAJ16.2h,,24/05/22,MPOA,spontaneous,Agg-,,,,14/12/22
 JKAJ16.2j,,24/05/22,MPOA,spontaneous,Agg-,,,,14/12/22
 JKAJ16.2i,,24/05/22,MPOA,spontaneous,,,,,
@@ -14,31 +14,71 @@ JKAJ16.2i,,24/05/22,MPOA,instantaneous_off,,,,,
 JKAJ16.2h,M,24/05/22,MPOA,15_lighton,Agg-,,,,16/12/22
 JKAJ16.2j,P,24/05/22,MPOA,15_lighton,Agg-,,,,16/12/22
 JKAJ8.9f,,15/03/22,MPOA,15_lighton,,,,,16/12/22
-JKAJ16.2i,,24/05/22,MPOA,30_lighton,Agg-,,,,25/01/23
-JKAJ16.2h,D,24/05/22,MPOA,30_lighton,Agg+,247.5,,,06/12/22
-JKAJ16.2j,D,24/05/22,MPOA,30_lighton,Agg+,276,,,06/12/22
-JKAJ8.9f,P,15/03/22,MPOA,30_lighton,Agg+,140,,,07/12/22
-JKAJ15.5d,P,21/12/22,MPOA,30_lighton,Agg+,461,,,20/01/23
-JKAJ15.5b,D,21/12/22,MPOA,30_lighton,Agg-,,,,23/01/23
-JKAJ16.2i,,24/05/22,MPOA,30_lightoff,Agg-,,,,
-JKAJ16.2h,P,24/05/22,MPOA,30_lightoff,Agg-,Parental+,,,07/12/22
-JKAJ16.2j,D,24/05/22,MPOA,30_lightoff,Agg-,,,,07/12/22
-JKAJ8.9f,M,15/03/22,MPOA,30_lightoff,Agg-,,,,08/12/22
-JKAJ15.5d,D,21/12/22,MPOA,30_lightoff,Agg-,,,,23/01/23
-JKAJ15.5b,P,21/12/22,MPOA,30_lightoff,Agg-,,,,20/01/23
+JKAJ15.5a,,,MPOA,15_lighton,Agg-,,,,15/02/23
+JKAJ15.5c,,,MPOA,15_lighton,Agg-,,,,15/02/23
+JKAJ15.5d,,,MPOA,15_lighton,Agg-,,,,09/02/23
+JKAJ19.2e,,,LPOA,15_lighton,Agg-,,,,03/05/23
+JKAJ21.1d,,,LPOA,15_lighton,Agg-,,,,11/05/23
+JKAJ21.1e,,,LPOA,15_lighton,Agg-,,,,11/05/23
+JKAJ16.2i,,24/05/22,MPOA,30_lighton,Agg-,,,unilateral implantation,25/01/23
+JKAJ16.2h,D,24/05/22,MPOA,30_lighton,Agg+,247.5,,valid,06/12/22
+JKAJ16.2j,D,24/05/22,MPOA,30_lighton,Agg+,276,,valid,06/12/22
+JKAJ8.9f,P,15/03/22,MPOA,30_lighton,Agg+,140,,valid,07/12/22
+JKAJ15.5d,P,21/12/22,MPOA,30_lighton,Agg+,461,,valid,20/01/23
+JKAJ15.5b,D,21/12/22,MPOA,30_lighton,Agg-,,,invalid,23/01/23
+JKAJ15.5e,,,MPOA,30_lighton,Agg-,,,implantation not accurate,15/02/23
+JKAJ15.5c,,,MPOA,30_lighton,Agg-,,,implantation not accurate,25/01/23
+JKAJ21.2b,,,MPOA,30_lighton,Agg+,,,,12/05/23
+JKAJ21.1c,,,MPOA,30_lighton,Agg+,,,,12/05/23
+JKAJ18.4h,,,PVH,30_lighton,Agg+,,,,18/04/23
+JKAJ19.2d,,,PVH,30_lighton,Agg-,,,,18/04/23
+JKAJ19.2e,,,LPOA,30_lighton,Agg+,,,,18/04/23
+JKAJ21.1d,,,LPOA,30_lighton,Agg-,,,,05/05/23
+JKAJ21.1e,,,LPOA,30_lighton,Agg-,,,,05/05/23
+JKAJ15.5e,,,MPOA,30_lightoff,Agg-,,,implantation not accurate,15/02/23
+JKAJ15.5c,,,MPOA,30_lightoff,Agg-,,,implantation not accurate,25/01/23
+JKAJ16.2i,,24/05/22,MPOA,30_lightoff,Agg-,,,unilateral implantation,19/12/22
+JKAJ16.2h,P,24/05/22,MPOA,30_lightoff,Agg-,,Parental+,valid,07/12/22
+JKAJ16.2j,D,24/05/22,MPOA,30_lightoff,Agg-,,,valid,07/12/22
+JKAJ8.9f,M,15/03/22,MPOA,30_lightoff,Agg-,,,valid,08/12/22
+JKAJ15.5d,D,21/12/22,MPOA,30_lightoff,Agg-,,,valid,23/01/23
+JKAJ15.5b,P,21/12/22,MPOA,30_lightoff,Agg-,,,invalid,20/01/23
+JKAJ21.2b,,,MPOA,30_lightoff,Agg-,,,,12/05/23
+JKAJ21.1c,,,MPOA,30_lightoff,Agg-,,,,12/05/23
+JKAJ16.2h,,,MPOA,baseline_food,0.13,,,,30/03/23
+JKAJ16.2j,,,MPOA,baseline_food,0.07,,,,30/03/23
+JKAJ16.2i,,,MPOA,baseline_food,0.1,,,,30/03/23
+JKAJ15.5d,,,MPOA,baseline_food,0,,,,30/03/23
+JKAJ15.5b,,,MPOA,baseline_food,0.01,,,,30/03/23
+JKAJ15.5a,,,MPOA,baseline_food,0.18,,,,14/04/2023
+JKAJ15.5c,,,MPOA,baseline_food,0.34,,,implantation not accurate,14/04/2023
+JKAJ15.5e,,,MPOA,baseline_food,0,,,implantation not accurate,14/04/2023
 JKAJ16.2h,,24/05/22,MPOA,60_lighton_food,0.68,918,,,09/12/22
 JKAJ16.2j,,24/05/22,MPOA,60_lighton_food,0.53,842,,,09/12/22
 JKAJ8.9f,,15/03/22,MPOA,60_lighton_food,0,,,,14/12/22
 JKAJ16.2i,,24/05/22,MPOA,60_lighton_food,0.56,1232,,,16/12/22
 JKAJ15.5d,,21/12/22,MPOA,60_lighton_food,0.7,1613,,,18/01/23
 JKAJ15.5b,,21/12/22,MPOA,60_lighton_food,0.5,854,,,18/01/23
-JKAJ15.5a,,,MPOA,60_lighton_food,0.5,,,,06/02/23
-JKAJ15.5c,,,MPOA,60_lighton_food,0.6,,,,07/06/23
+JKAJ15.5a,,,MPOA,60_lighton_food,0.5,,,viral injection not good,06/02/23
+JKAJ15.5c,,,MPOA,60_lighton_food,0.6,,,implantation not accurate,07/06/23
+JKAJ18.4h,,,PVH,60_lighton_food,0.4,,,,10/03/23
+JKAJ18.2i,,,PVH,60_lighton_food,0,,,invalid,
+JKAJ18.2h,,,PVH,60_lighton_food,0.1,,,invalid,06/04/23
+JKAJ19.2d,,,PVH,60_lighton_food,0.465,,,,14/04/2023
+JKAJ19.2e,,,LPOA,60_lighton_food,0.3,,,,14/04/2023
+JKAJ21.1d,,,LPOA,60_lighton_food,0.069,,,,02/05/23
+JKAJ21.1e,,,LPOA,60_lighton_food,0.088,,,,02/05/23
 JKAJ16.2h,,24/05/22,MPOA,60_post_food,0,,,,09/12/22
 JKAJ16.2j,,24/05/22,MPOA,60_post_food,0.02,,,,09/12/22
 JKAJ8.9f,,15/03/22,MPOA,60_post_food,0.1,,,,14/12/22
 JKAJ16.2i,,24/05/22,MPOA,60_post_food,0.26,,,,16/12/22
 JKAJ15.5d,,21/12/22,MPOA,60_post_food,0.5,,,,18/01/23
 JKAJ15.5b,,21/12/22,MPOA,60_post_food,0.2,,,,18/01/23
-JKAJ15.5a,,,MPOA,60_post_food,0.4,,,,06/02/23
-JKAJ15.5c,,,MPOA,60_post_food,0.1,,,,07/06/23
+JKAJ15.5a,,,MPOA,60_post_food,0.4,,,viral injection not good,06/02/23
+JKAJ15.5c,,,MPOA,60_post_food,0.1,,,implantation not accurate,07/06/23
+JKAJ18.4h,,,PVH,60_post_food,0.4,,,,06/04/23
+JKAJ18.2h,,,PVH,60_post_food,0.32,,,invalid,
+JKAJ19.2d,,,PVH,60_post_food,0.12,,,,14/04/2023
+JKAJ19.2e,,,LPOA,60_post_food,0.155,,,,14/04/2023
+JKAJ21.1d,,,LPOA,60_post_food,0.107,,,,02/05/23
+JKAJ21.1e,,,LPOA,60_post_food,0.25,,,,02/05/23
