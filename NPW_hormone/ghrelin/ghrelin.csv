@@ -1,0 +1,29 @@
+status,number,id,state,Abundance
+old,1,33.2g,Agg-,0.717753835
+old,5,6561.1c,Agg-,3.227422693
+old,9,76.4b,Agg-,1.902666437
+old,2,6403.1h,Agg+,1.770680924
+old,3,6561.1e,Agg+,0.793139694
+old,6,33.2f,Agg+,3.251339597
+old,11,6561.1g,Agg+,3.566529157
+old,12,80.4d,Agg+,1.187176382
+old,4,N/A,No FD,0.000105366
+old,7,N/A,No FD,0.00014185
+old,8,N/A,No FD,8.69105E-05
+old,10,N/A,No FD,0.0001401
+old,13,N/A,No FD,8.54565E-05
+second,,33.2g,Agg-,4.678826366
+second,,6561.1c,Agg-,99.76486786
+second,,76.4b,Agg-,61.50535231
+second,,N/A,Agg-,9.168522257
+second,,N/A,Agg-,142.4721748
+second,,6403.1h,Agg+,88.81711351
+second,,6561.1e,Agg+,94.30901382
+second,,33.2f,Agg+,85.13230968
+second,,6561.1g,Agg+,78.20819228
+second,,80.4d,Agg+,43.00745311
+second,,N/A,No FD,0.379637758
+second,,N/A,No FD,0.482441369
+second,,N/A,No FD,0.371596366
+second,,N/A,No FD,0.402142312
+second,,N/A,No FD,0.188719595
