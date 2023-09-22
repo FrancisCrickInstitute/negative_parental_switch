@@ -1,0 +1,24 @@
+﻿mice_ID,surgery_date,implantation_area,histology_validation,addition
+JKAJ16.2i,24/05/2022,MPOA,invalid,unilateral implantation
+JKAJ16.2h,24/05/2022,MPOA,valid,
+JKAJ16.2j,24/05/2022,MPOA,valid,
+JKAJ8.9f,15/03/2022,MPOA,invalid,virus may kill the neurons already
+JKAJ15.5d,21/12/2022,MPOA,valid,
+JKAJ15.5b,21/12/2022,MPOA,invalid,
+JKAJ15.5e,,MPOA,invalid,implantation not accurate
+JKAJ15.5c,,MPOA,invalid,implantation not accurate
+JKAJ21.2b,,MPOA,valid,
+JKAJ21.2c,,MPOA,valid,a bit too anterior
+JKAJ19.2e,,LPOA,valid,good
+JKAJ21.1d,,LPOA,valid,"right position, one side a bit too high, unilateral"
+JKAJ21.1e,,LPOA,valid,"one side a bit posterior close to mpoa, injection unilateral"
+JKBR1.3g,,LPOA,,
+JKBR1.3f,,LPOA,,
+JKBR1.3i,,LPOA,,
+JKBR1.3h,,LPOA,valid,
+JKBR1.4d,,PVH,invalid,implantation too high
+JKBR1.4e,,PVH,valid,need to double check viral expression
+JKBR1.4f,,PVH,valid,need to double check viral expression
+JKBR1.4g,,PVH,valid,need to double check viral expression
+JKAJ18.4h,,PVH,valid,good 
+JKAJ19.2d,,PVH,valid,good
