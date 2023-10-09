@@ -12,9 +12,9 @@ JKAJ21.2c,,MPOA,valid,a bit too anterior
 JKAJ19.2e,,LPOA,valid,good
 JKAJ21.1d,,LPOA,valid,"right position, one side a bit too high, unilateral"
 JKAJ21.1e,,LPOA,valid,"one side a bit posterior close to mpoa, injection unilateral"
-JKBR1.3g,,LPOA,,
-JKBR1.3f,,LPOA,,
-JKBR1.3i,,LPOA,,
+JKBR1.3g,,LPOA,valid,"implantation accurate, nice viral injection"
+JKBR1.3f,,LPOA,valid,"implantation right,nice bilateral injection"
+JKBR1.3i,,LPOA,invalid,implantation right but no viral expression
 JKBR1.3h,,LPOA,valid,
 JKBR1.4d,,PVH,invalid,implantation too high
 JKBR1.4e,,PVH,valid,need to double check viral expression
