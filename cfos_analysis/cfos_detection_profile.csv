@@ -1,0 +1,12 @@
+id,Threshold_2,requested pixel size,background radius,Circularity ,sigma,minimum area,maximum area,threshold,cell expansion
+BRAC5487.3k,10,,3,0.6(staining not great),,,,,
+BRAC5481.2e,9,,3,,,,,,
+BRAC5603.3f,10,1,2.5,0,3,30,400,10,
+BRAC5603.3e,20,1,6,0.6,3,30,400,10,
+BRAC5487.3i,15,1,6,0.6,,,,,
+BRAC5487.3j,12.5,,6,,,,,,
+BRAC5872.1c,10,,3,0.6,,,,,
+BRAC5872.1d,10,,6,0.6,,,,,
+BRAC5872.1f,12.5,,6,0.6,,,,,
+BRAC5872.1g,12.5,1,6,0.6,3,30,400,10,
+BRAC5112.5g,30,1,6,0.6,,,,,
