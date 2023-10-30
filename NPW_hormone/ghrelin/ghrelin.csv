@@ -9,9 +9,9 @@ old,11,6561.1g,Agg+,3.566529157
 old,12,80.4d,Agg+,1.187176382
 old,4,N/A,No FD,0.000105366
 old,7,N/A,No FD,0.00014185
-old,8,N/A,No FD,8.69105E-05
+old,8,N/A,No FD,8.69E-05
 old,10,N/A,No FD,0.0001401
-old,13,N/A,No FD,8.54565E-05
+old,13,N/A,No FD,8.55E-05
 second,,33.2g,Agg-,4.678826366
 second,,6561.1c,Agg-,99.76486786
 second,,76.4b,Agg-,61.50535231
@@ -27,3 +27,18 @@ second,,N/A,No FD,0.482441369
 second,,N/A,No FD,0.371596366
 second,,N/A,No FD,0.402142312
 second,,N/A,No FD,0.188719595
+third,,33.2g,Agg-,505.8380353
+third,,6561.1c,Agg-,613.3205491
+third,,76.4b,Agg-,765.555964
+del,,Agg-,Agg-,59.58911996
+third,,Agg-,Agg-,1210.145248
+third,,640.3 1h,Agg+,672.8088525
+third,,6561.1e,Agg+,619.1691093
+third,,33.2f,Agg+,627.3042115
+third,,6561.1g,Agg+,668.9479203
+third,,80.41,Agg+,415.8691927
+third,,N/A,Control,303.3464862
+third,,N/A,Control,71.52732569
+third,,N/A,Control,35.78293663
+third,,N/A,Control,8.168033312
+third,,N/A,Control,36.47912219

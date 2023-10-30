@@ -1,0 +1,15 @@
+id,state_before,retrieval_before_latency,state_before_comment,1h_food_consumption_before,state_after,state_after_latency,parental_state_after,retrieval_after_latency,state_after_comment,1h_food_consumption_after,target,exp_time,prev_exp,exp_date
+BRAC5481.2f,Parental-,,,,Agg-,,Parental-,,,0.9,C-fos,1,,29/04/21
+BRAC5481.2e,Parental+,,retrieve both pups,,Agg-,,Parental+,,retrieve both pups,0.5,C-fos,1,,29/04/21
+BRAC5603.3f,Parental+,,build a nest around the pups,,Agg-,,Parental+,,build a nest around the pups,0.4,C-fos,1,,30/04/21
+BRAC5603.3e,Parental+,,build a nest around the pups,,Agg+,,,,,1,C-fos,1,,30/04/21
+BRAC5487.3i,Parental+,,,,Agg-,,Parental+,,retrieve one pup,0.5,C-fos,1,,12/05/21
+BRAC5487.3k,Parental+,,,,Agg-,,Parental+,,build a nest around the pups,0.3,C-fos,1,,12/05/21
+BRAC5487.3j,Parental+,,,,Agg+,,,,,0.7,C-fos,1,,12/05/21
+BRAC5872.1c,Parental-,,,,Agg+,,,,,0.9,C-fos,1,,26/05/21
+BRAC5872.1d,Parental-,,,,Agg+,,,,,0.9,C-fos,1,,26/05/21
+BRAC5872.1f,Parental-,,build a nest near the pups but not parental,,Agg+,,,,pup was consumed – which may compromise the the food consumption data,0.4,C-fos,1,,26/05/21
+BRAC5872.1g,Parental-,,retrieve one pup very late,,Agg+,,,,,0.6,C-fos,1,,26/05/21
+BRAC5112.5g,Parental-,,,,Agg-,,Parental+,,retrieve both pups,,,,,
+BRAC5319.3e,Parental-,,,,Agg-,,Parental-,,,,,,,
+BRAC5319.3f,Parental+,,retrieve both pups,,Agg-,,Parental+,,retrieve both pups,,,,,
