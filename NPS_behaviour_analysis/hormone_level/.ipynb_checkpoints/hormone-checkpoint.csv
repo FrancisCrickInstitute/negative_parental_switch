@@ -1,0 +1,8 @@
+stage,min_estrogen_level(pg/ml),min_progesterone_level(ng/ml),max_estrogen_level(pg/ml),max_progesterone_level(ng/ml),start_dark_phase_progesterone(ng/ml),end_dark_phase_progesterone(ng/ml),P/E* 10^-3,switching probability,log(P/E),switching probability
+M,,5,3.1,27,5,27,8.70967741935484,70,0.940002070324715,70
+D,,5,7.5,15,48,7,2,46,0.301029995663981,46
+P,,5,10.3,64,5,64,6.21359223300971,56.7,0.793342749278715,56.7
+E,,5,4.2,25,23,4,0.952380952380952,31,-0.021189299069938,31
+PD2,,,18,50,,,2.77777777777778,66,0.322219294733919,43
+PD10,,,16,37,,,2.3125,44,0.182340208332682,37
+PD18,,,68,70,,,1.02941176470588,33,-0.138302698166282,13
