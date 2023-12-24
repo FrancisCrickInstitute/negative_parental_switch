@@ -17,15 +17,15 @@ JKBR1.3f,,LPOA,valid,"implantation right,nice bilateral injection"
 JKBR1.3i,,LPOA,invalid,implantation right but no viral expression
 JKBR1.3h,,LPOA,valid,
 JKBR1.4d,,PVH,invalid,implantation too high
-JKBR1.4e,,PVH,valid,need to double check viral expression
-JKBR1.4f,,PVH,valid,need to double check viral expression
-JKBR1.4g,,PVH,valid,need to double check viral expression
+JKBR1.4e,,PVH,valid,good
+JKBR1.4f,,PVH,valid,good
+JKBR1.4g,,PVH,valid,good
 JKAJ18.4h,,PVH,valid,good 
 JKAJ19.2d,,PVH,valid,good
-JKAJ26.3e,,MPOA_control,,
-JKAJ26.3d,,MPOA_control,,
-JKAJ26.3g,,MPOA_control,,
-JKAJ26.3f,,MPOA_control,,
+JKAJ26.3e,,MPOA_control,invalid,"unilateral implantation, too right left implant end in midline, nice injection"
+JKAJ26.3d,,MPOA_control,valid,"implantation accurate, nice viral injection"
+JKAJ26.3g,,MPOA_control,valid,"implantation accurate, nice viral injection"
+JKAJ26.3f,,MPOA_control,valid,"slightly to the left, a bit anterior, viral expression bilateral but biased on one side"
 JKAJ29.1f,,MPOA_control,,
 JKAJ29.1e,,MPOA_control,,
 JKAJ29.1h,,MPOA_control,,
