@@ -1,11 +1,11 @@
-mice_ID,estrous_stage,surgery_date,food_validation_null_date,food_consumption_null,food_validation_CNO_date,food_consumption_CNO,validation_result,manipulation_date,state_before,state_after,attack_latency,state_D2,receptor,histology validation,comment
+mice_ID,estrous_stage,surgery_date,food_validation_null_date,food_consumption_null,food_validation_CNO_date,food_consumption_CNO,validation_result,manipulation_date,state_before,state_after,attack_latency,state_D2,receptor,histology_validation,comment
 JKAJ8.1b,,15/07/2021,,0.1,,0.5,valid,14/09/2021,,Agg-,,Agg-,Gq(non-conditional),valid (non-conditional),
 JKAJ8.1d,,15/07/2021,,0.3,,0.7,valid,14/09/2021,,Agg+,,Agg-,Gq(non-conditional),valid (non-conditional),
 JKAJ7.7g,,19/07/2021,,0.2,,0.8,valid,14/09/2021,,Agg+,,Agg-,Gq(non-conditional),valid (non-conditional),
 JKAJ7.7h,,19/07/2021,,0.2,,0.6,valid,14/09/2021,,Agg+,,Agg-,Gq(non-conditional),valid (non-conditional),
 JKAJ9.3d,,,,,,,valid,14/09/2021,,Agg- (eating food dust in the cage),,,Gq(non-conditional),valid (non-conditional),
 JKAJ8.2f,,04/08/2021,,,,,,31/08/2021,Agg+,Agg+,,Agg-,Gi,nonvalid(non-conditional) - spready,two injection in arcuate but more posterior one end up in vmh
-JKAJ9.3c,,04/08/2021,,,,,,31/08/2021,Agg+,Agg+,,Agg-,Gi+O15,valid (non-conditional),
+JKAJ9.3c,,04/08/2021,,,,,,31/08/2021,Agg+,Agg+,,Agg-,Gi,valid (non-conditional),
 JKAJ8.4b,,28/09/2021,24/10/2022,0.1,22/10/2021,0.6,valid,25/10/2021,,Agg+,,Agg-,Gq(non-conditional),valid (non-conditional),
 JKAJ8.4c,,28/09/2021,24/10/2022,0.1,22/10/2021,0,invalid,,,,,,Gq(non-conditional),invalid,
 JKAJ10.3d,,08/10/2021,30/10/2021,0,28/10/2021,0,,30/10/2021,,Agg-,,Agg-,mCher,valid,
@@ -42,6 +42,6 @@ JKAJ28.3h,,,,,12/12/2023,0.08,,12/12/2023,,Agg-,,,hGlyR,,
 JKAJ28.3f,,,,,12/12/2023,0.25,,12/12/2023,,Agg-,,,hGlyR,,
 JKAJ28.3e,,,,,12/12/2023,0.03,,12/12/2023,,Agg-,,,hGlyR,,
 JKAJ28.3d,,,,,12/12/2023,0.14,,12/12/2023,,Agg-,,,hGlyR,,
-JKAJ29.1h,,,,,12/12/2023,0.06,,30/11/2023,,Agg-,,,YFP,,"likely ARC got damaged, animal may have some freezing response"
-JKAJ29.1e,,,,,30/11/2023,0.65,,30/11/2023,,Agg+,,,YFP,,maybe ARC got damaged
-JKAJ29.1f,,,,,30/11/2023,0.36,0.2 second measurement,30/11/2023,,Agg-,,,YFP,,
+JKAJ29.1h,,,,,12/12/2023,0.06,,30/11/2023,,Agg-,,,YFP,invalid,"likely ARC got damaged, animal may have some freezing response"
+JKAJ29.1e,,,,,30/11/2023,0.65,,30/11/2023,,Agg+,,,YFP,,
+JKAJ29.1f,,,,,30/11/2023,0.36,0.2 second measurement,30/11/2023,,Agg-,,,YFP,invalid,maybe ARC got damaged
