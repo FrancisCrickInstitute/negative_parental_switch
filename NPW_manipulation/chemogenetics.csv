@@ -44,14 +44,20 @@ JKAJ28.3e,M,,,29/12/2023,,12/12/2023,0.03,,12/12/2023,,Agg-,,,hGlyR,invalid_test
 JKAJ28.3d,E,,,29/12/2023,,12/12/2023,0.14,,12/12/2023,,Agg-,,,hGlyR,invalid_test,
 JKAJ33.2d,,,,,,11/03/2024,0.07,,11/03/2024,,Agg-,,,hGlyR,invalid_test,
 KKAJ28.4e,,,,,,11/03/2024,0.06,,11/03/2024,,Agg-,,,hGlyR,invalid_test,
-JKAJ28.4f,,,,,,11/03/2024,0.07,,11/03/2024,,Agg-,,,hGlyR,invalid_test,
-JKAJ31.2d,,,,,,11/03/2024,0.36,,11/03/2024,,Agg-,,,hGlyR,invalid_test,
-JKAJ31.2e,,,,,,11/03/2024,0.15,,11/03/2024,,Agg-,,,hGlyR,invalid_test,
-JKAJ33.4b,,,,,,11/04/2024,0.38,,11/04/2024,,Agg-,,,hGlyR,,
-JKAJ33.2d,,,,,,11/04/2024,0.27,,11/04/2024,,Agg-,,,hGlyR,,
+JKAJ28.4f,,,,,,11/03/2024,0.07,,11/03/2024,,Agg-,,,,invalid_test,
+JKAJ31.2d,,,,,,11/03/2024,0.36,,11/03/2024,,Agg-,,,,invalid_test,
+JKAJ31.2e,,,,,,11/03/2024,0.15,,11/03/2024,,Agg-,,,,invalid_test,
+JKAJ33.4b,,,,,,11/04/2024,0.38,,11/04/2024,,Agg-,,,hGlyR,valid,good ARC injection
+JKAJ31.2c,,,,,,18/04/2024,0.39,,18/04/2024,,Agg+,,,hGlyR,valid,good ARC injection
+JKAJ33.2e,,,,,,02/05/2024,0.41,,02/05/2024,,Agg-,,,hGlyR,valid,
+JKAJ28.3d,,,,,,,,,,,Agg-,,,hGlyR,valid,food intake may be unreliable
 JKAJ29.1h,M,NA,,,,12/12/2023,0.06,,30/11/2023,,Agg-,,,YFP,invalid,"likely ARC got damaged, animal may have some freezing response"
-JKAJ29.1e,D,,,29/12/2023,,30/11/2023,0.65,,30/11/2023,,Agg+,,,YFP,,
+JKAJ29.1e,D,,,29/12/2023,,30/11/2023,0.65,,30/11/2023,,Agg+,,,YFP,valid,good ARC injection
 JKAJ29.1f,E,NA,,,,30/11/2023,0.36,0.2 second measurement,30/11/2023,,Agg-,,,YFP,invalid,maybe ARC got damaged
 JKAJ33.2e,,,,,,11/03/2024,0.07,,11/03/2024,,Agg-,,,YFP,invalid_test,
-JKAJ32.2d,,,,,,11/04/2024,0.75,,11/04/2024,,Agg+,,,YFP,,
-JKAJ31.2e,,,,,,11/04/2024,0.59,,11/04/2024,,Agg+,,,YFP,,
+JKAJ32.2d,,,,,,11/04/2024,0.75,,11/04/2024,,Agg+,,,YFP,,check whether hglyr or yfp
+JKAJ31.2e,,,,,,11/04/2024,0.59,,11/04/2024,,Agg+,,,YFP,valid,good ARC injection
+JKAJ31.2d,,,,,,18/04/2024,0.54,,18/04/2024,,Agg-,,,YFP,valid,no signal
+JKAJ33.2d,,,,,,18/04/2024,1.17,,18/04/2024,,Agg+,,,YFP,valid,good ARC injection
+JKAJ33.2d,,,,,,11/04/2024,0.27,,11/04/2024,,Agg-,,,YFP,invalid,repeated_testing
+JKAJ28.4e,,,,,,02/05/2024,0.34,,02/05/2024,,Agg+,,,YFP,valid,

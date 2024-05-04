@@ -13,20 +13,22 @@ JKAJ30.1e,,npykd,Agg+,680,,,too few neurons,30/12/2023
 JKAJ30.1d,,npykd,Agg+,80,invalid,,,30/12/2023
 JKAJ30.2c,M,npykd,Agg+,247,invalid,,too few neurons,01/03/2024
 JKAJ30.2b,D,npykd,Agg+,830,valid,,need to rescan 3,01/03/2024
-JKAJ27.5c,E-M,npykd,Agg+,402,,,,01/03/2024
+JKAJ27.5c,E-M,npykd,Agg+,402,valid,,good number of neurons,01/03/2024
 JKAJ27.5a,M,npykd,Agg+,166,invalid,,too few neurons,01/03/2024
-JKBR4.1e,P,npykd,Agg-,,,,,01/03/2024
-JKBR4.1d,E,npykd,Agg-,,,,,01/03/2024
-JKAJ33.2f,M,npykd,Agg+,515,,,too few neurons,01/03/2024
+JKBR4.1e,P,npykd,Agg-,,valid,,good number of neurons,01/03/2024
+JKBR4.1d,E,npykd,Agg-,,valid,,good number of neurons,01/03/2024
+JKAJ33.2f,M,npykd,Agg+,515,invalid,,too few neurons,01/03/2024
 JKAJ27.5b,E,npykd,Agg-,,invalid,,too few neurons,01/03/2024
-JKBR4.1e,P,npykd,Agg-,,,,,11/03/2024
-JKBR4.1d,D,npykd,Agg-,,,,,11/03/2024
+JKBR4.1e,P,npykd,Agg-,,valid,,good number of neurons,11/03/2024
+JKBR4.1d,D,npykd,Agg-,,valid,,good number of neurons,11/03/2024
 JKAJ30.2c,E,npykd,Agg+,162,invalid,,too few neurons,11/03/2024
 JKAJ30.2b,D,npykd,Agg+,898,valid,,,11/03/2024
 JKAJ27.5b,P,npykd,Agg+,133,invalid,,too few neurons,08/03/2024
 JKAJ33.2f,M,npykd,Agg+,132,invalid,,too few neurons,08/03/2024
 JKAJ27.5a,,npykd,Agg+,68,invalid,,too few neurons,14/03/2024
-JKAJ27.5c,,npykd,Agg+,556,,,,14/03/2024
+JKAJ27.5c,,npykd,Agg+,556,valid,,good number of neurons,14/03/2024
+JKBR6.2b,,scrambled,Agg+,426,,,,02/05/2024
+JKBR5.1b,,scrambled,Agg+,136,,,,02/05/2024
 JKAX12.6e,E,ctrl,Agg-,,,,,10/06/2022
 JKAX12.6f,E,ctrl,Agg+,192,,,,10/06/2022
 JKAH27.3b,M,ctrl,Agg+,30,,,,10/06/2022
