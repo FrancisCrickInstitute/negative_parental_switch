@@ -1,27 +1,55 @@
-﻿mice_ID,estrous_stage,condition,food_intake,behaviour_post,attack_latency,validation,validation_comments
-JKAJ30.1f,,npy_KD,,,,invalid,"signals in MPOA, no infected agrp cells"
-JKAJ30.1g,,npy_KD,,,,invalid,"signals in MPOA, no infected agrp cells"
-JKAJ30.1e,,npy_KD,,,,invalid,"signals in MPOA, a few infected agrp cells"
-JKBR2.1f,,npy_KD,,,,invalid,no infected agrp cells
-JKBR2.1e,,npy_KD,,Agg-,,validation,
-JKAJ27.5a,,npy_KD,1.15,Agg+,166,,
-JKAJ27.5c,,npy_KD,0.94,Agg+,400,,
-JKAJ30.2b,,npy_KD,1.04,Agg+,831,,
-JKAJ30.2c,,npy_KD,0.78,Agg+,247,,
-JKBR4.1d,,npy_KD,0.89,Agg-,,,
-JKBR4.1e,,npy_KD,1.04,Agg-,,,
-JKAJ27.5b,,npy_KD,0.92,Agg-,,,
-JKAJ33.2f,,npy_KD,0.75,Agg+,692,,
-JKAX7.4a,P,ctrl,P,Agg+,144,,
-JKAX7.4b,M,ctrl,M,Agg+,182,,
-JKAX12.3g,D,ctrl,D,Agg-,,,
-JKAX12.6e,E,ctrl,E,Agg-,,,
-JKAX12.6f,E,ctrl,E,Agg+,192,,
-JKAH27.3b,M,ctrl,M,Agg+,30,,
-JKAH27.3c,D,ctrl,D,Agg-,,,
-JKAH28.2d,M,ctrl,M,Agg+,260,,
-JKAH29.3a,D,ctrl,D,Agg+,46,,
-JKAH27.3d,M,ctrl,M,Agg+,18,,
-JKAH29.3b,P,ctrl,P,Agg+,145,,
-JKAX43.1g,P,ctrl,P,Agg-,,,
-JKAX43.1d,M,ctrl,M,Agg+,206,,
+﻿mice_ID,estrous_stage,group,behaviour_post,aggression_latency,validation,cell_detection_validation,validation_comments,experiment_date
+JKAJ30.1e,,npykd,,690,valid,,,20/12/2023
+JKBR2.1f,,npykd,Agg+,121,invalid,validated,,12/06/2023
+JKBR2.1e,,npykd,Agg+,826,valid,"detection is not great for overlapping cells, include median eminence",3 need to rescan,12/06/2023
+JKBR2.1e,,npykd,Agg-,,valid,,,26/06/2023
+JKBR2.3e,,npykd,,,invalid,,"no signal in MPOA, slice discarded",
+JKBR2.3d,,npykd,Agg+,469,invalid,,"no signal in MPOA, slice discarded",
+JKBR2.3c,,npykd,,,invalid,,"no signal in MPOA, slice discarded",
+JKBR2.3b,,npykd,Agg-,,invalid,,"no signal in MPOA, slice discarded",
+JKAJ30.1g,,npykd,Agg+,22,invalid,,too few neurons,30/12/2023
+JKAJ30.1f,,npykd,Agg+,115,invalid,,too few neurons,30/12/2023
+JKAJ30.1e,,npykd,Agg+,680,,,too few neurons,30/12/2023
+JKAJ30.1d,,npykd,Agg+,80,invalid,,,30/12/2023
+JKAJ30.2c,M,npykd,Agg+,247,invalid,,too few neurons,01/03/2024
+JKAJ30.2b,D,npykd,Agg+,830,valid,,need to rescan 3,01/03/2024
+JKAJ27.5c,E-M,npykd,Agg+,402,valid,,good number of neurons,01/03/2024
+JKAJ27.5a,M,npykd,Agg+,166,invalid,,too few neurons,01/03/2024
+JKBR4.1e,P,npykd,Agg-,,valid,,good number of neurons,01/03/2024
+JKBR4.1d,E,npykd,Agg-,,valid,,good number of neurons,01/03/2024
+JKAJ33.2f,M,npykd,Agg+,515,invalid,,too few neurons,01/03/2024
+JKAJ27.5b,E,npykd,Agg-,,invalid,,too few neurons,01/03/2024
+JKBR4.1e,P,npykd,Agg-,,valid,,good number of neurons,11/03/2024
+JKBR4.1d,D,npykd,Agg-,,valid,,good number of neurons,11/03/2024
+JKAJ30.2c,E,npykd,Agg+,162,invalid,,too few neurons,11/03/2024
+JKAJ30.2b,D,npykd,Agg+,898,valid,,,11/03/2024
+JKAJ27.5b,P,npykd,Agg+,133,invalid,,too few neurons,08/03/2024
+JKAJ33.2f,M,npykd,Agg+,132,invalid,,too few neurons,08/03/2024
+JKAJ27.5a,,npykd,Agg+,68,invalid,,too few neurons,14/03/2024
+JKAJ27.5c,,npykd,Agg+,556,valid,,good number of neurons,14/03/2024
+JKBR6.2b,,scrambled,Agg+,426,,,,02/05/2024
+JKBR5.1b,,scrambled,Agg+,136,,,,02/05/2024
+JKAX12.6e,E,ctrl,Agg-,,,,,10/06/2022
+JKAX12.6f,E,ctrl,Agg+,192,,,,10/06/2022
+JKAH27.3b,M,ctrl,Agg+,30,,,,10/06/2022
+JKAH27.3c,D,ctrl,Agg-,,,,,10/06/2022
+JKAH28.2d,M,ctrl,Agg+,260,,,,10/06/2022
+JKAH29.3a,D,ctrl,Agg+,46,,,,10/06/2022
+JKAH27.3d,M,ctrl,Agg+,18,,,,10/06/2022
+JKAH29.3b,P,ctrl,Agg+,145,,,,10/06/2022
+JKAX43.1g,P,ctrl,Agg-,,,,,10/06/2022
+JKAX43.1d,M,ctrl,Agg+,206,,,,10/06/2022
+JKAX7.4a,P,ctrl,Agg+,110,,,,02/03/2022
+JKAX7.4b,M,ctrl,Agg+,185,,,,02/03/2022
+JKAX12.3g,D,ctrl,Agg-,,,,,02/03/2022
+JKAH27.3d,,ctrl,Agg+,17,,,,04/07/2022
+JKAH29.3b,,ctrl,Agg+,215,,,,04/07/2022
+JKAH28.2d,,ctrl,Agg+,260,,,,04/07/2022
+JKAX40.1h,,ctrl,Agg+,77,,,,02/05/2023
+JKAX39.1f,,ctrl,Agg+,84,,,,02/05/2023
+JKAX39.1e,,ctrl,Agg+,101,,,,02/05/2023
+JKAX39.1g,,ctrl,Agg+,269,,,,12/06/2023
+JKAX39.1f,,ctrl,Agg+,199,,,,12/06/2023
+JKAX39.1e,,ctrl,Agg+,101,,,,12/06/2023
+JKAX43.1e,,ctrl,Agg+,123,,,,22/08/2023
+JKAX43.1f,,ctrl,Agg-,,,,,22/08/2023

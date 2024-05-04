@@ -1,20 +1,26 @@
-"mice_ID","state","object_state","food_state","order","refeeding_state","refeeding_parental_state","parental_state_comment"
-"BRAC5986.1e","refeeding_1h","Agg-","NA","object","Agg-","Parental-",
-"BRAC5873.1e","refeeding_1h","Agg+","Agg+","object, food","Agg+",,
-"BRAC6031.1d","refeeding_1h","Agg+","Agg-","object, food","Agg-","Parental+","long grooming and crouching over the pup"
-"BRAC6031.1e","refeeding_1h","Agg+","Agg-","food, object","Agg+",,
-"BRAC6031.1f","refeeding_1h","Agg+","Agg-","food, object","Agg-","Parental+","build a nest around both pups"
-"BRAC5044.7d","refeeding_1h","NA","Agg-","food","Agg-","Parental-",
-"BRAC5044.7e","refeeding_1h","NA","Agg-","food","Agg-","Parental-",
-"BRAC5873.1h","refeeding_1h","Agg+","Agg-","object, food","Agg-","Parental-",
-"BRAC5873.1f","refeeding_1h","NA","Agg-","food","Agg-","Parental-",
-"BRAC5801.3e","refeeding_2h","NA","NA",,"Agg-","Parental-",
-"BRAC5801.3d","refeeding_2h","NA","NA",,"Agg-","Parental-",
-"BRAC5801.3c","refeeding_2h","NA","NA",,"Agg-","Parental+","retrieve both pups"
-"BRAC5626.4e","refeeding_2h","NA","NA",,"Agg+",,
-"BRAC5626.4h","refeeding_2h","NA","NA",,"Agg-","Parental+","build a nest around both pups"
-"BRAC5679.4b","refeeding_2h","NA","NA",,"Agg+",,
-"BRAC5626.4f","refeeding_2h","NA","NA",,"Agg+",,
-"BRAC5626.4g","refeeding_2h","NA","NA",,"Agg-","Parental+","long grooming and crouching over the pup"
-"BRAC5539.5i","refeeding_2h","NA","NA",,"Agg-","Parental+","long grooming followed by nest building around the pups"
-"BRAC5858.2g","refeeding_2h","NA","NA",,"Agg-","Parental-",
+mice_ID,state,object_state,object_state_latency,food_state,food_state_latency,order,refeeding_state,refeeding_parental_state,parental_state_comment
+BRAC5986.1e,refeeding_1h,Agg-,,NA,,object,Agg-,Parental-,
+BRAC5873.1e,refeeding_1h,Agg+,36,Agg+,109,"object, food",Agg+,,
+BRAC6031.1d,refeeding_1h,Agg+,32,Agg-,,"object, food",Agg-,Parental+,long grooming and crouching over the pup
+BRAC6031.1e,refeeding_1h,Agg+,100,Agg-,,"food, object",Agg+,,
+BRAC6031.1f,refeeding_1h,Agg+,87,Agg-,,"food, object",Agg-,Parental+,build a nest around both pups
+BRAC5044.7d,refeeding_1h,NA,,Agg-,,food,Agg-,Parental-,
+BRAC5044.7e,refeeding_1h,NA,,Agg-,,food,Agg-,Parental-,
+BRAC5873.1h,refeeding_1h,Agg+,364,Agg-,,"object, food",Agg-,Parental-,
+BRAC5873.1f,refeeding_1h,NA,,Agg-,,food,Agg-,Parental-,
+BRAC7229.1f,competitive_assay,NA,,Agg-,,food,,,
+BRAC7229.1g,competitive_assay,Agg+,110,NA,,object,,,
+BRAC7229.1h,competitive_assay,NA,,Agg-,,food,,,
+BRAC6681.1k,competitive_assay,Agg+,42,NA,,object,,,
+BRAC6681.6h,competitive_assay,Agg-,,NA,,object,,,
+BRAC6906.6e,competitive_assay,Agg+,310,NA,,object,,,
+BRAC5801.3e,refeeding_2h,NA,,NA,,,Agg-,Parental-,
+BRAC5801.3d,refeeding_2h,NA,,NA,,,Agg-,Parental-,
+BRAC5801.3c,refeeding_2h,NA,,NA,,,Agg-,Parental+,retrieve both pups
+BRAC5626.4e,refeeding_2h,NA,,NA,,,Agg+,,
+BRAC5626.4h,refeeding_2h,NA,,NA,,,Agg-,Parental+,build a nest around both pups
+BRAC5679.4b,refeeding_2h,NA,,NA,,,Agg+,,
+BRAC5626.4f,refeeding_2h,NA,,NA,,,Agg+,,
+BRAC5626.4g,refeeding_2h,NA,,NA,,,Agg-,Parental+,long grooming and crouching over the pup
+BRAC5539.5i,refeeding_2h,NA,,NA,,,Agg-,Parental+,long grooming followed by nest building around the pups
+BRAC5858.2g,refeeding_2h,NA,,NA,,,Agg-,Parental-,
