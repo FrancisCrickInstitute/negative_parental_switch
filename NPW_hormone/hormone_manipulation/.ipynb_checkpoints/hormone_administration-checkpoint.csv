@@ -1,0 +1,12 @@
+mice_ID,ovx_date,implant_identity,implant_date,exp_date,state_before,retrieval_before_latency,state_before_comment,state_after,state_after_latency,parental_state_after,retrieval_after_latency,state_after_comment
+BRYA72.5b,30/11/21,OVX,,21/12/21,,,,Agg-,,Parental+,,making a nest around two pups
+BRYB93.1e,30/11/21,OVX,,21/12/21,,,,Agg-,,Parental+,,making a nest around two pups
+BRYB93.1f,30/11/21,OVX,,21/12/21,,,,Agg+,,,,
+BRYC72.1l,30/11/21,OVX,,21/12/21,,,,Agg+,,,,
+BRYD35.1f,30/11/21,OVX,,21/12/21,,,,Agg+,,,,
+BRAC6401.2c,14/01/22,progesterone,02/02/22,04/02/22,,,,Agg+,,,,
+BRAC6562.1j,14/01/22,progesterone,02/02/22,04/02/22,,,,Agg+,,,,
+BRAC6260.7g,26/01/22,progesterone,14/02/22,16/02/22,,,,Agg+,,,,
+BRAC6361.3i,26/01/22,progesterone,14/02/22,16/02/22,,,,Agg+,,,,
+BRAC6361.3j,26/01/22,progesterone,14/02/22,16/02/22,,,,Agg+,,,,
+BRAC6546.2c,26/01/22,progesterone,14/02/22,16/02/22,,,,Agg+,,,,
