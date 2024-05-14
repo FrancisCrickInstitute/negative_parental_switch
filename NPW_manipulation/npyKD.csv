@@ -27,8 +27,10 @@ JKAJ27.5b,P,npykd,Agg+,133,invalid,,,too few neurons,08/03/2024
 JKAJ33.2f,M,npykd,Agg+,132,invalid,,,too few neurons,08/03/2024
 JKAJ27.5a,,npykd,Agg+,68,invalid,,,too few neurons,14/03/2024
 JKAJ27.5c,,npykd,Agg+,556,valid,,,good number of neurons,14/03/2024
-JKBR6.2b,,scrambled,Agg+,426,,,,,02/05/2024
-JKBR5.1b,,scrambled,Agg+,136,,,,,02/05/2024
+JKAJ32.4e,,,,,,,,,
+JKAJ32.4f,,,,,,,,,
+JKBR6.2b,,scrambled,Agg+,426,valid,0.52,,,02/05/2024
+JKBR5.1b,,scrambled,Agg+,136,valid,0.58,,,02/05/2024
 JKAX12.6e,E,ctrl,Agg-,,,,,,10/06/2022
 JKAX12.6f,E,ctrl,Agg+,192,,,,,10/06/2022
 JKAH27.3b,M,ctrl,Agg+,30,,,,,10/06/2022
