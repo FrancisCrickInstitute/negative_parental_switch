@@ -1,5 +1,0 @@
-question,function
-Are these genes involved in any critical pathways or processes?,enrichment
-Are there common modulators (upregulators / downregulators) of the identified genes,mass_regulator
-Are the identified genes involved in a common regulatory network?,community
-Could there be compensatory mechanisms within the same pathway,motif
