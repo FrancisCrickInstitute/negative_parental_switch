@@ -2,5 +2,5 @@
 /NPW_transcripts/transcriptormics_merfish/Merfish_ABC_data/**
 /NPW_transcripts/transcriptormics_merfish/Merfish_ABC_data/expression_matrices/MERFISH-C57BL6J-638850-imputed/20240831/C57BL6J-638850-imputed-log2.h5ad
 /NPW_transcripts/transcriptormics_merfish/Merfish_ABC_data/expression_matrices/MERFISH-C57BL6J-638850/20241115/*
-/NPW_transcripts/transcriptormics_merfish/merfish_data/*
+NPW_transcripts/transcriptormics_merfish/merfish_data/**
 /NPW_transcripts/receptor_map/*.csv
