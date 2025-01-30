@@ -1,6 +1,13 @@
+NPW_transcripts/transcriptormics_merfish/merfish_data/*.csv
 
-/NPW_transcripts/transcriptormics_merfish/Merfish_ABC_data/**
-/NPW_transcripts/transcriptormics_merfish/Merfish_ABC_data/expression_matrices/MERFISH-C57BL6J-638850-imputed/20240831/C57BL6J-638850-imputed-log2.h5ad
-/NPW_transcripts/transcriptormics_merfish/Merfish_ABC_data/expression_matrices/MERFISH-C57BL6J-638850/20241115/*
+NPW_transcripts/transcriptormics_merfish/Merfish_ABC_data/**
+NPW_transcripts/transcriptormics_merfish/Merfish_ABC_data/expression_matrices/MERFISH-C57BL6J-638850-imputed/20240831/C57BL6J-638850-imputed-log2.h5ad
+NPW_transcripts/transcriptormics_merfish/Merfish_ABC_data/expression_matrices/MERFISH-C57BL6J-638850/20241115/*
 NPW_transcripts/transcriptormics_merfish/merfish_data/**
-/NPW_transcripts/receptor_map/*.csv
+NPW_transcripts/receptor_map/*.csv
+NPY-R project/*
+NPW_ephys/output_figures/*
+NPS_behaviour_analysis/boris_virtual_env/**
+NPS_behaviour_analysis/data backup/**
+NPS_behaviour_analysis/heatmap/**
+NPS_behaviour_analysis/output_figures/**
