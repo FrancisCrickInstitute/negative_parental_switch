@@ -1,0 +1,14 @@
+[
+  "/Users/caom/Documents/negative_parental_switch/NPW_transcripts/transcriptormics _merfish/Merfish_ABC_data/metadata/WHB-10Xv3/20241115/region_of_interest_structure_map.csv",
+  "/Users/caom/Documents/negative_parental_switch/NPW_transcripts/transcriptormics _merfish/Merfish_ABC_data/metadata/WHB-10Xv3/20241115/cell_metadata.csv",
+  "/Users/caom/Documents/negative_parental_switch/NPW_transcripts/transcriptormics _merfish/Merfish_ABC_data/expression_matrices/MERFISH-C57BL6J-638850/20230830/C57BL6J-638850-log2.h5ad",
+  "/Users/caom/Documents/negative_parental_switch/NPW_transcripts/transcriptormics _merfish/Merfish_ABC_data/expression_matrices/WMB-10Xv3/20230630/WMB-10Xv3-HY-log2.h5ad",
+  "/Users/caom/Documents/negative_parental_switch/NPW_transcripts/transcriptormics _merfish/Merfish_ABC_data/metadata/Allen-CCF-2020/20230630/views/parcellation_to_parcellation_term_membership_color.csv",
+  "/Users/caom/Documents/negative_parental_switch/NPW_transcripts/transcriptormics _merfish/Merfish_ABC_data/metadata/WMB-10X/20241115/cell_metadata.csv",
+  "/Users/caom/Documents/negative_parental_switch/NPW_transcripts/transcriptormics _merfish/Merfish_ABC_data/metadata/MERFISH-C57BL6J-638850/20241115/views/cell_metadata_with_cluster_annotation.csv",
+  "/Users/caom/Documents/negative_parental_switch/NPW_transcripts/transcriptormics _merfish/Merfish_ABC_data/metadata/MERFISH-C57BL6J-638850-CCF/20231215/ccf_coordinates.csv",
+  "/Users/caom/Documents/negative_parental_switch/NPW_transcripts/transcriptormics _merfish/Merfish_ABC_data/metadata/WMB-10X/20241115/region_of_interest_metadata.csv",
+  "/Users/caom/Documents/negative_parental_switch/NPW_transcripts/transcriptormics _merfish/Merfish_ABC_data/expression_matrices/MERFISH-C57BL6J-638850-imputed/20240831/C57BL6J-638850-imputed-log2.h5ad",
+  "/Users/caom/Documents/negative_parental_switch/NPW_transcripts/transcriptormics _merfish/Merfish_ABC_data/metadata/MERFISH-C57BL6J-638850-CCF/20231215/reconstructed_coordinates.csv",
+  "/Users/caom/Documents/negative_parental_switch/NPW_transcripts/transcriptormics _merfish/Merfish_ABC_data/metadata/Allen-CCF-2020/20230630/views/parcellation_to_parcellation_term_membership_acronym.csv"
+]
