@@ -1,0 +1,6 @@
+/NPW_transcripts/receptor_map/*.csv
+/NPW_transcripts/receptor_map/*.h5ad
+/NPW_transcripts/transcriptormics_merfish/merfish_data/**
+/NPW_transcripts/transcriptormics_merfish/merfish_data/**
+*.h5ad
+*.feather
