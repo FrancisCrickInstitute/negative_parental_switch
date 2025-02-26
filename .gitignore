@@ -4,3 +4,4 @@
 /NPW_transcripts/transcriptormics_merfish/merfish_data/**
 *.h5ad
 *.feather
+NPW_transcripts/transcriptormics _merfish/merfish_data/merfish_all_cells.csv
