@@ -3,5 +3,6 @@ JKBR4.1e_slice3_slide2,npykd,0.107,0.028,23935,32530,,invalid,"a bit saturated i
 JKBR4.1e_slice3_slide2_rescan,npykd,0.039,0.003,6513,12622,,valid,
 JKAJ30.1c,npykd,0.058,0.012,17174,18806,,valid,
 JKAJ32.4g_mouse3,npykd,0.171,0.55,,,,invalid,doesn't look like the npy channel got stained
-JKBR6.2b,scrambled,0.347,0.039,5907,665,,,
-JKBR5.1b,,,,,,,,
+JKBR6.2b,scrambled,0.347,0.039,5907,665,,,equivalent to S3-scrambled-Mice2
+S2-scrambled-Mice2,scrambled,0.244,0.019,759,5129,,,"JKBR6.2b, mice id same as above"
+Image2_scrambled,scrambled,0.397,0.371,5699,2393,,,some bleach through from GFP to NPY channel? Not too sure
