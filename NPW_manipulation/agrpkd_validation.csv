@@ -1,0 +1,20 @@
+﻿mice_ID,condition,agrpkd_neurons_with_agrp,agrp_with_agrpkd,threshold_gfp,threshold_agrp,pearson_corr,validation,note,
+JKBR6.3g_2,scrambled,0.385,,0.022,360,68,valid,1 gfp cell,old sample
+JKAJ39.1i_6,scrambled,0.333,,0.014,600,210,valid,3 gfp cells,
+JKAJ39.1i_8,scrambled,0.293,0.312360369,0.006,600,210,valid,3 gfp cells,
+JKAJ39.1j_3,scrambled,0.228,,0.007,600,450,valid,4 gfp cells,
+JKAJ37.6d,scrambled,,,,,,,1 gfp cell,
+JKAJ37.4c_3_5,agrpkd,0.25,,0.045,574,670,,"cropped ROI RHS, 5 gfp cells",300nl unilateral
+JKAJ37.4f_4,agrpkd,0.176,,0.046,1114,370,,1 gfp cell,500nl bilateral
+JKAJ37.4e_2,agrpkd,0.387,,0.013,850,550,,5 gfp cells,
+JKAJ42.1b,agrpkd,0.142,,0.045,800,300,valid,50+ cells,
+JKAJ42.1c,agrpkd,0.078,,0.051,1400,300,valid,50+ cells,
+1_0000,agrpkd,,,,,,,no GFP in arcuate,thick section
+2_0001,agrpkd,0.057,,0.04,700,100,,"GFP outside arcuate too, 50+ cells",thick section
+2_0002,agrpkd,0.019,,0.03,700,160,,20 cells,thick section
+2_0003,agrpkd,0.051,,0.019,700,160,valid,50+ cells,thick section
+2_0004,agrpkd,0.073,0.04481056,0.02,500,160,,30 cells,thick section
+3_0000,agrpkd,0.078,,0.007,1500,150,valid,100+ cells,thick section
+4_0000,agrpkd,,,,,,,no arcuate ,thick section
+JKAJ37.4e_6,agrpkd,0.136,,0.009,400,900,,6 gfp cells,
+JAKJ37.4e_4,agrpkd,0.223,0.174149361,0.016,400,1200,,3 gfp cells,
