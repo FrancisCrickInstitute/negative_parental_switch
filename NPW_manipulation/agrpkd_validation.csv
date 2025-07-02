@@ -9,12 +9,12 @@ JKAJ37.4f_4,agrpkd,0.176,,0.046,1114,370,,1 gfp cell,500nl bilateral
 JKAJ37.4e_2,agrpkd,0.387,,0.013,850,550,,5 gfp cells,
 JKAJ42.1b,agrpkd,0.142,,0.045,800,300,valid,50+ cells,
 JKAJ42.1c,agrpkd,0.078,,0.051,1400,300,valid,50+ cells,
-1_0000,agrpkd,,,,,,,no GFP in arcuate,thick section
-2_0001,agrpkd,0.057,,0.04,700,100,,"GFP outside arcuate too, 50+ cells",thick section
-2_0002,agrpkd,0.019,,0.03,700,160,,20 cells,thick section
-2_0003,agrpkd,0.051,,0.019,700,160,valid,50+ cells,thick section
-2_0004,agrpkd,0.073,0.04481056,0.02,500,160,,30 cells,thick section
-3_0000,agrpkd,0.078,,0.007,1500,150,valid,100+ cells,thick section
-4_0000,agrpkd,,,,,,,no arcuate ,thick section
+JKAJ39.1g_0000,agrpkd,,,,,,,no GFP in arcuate,thick section
+JKAJ37.6g_0001,agrpkd,0.057,,0.04,700,100,,"GFP outside arcuate too, 50+ cells",thick section
+JKAJ37.6g_0002,agrpkd,0.019,,0.03,700,160,,20 cells,thick section
+JKAJ37.6g_0003,agrpkd,0.051,,0.019,700,160,valid,50+ cells,thick section
+JKAJ37.6g_0004,agrpkd,0.073,0.04481056,0.02,500,160,,30 cells,thick section
+JKAJ37.6i_0000,agrpkd,0.078,,0.007,1500,150,valid,100+ cells,thick section
+JKAJ37.6h_0000,agrpkd,,,,,,,no arcuate ,thick section
 JKAJ37.4e_6,agrpkd,0.136,,0.009,400,900,,6 gfp cells,
 JAKJ37.4e_4,agrpkd,0.223,0.174149361,0.016,400,1200,,3 gfp cells,
