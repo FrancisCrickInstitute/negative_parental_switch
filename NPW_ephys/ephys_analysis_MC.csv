@@ -63,74 +63,74 @@ s1c2 26052023,F,Unknown,pan-MPOA-virgin,P,BRAC7921.4e,WT,No_FD,,,,silent,silent,
 S1C1 25052023,F,Unknown,pan-MPOA-virgin,M,BRAC7560.6f,WT,No_FD,,,no,silent,silent,silent,0,0,0,no,0,no,0,0,0,0,0,24,0,-56.34871463,748.0319742,3.07079646,10.7,0.6,8.3,,,,
 S2C1 25052023,F,Unknown,pan-MPOA-virgin,M,BRAC7560.6f,WT,No_FD,,,no,silent,silent,silent,0,0,0,no,0,no,0,0,0,0,0,30,0,-53.11796679,677.656372,,,,,,,,
 S3C1 25052023,F,Unknown,pan-MPOA-virgin,P,BRAC7560.6f,WT,No_FD,,,,silent,silent,silent,0,0,0,yes,6.5,yes,16.9,0,0,0,0,,0,-51.95874652,,,,,,,,,
-S1C1 17062023,F,Unknown,pan-MPOA-virgin,M,BRAC,WT,No_FD,,,,tonic,tonic,silent,0.3,0.8,3710,,,,,75.2,3.1,2.6,254,,-48.8,-39.76537198,,1.608,8.3,1.4,14.1,,,,
-S1C2 17062023,F,Unknown,pan-MPOA-virgin,M,BRAC,WT,No_FD,,,yes,silent,silent,silent,0,0,0,no,0,no,0,0,0,0,0,20,0,-51.9729713,745.4814607,0.485714286,9,1.1,8.9,,,,
-S1C3 17062023,F,Unknown,pan-MPOA-virgin,M,BRAC,WT,No_FD,,,no,phasic,phasic,silent,0.8,1.5,1285,yes,11.35,yes,13.8,68.7,4.1,2.7,281,40,-45.7,-38.69851541,426.3352174,0.06640625,11.6,0.3,13,,,,
-S1C1 25062023,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,No_FD,,,,phasic,phasic,,0.43,1.2,2304,,,,,,,,,,,-37.88815018,,,,,,,,,confirmed
-S1C2 25062023,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,No_FD,,,,silent,silent,,0,0,0,,,,,,,,,,,-48.18650383,,,,,,,,,confirmed
-S1C3 25062023,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,No_FD,,,,tonic,tonic,,0.48,0.79,,,,,,0,0,0,0,,0,-36.5532648,,,,,,,,,confirmed
-S1C4 25062023,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,No_FD,,,,tonic,tonic,,0.07,0.08,13755,,,,,,,,,,,-50.42715421,,,,,,,,,confirmed
-S1C5 25062023,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,No_FD,,,,tonic,tonic,,2.78,3.15,360,no,0,yes,9.12,,,,,,,-39.87578837,672.3013199,,,,,,,,confirmed
-S1C6 25062023,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,No_FD,,,,tonic,tonic,,1.3,1.6,766,,,,,,,,,,,-42.33070152,,,,,,,,,confirmed
-S2C1 25062023,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,No_FD,,,,tonic,tonic,,4.8,5.5,208,yes,18.49,yes,9.92,,,,,,,-37.0447163,737.809561,,,,,,,,confirmed
-S2C2 25062023,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,No_FD,,,,tonic,tonic,,15.1,15.4,66,no,0,yes,5.1,,,,,,,-41.1490031,685.6159776,,,,,,,,confirmed
-S1C1 24062023,F,Unknown,pan-MPOA-virgin,no VS,BRAC,WT,No_FD,,,,tonic,tonic,,5.76,6.6,173,,,,,,,,,,,-47.49459358,,,,,,,,,confirmed
-S1C2 24062023,F,Unknown,pan-MPOA-virgin,no VS,BRAC,WT,No_FD,,,,tonic,tonic,,6.4,6.8,156,,,,,,,,,,,-39.36870913,,,,,,,,,confirmed
-S1C3 24062023,F,Unknown,pan-MPOA-virgin,no VS,BRAC,WT,No_FD,,,,phasic,phasic,,1,1.26,1005,,,,,,,,,,,-45.08997477,,,,,,,,,confirmed
-S1C4 24062023,F,Unknown,pan-MPOA-virgin,no VS,BRAC,WT,No_FD,,,,tonic,tonic,,1.6,2.7,610,,,,,,,,,,,-53.0358199,,,,,,,,,confirmed
-S1C5 24062023,F,Unknown,pan-MPOA-virgin,no VS,BRAC,WT,No_FD,,,,tonic,tonic,,0.2,0.25,5002,,,,,,,,,,,-37.30524098,,,,,,,,,confirmed
-S1C7 24062023,F,Unknown,pan-MPOA-virgin,no VS,BRAC,WT,No_FD,,,,silent,silent,,0,0,0,,,,,0,0,0,0,,0,-52.79047819,,,,,,,,,confirmed
-S1C8 24062023,F,Unknown,pan-MPOA-virgin,no VS,BRAC,WT,No_FD,,,,tonic,tonic,,0.42,0.6,2359,,,,,,,,,,,-39.15023973,,,,,,,,,confirmed
-S1C9 24062023,F,Unknown,pan-MPOA-virgin,no VS,BRAC,WT,No_FD,,,,tonic,tonic,,2.92,3.2,341,,,,,,,,,,,-38.59381525,,,,,,,,,confirmed
-S1C10 24062023,F,Unknown,pan-MPOA-virgin,no VS,BRAC,WT,No_FD,,,,tonic,tonic,,2.32,2.7,430,,,,,,,,,,,-38.96397946,,,,,,,,,confirmed
-S1C11 24062023,F,Unknown,pan-MPOA-virgin,no VS,BRAC,WT,No_FD,,,,tonic,tonic,,0.1,0.3,9157,,,,,,,,,,,-49.53235644,,,,,,,,,confirmed
-S1C12 24062023,F,Unknown,pan-MPOA-virgin,no VS,BRAC,WT,No_FD,,,,tonic,tonic,,7.73,8.01,129,,,,,,,,,,,-43.56016574,,,,,,,,,confirmed
-S1C13 24062023,F,Unknown,pan-MPOA-virgin,no VS,BRAC,WT,No_FD,,,,silent,silent,,0,0,0,,,,,0,0,0,0,,0,-45.21914571,,,,,,,,,confirmed
-S1C1 14062019,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,No_FD,,,,tonic,tonic,silent,2.8,3,350,yes,14.86,yes,19.59,105.7,3.3,2.33,395,,,,640.4532503,,,,,,,,
-S1C2 14062019,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,No_FD,,,,tonic,tonic,silent,0.06,0.16,14314,yes,27.86,yes,12.5,91.8,1.8,1.75,188,5,-50.3,-45.39180865,620.8587578,,,,,,,,
-S1C1 15062019,F,Unknown,pan-MPOA-virgin,E,BRAC,WT,No_FD,,,,phasic,phasic,silent,1.2,2.5,847,no,0,yes,12.42,127,2.7,1.96,387,10,-64.2,-46.33717827,732.9983119,,,,,,,,
-S1C2 15062019,F,Unknown,pan-MPOA-virgin,E,BRAC,WT,No_FD,,,,tonic,tonic,silent,6.9,7,144,yes,38,yes,10.71,103.9,1.4,1.5,181,3,-56.1,-50.29145681,456.8516054,,,,,,,,
-S2C1 15062019,F,Unknown,pan-MPOA-virgin,E,BRAC,WT,No_FD,,,,silent,silent,silent,0,0,0,no,0,yes,2,0,0,0,0,13,0,-58.42122913,621.4449758,,,,,,,,
-S2C2 15062019,F,Unknown,pan-MPOA-virgin,E,BRAC,WT,No_FD,,,,silent,silent,silent,0,0,0,yes,6.2,yes,13,0,0,0,0,30,0,-51.10924683,285.7935404,,,,,,,,
-S1C1 16062019,F,Unknown,pan-MPOA-virgin,P,BRAC,WT,No_FD,,,,tonic,tonic,silent,0.02,0.04,39100,no,0,yes,9.89,118.6,1.8,1.9,268,5,-61.6,-43.6786334,885.1873757,,,,,,,,confirmed
-S1C2 16062019,F,Unknown,pan-MPOA-virgin,P,BRAC,WT,No_FD,,,,phasic,phasic,silent,1.1,1.3,939,yes,11,yes,6.81,99.4,1.9,1.8,220,,-55.5,-51.90323937,544.9501203,,,,,,,,confirmed
-S2C3 16062019,F,Unknown,pan-MPOA-virgin,P,BRAC,WT,No_FD,,,,tonic,tonic,silent,3.8,4.1,262,no,0,no,0,77,4.3,3.2,341,12,-43.6,-38.42513615,698.9288039,,,,,,,,confirmed
-S2C4 16062019,F,Unknown,pan-MPOA-virgin,P,BRAC,WT,No_FD,,,,phasic,phasic,silent,0.7,1.15,1412,no,0,no,0,91,3.5,2.4,338,10,-51.5,-44.66460588,709.7725389,,,,,,,,confirmed
-S1C1 27062019,F,Unknown,pan-MPOA-virgin,M,BRAC,WT,No_FD,,,,tonic,tonic,silent,0.2,0.4,5089,no,0,yes,4.43,106,2,1.7,239,10,-50.3,-42.37482239,644.2120839,,,,,,,,confirmed
-S1C2 27062019,F,Unknown,pan-MPOA-virgin,M,BRAC,WT,No_FD,,,,tonic,tonic,phasic,9.9,10,100,no,0,no,0,67.6,3.2,2.8,256,6,-43,-37.43452777,634.894712,,,,,,,,confirmed
-s1c1 29062019,F,Unknown,pan-MPOA-virgin,P,BRAC,WT,No_FD,,,,tonic,tonic,phasic,1.6,1.9,634,yes,14.25,yes,21.61,91.4,2.6,2.5,279,,-51.2,-42.9298753,496.0741018,,,,,,,,confirmed
-S1C2 29062019,F,Unknown,pan-MPOA-virgin,P,BRAC,WT,No_FD,,,,tonic,tonic,phasic,5.1,5.8,194,yes,1.65,yes,12,96.3,3.7,3.1,389,,-55.7,-40.1342035,162.4503403,,,,,,,,confirmed
-s1c1 30602019,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,No_FD,,,,tonic,tonic,silent,1.25,1.6,797,yes,11.81,yes,16.94,118.1,1.08,1.6,169,,-62.7,-49.97633774,454.1496606,,,,,,,,confirmed
-s1c2 30602019,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,No_FD,,,,phasic,phasic,silent,0.3,0.7,3661,no,0,no,0,122.2,3.5,2.21,448,,-62.4,-51.17037591,613.0027957,,,,,,,,confirmed
-S2C2 30062019,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,No_FD,,,,silent,silent,silent,0,0,0,yes,24.6,yes,19.5,0,0,0,0,,0,-55.66857131,456.6111169,,,,,,,,confirmed
-S3C1 30062019,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,No_FD,,,,silent,silent,silent,0,0,0,no,0,no,0,0,0,0,0,,0,-57.83631711,629.6118732,,,,,,,,confirmed
-s1c1 09072019,F,Unknown,pan-MPOA-virgin,not taken,BRAC,WT,No_FD,,,,phasic,phasic,silent,0.08,0.4,12563,yes,22.8,yes,7.51,105.2,1.7,1.7,210,,-66.4,-55.4449623,484.3761143,,,,,,,,confirmed
-s1c2 09072019,F,Unknown,pan-MPOA-virgin,not taken,BRAC,WT,No_FD,,,,tonic,tonic,silent,3,3.1,334,no,0,no,0,89.4,2.3,2,230,1,-55.8,-46.96837861,629.699846,,,,,,,,confirmed
-s2c1 09072019,F,Unknown,pan-MPOA-virgin,not taken,BRAC,WT,No_FD,,,,silent,silent,silent,0,0,0,no,0,no,0,0,0,0,0,4,0,-59.34987009,566.866273,,,,,,,,confirmed
-s3c1 09072019,F,Unknown,pan-MPOA-virgin,not taken,BRAC,WT,No_FD,,,,silent,silent,silent,0,0,0,yes,33,yes,9.8,0,0,0,0,9,0,-58.89601283,751.4477725,,,,,,,,confirmed
-s1c1 29072019,F,Unknown,pan-MPOA-virgin,?,BRAC,WT,No_FD,,,,silent,silent,silent,0,0,0,yes,5.98,yes,2.62,0,0,0,0,18,0,-53.44859139,773.8047417,,,,,,,,confirmed
-s1c2 29072019,F,Unknown,pan-MPOA-virgin,?,BRAC,WT,No_FD,,,yes,tonic,tonic,silent,0.8,1.7,1236,yes,12.66,yes,3.63,76.1,4.5,2.9,336,24,-42,-33.65929303,549.1027471,,,,,,,,confirmed
-s2c1 29072019,F,Unknown,pan-MPOA-virgin,?,BRAC,WT,No_FD,,,,phasic,phasic,silent,1.5,2.6,682,no,0,yes,11,136.8,1,1.34,187,,-67.7,-50.00531487,400.9769877,,,,,,,,confirmed
-s2c2 29072019,F,Unknown,pan-MPOA-virgin,?,BRAC,WT,No_FD,,,,tonic,tonic,silent,2.05,3,487,yes,15.44,yes,3.54,90.8,2.4,1.8,227.5,,-56.5,-39.04949689,440.5341595,,,,,,,,confirmed
-S1C1 30072019,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,No_FD,,,,silent,silent,silent,0,0,0,no,0,yes,16.72,0,0,0,0,8,0,-52.4457131,666.4810508,,,,,,,,confirmed
-S1C2 30072019,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,No_FD,,,no,silent,silent,silent,0,0,0,yes,12.15,yes,9.83,0,0,0,0,12,0,-50.931449,654.2066221,,,,,,,,confirmed
-S2C1 30072019,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,No_FD,,,yes,tonic,tonic,silent,3.3,4.2,307,no,0,yes,15.63,90.8,2.2,2,225,6,-55.8,-42.55686322,729.4071417,,,,,,,,confirmed
-S3C1 30072019,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,No_FD,,,,tonic,tonic,phasic,3.2,3.6,315,no,0,no,0,111.6,1.3,1.6,190,4,-63.2,-53.8791989,609.3512016,,,,,,,,confirmed
-S3C2 30072019,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,No_FD,,,no,phasic,phasic,silent,0.2,5,5285,no,0,yes,6.5,98.4,1.8,1.9,202,70,-60.6,-42.81522671,275.6928631,,,,,,,,confirmed
-S1C1 02082019,F,Unknown,pan-MPOA-virgin,M,BRAC,WT,No_FD,,,,phasic,phasic,silent,0.3,0.9,3283,yes,21.5,yes,19.1,96.8,1.5,1.6,176,,-54.3,-44.61365002,229.8812704,,,,,,,,confirmed
-S1C2 02082019,F,Unknown,pan-MPOA-virgin,M,BRAC,WT,No_FD,,,no,tonic,tonic,silent,10.3,10.8,96.7,no,0,no,0,106.4,0.6,1.4,97,2,-57,-51.00154134,561.4287862,,,,,,,,confirmed
-S2C1 02082019,F,Unknown,pan-MPOA-virgin,M,BRAC,WT,No_FD,,,no,tonic,tonic,silent,4.1,4.2,246.7,no,0,yes,3.75,105.7,2,1.9,242,9,-61.2,-47.87877751,294.4161681,,,,,,,,confirmed
-S1c1 19082019,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,No_FD,,,yes,tonic,tonic,silent,0.1,0.2,9375,yes,26,yes,13,89.4,2.2,1.9,223,6,-53.1,-34.12664935,330.1679284,,,,,,,,confirmed
-S1c2 19082019,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,No_FD,,,,silent,silent,silent,0,0,0,no,0,no,0,0,0,0,0,,0,-51.95367058,524.0500354,,,,,,,,confirmed
-S2c1 19082019,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,No_FD,,,no,silent,silent,silent,0,0,0,no,0,no,0,0,0,0,0,39,0,-58.80171848,281.8751873,,,,,,,,confirmed
-S1C1 29082019,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,No_FD,,,yes,tonic,tonic,silent,2.4,2.8,421,yes,4.61,yes,8.42,44.15,,11,655,11,-36.8,-30.03438943,784.475555,,,,,,,,confirmed
-S1C2 29082019,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,No_FD,,,yes,tonic,tonic,silent,0.02,0.02,42413,yes,14,yes,7.14,115.3,2,1.75,272,5,-52.1,-50.45994407,610.6660223,,,,,,,,confirmed
-S2C1 29082019,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,No_FD,,,no,phasic,phasic,silent,0.14,0.64,6675,yes,12.6,yes,14.53,110.3,1.7,1.8,217,7,-65.7,-51.20750613,517.7145392,,,,,,,,confirmed
-S2C2 29082019,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,No_FD,,,yes,phasic,phasic,silent,0.74,3.9,1321,yes,9.7,yes,6.71,81.6,3.7,2.25,318,6,-45.7,-44.73551264,728.9059234,,,,,,,,confirmed
-S1C1 21082019,F,Unknown,pan-MPOA-virgin,M,BRAC,WT,No_FD,,,,tonic,tonic,silent,0.3,4.15,3086,,,,,113.1,1,1.6,139.6,,-66.1,-56.59590494,,,,,,,,,confirmed
-S1C2 21082019,F,Unknown,pan-MPOA-virgin,M,BRAC,WT,No_FD,,,yes,tonic,tonic,silent,1.6,2,619,no,0,no,0,95.7,2.7,2.1,293,4,-47.2,-42.6946868,455.7879362,,,,,,,,confirmed
-S2C1 21082019,F,Unknown,pan-MPOA-virgin,M,BRAC,WT,No_FD,,,no,silent,silent,silent,0,0,0,no,0,yes,9.46,0,0,0,0,13,0,-50.52052344,444.7702902,,,,,,,,confirmed
-S2C2 21082019,F,Unknown,pan-MPOA-virgin,M,BRAC,WT,No_FD,,,yes,tonic,tonic,phasic,3.9,4.3,258,yes,36.53,yes,1.43,81.35,1.6,1.7,160,2,-56.6,-52.11715327,499.0279208,,,,,,,,confirmed
+S1C1 17062023,F,Unknown,pan-MPOA-virgin,M,BRAC1,WT,No_FD,,,,tonic,tonic,silent,0.3,0.8,3710,,,,,75.2,3.1,2.6,254,,-48.8,-39.76537198,,1.608,8.3,1.4,14.1,,,,
+S1C2 17062023,F,Unknown,pan-MPOA-virgin,M,BRAC1,WT,No_FD,,,yes,silent,silent,silent,0,0,0,no,0,no,0,0,0,0,0,20,0,-51.9729713,745.4814607,0.485714286,9,1.1,8.9,,,,
+S1C3 17062023,F,Unknown,pan-MPOA-virgin,M,BRAC1,WT,No_FD,,,no,phasic,phasic,silent,0.8,1.5,1285,yes,11.35,yes,13.8,68.7,4.1,2.7,281,40,-45.7,-38.69851541,426.3352174,0.06640625,11.6,0.3,13,,,,
+S1C1 25062023,F,Unknown,pan-MPOA-virgin,D,BRAC2,WT,No_FD,,,,phasic,phasic,,0.43,1.2,2304,,,,,,,,,,,-37.88815018,,,,,,,,,confirmed
+S1C2 25062023,F,Unknown,pan-MPOA-virgin,D,BRAC2,WT,No_FD,,,,silent,silent,,0,0,0,,,,,,,,,,,-48.18650383,,,,,,,,,confirmed
+S1C3 25062023,F,Unknown,pan-MPOA-virgin,D,BRAC2,WT,No_FD,,,,tonic,tonic,,0.48,0.79,,,,,,0,0,0,0,,0,-36.5532648,,,,,,,,,confirmed
+S1C4 25062023,F,Unknown,pan-MPOA-virgin,D,BRAC2,WT,No_FD,,,,tonic,tonic,,0.07,0.08,13755,,,,,,,,,,,-50.42715421,,,,,,,,,confirmed
+S1C5 25062023,F,Unknown,pan-MPOA-virgin,D,BRAC2,WT,No_FD,,,,tonic,tonic,,2.78,3.15,360,no,0,yes,9.12,,,,,,,-39.87578837,672.3013199,,,,,,,,confirmed
+S1C6 25062023,F,Unknown,pan-MPOA-virgin,D,BRAC2,WT,No_FD,,,,tonic,tonic,,1.3,1.6,766,,,,,,,,,,,-42.33070152,,,,,,,,,confirmed
+S2C1 25062023,F,Unknown,pan-MPOA-virgin,D,BRAC2,WT,No_FD,,,,tonic,tonic,,4.8,5.5,208,yes,18.49,yes,9.92,,,,,,,-37.0447163,737.809561,,,,,,,,confirmed
+S2C2 25062023,F,Unknown,pan-MPOA-virgin,D,BRAC2,WT,No_FD,,,,tonic,tonic,,15.1,15.4,66,no,0,yes,5.1,,,,,,,-41.1490031,685.6159776,,,,,,,,confirmed
+S1C1 24062023,F,Unknown,pan-MPOA-virgin,no VS,BRAC3,WT,No_FD,,,,tonic,tonic,,5.76,6.6,173,,,,,,,,,,,-47.49459358,,,,,,,,,confirmed
+S1C2 24062023,F,Unknown,pan-MPOA-virgin,no VS,BRAC3,WT,No_FD,,,,tonic,tonic,,6.4,6.8,156,,,,,,,,,,,-39.36870913,,,,,,,,,confirmed
+S1C3 24062023,F,Unknown,pan-MPOA-virgin,no VS,BRAC3,WT,No_FD,,,,phasic,phasic,,1,1.26,1005,,,,,,,,,,,-45.08997477,,,,,,,,,confirmed
+S1C4 24062023,F,Unknown,pan-MPOA-virgin,no VS,BRAC3,WT,No_FD,,,,tonic,tonic,,1.6,2.7,610,,,,,,,,,,,-53.0358199,,,,,,,,,confirmed
+S1C5 24062023,F,Unknown,pan-MPOA-virgin,no VS,BRAC3,WT,No_FD,,,,tonic,tonic,,0.2,0.25,5002,,,,,,,,,,,-37.30524098,,,,,,,,,confirmed
+S1C7 24062023,F,Unknown,pan-MPOA-virgin,no VS,BRAC3,WT,No_FD,,,,silent,silent,,0,0,0,,,,,0,0,0,0,,0,-52.79047819,,,,,,,,,confirmed
+S1C8 24062023,F,Unknown,pan-MPOA-virgin,no VS,BRAC3,WT,No_FD,,,,tonic,tonic,,0.42,0.6,2359,,,,,,,,,,,-39.15023973,,,,,,,,,confirmed
+S1C9 24062023,F,Unknown,pan-MPOA-virgin,no VS,BRAC3,WT,No_FD,,,,tonic,tonic,,2.92,3.2,341,,,,,,,,,,,-38.59381525,,,,,,,,,confirmed
+S1C10 24062023,F,Unknown,pan-MPOA-virgin,no VS,BRAC3,WT,No_FD,,,,tonic,tonic,,2.32,2.7,430,,,,,,,,,,,-38.96397946,,,,,,,,,confirmed
+S1C11 24062023,F,Unknown,pan-MPOA-virgin,no VS,BRAC3,WT,No_FD,,,,tonic,tonic,,0.1,0.3,9157,,,,,,,,,,,-49.53235644,,,,,,,,,confirmed
+S1C12 24062023,F,Unknown,pan-MPOA-virgin,no VS,BRAC3,WT,No_FD,,,,tonic,tonic,,7.73,8.01,129,,,,,,,,,,,-43.56016574,,,,,,,,,confirmed
+S1C13 24062023,F,Unknown,pan-MPOA-virgin,no VS,BRAC3,WT,No_FD,,,,silent,silent,,0,0,0,,,,,0,0,0,0,,0,-45.21914571,,,,,,,,,confirmed
+S1C1 14062019,F,Unknown,pan-MPOA-virgin,D,BRAC4,WT,No_FD,,,,tonic,tonic,silent,2.8,3,350,yes,14.86,yes,19.59,105.7,3.3,2.33,395,,,,640.4532503,,,,,,,,
+S1C2 14062019,F,Unknown,pan-MPOA-virgin,D,BRAC4,WT,No_FD,,,,tonic,tonic,silent,0.06,0.16,14314,yes,27.86,yes,12.5,91.8,1.8,1.75,188,5,-50.3,-45.39180865,620.8587578,,,,,,,,
+S1C1 15062019,F,Unknown,pan-MPOA-virgin,E,BRAC5,WT,No_FD,,,,phasic,phasic,silent,1.2,2.5,847,no,0,yes,12.42,127,2.7,1.96,387,10,-64.2,-46.33717827,732.9983119,,,,,,,,
+S1C2 15062019,F,Unknown,pan-MPOA-virgin,E,BRAC5,WT,No_FD,,,,tonic,tonic,silent,6.9,7,144,yes,38,yes,10.71,103.9,1.4,1.5,181,3,-56.1,-50.29145681,456.8516054,,,,,,,,
+S2C1 15062019,F,Unknown,pan-MPOA-virgin,E,BRAC5,WT,No_FD,,,,silent,silent,silent,0,0,0,no,0,yes,2,0,0,0,0,13,0,-58.42122913,621.4449758,,,,,,,,
+S2C2 15062019,F,Unknown,pan-MPOA-virgin,E,BRAC5,WT,No_FD,,,,silent,silent,silent,0,0,0,yes,6.2,yes,13,0,0,0,0,30,0,-51.10924683,285.7935404,,,,,,,,
+S1C1 16062019,F,Unknown,pan-MPOA-virgin,P,BRAC6,WT,No_FD,,,,tonic,tonic,silent,0.02,0.04,39100,no,0,yes,9.89,118.6,1.8,1.9,268,5,-61.6,-43.6786334,885.1873757,,,,,,,,confirmed
+S1C2 16062019,F,Unknown,pan-MPOA-virgin,P,BRAC6,WT,No_FD,,,,phasic,phasic,silent,1.1,1.3,939,yes,11,yes,6.81,99.4,1.9,1.8,220,,-55.5,-51.90323937,544.9501203,,,,,,,,confirmed
+S2C3 16062019,F,Unknown,pan-MPOA-virgin,P,BRAC6,WT,No_FD,,,,tonic,tonic,silent,3.8,4.1,262,no,0,no,0,77,4.3,3.2,341,12,-43.6,-38.42513615,698.9288039,,,,,,,,confirmed
+S2C4 16062019,F,Unknown,pan-MPOA-virgin,P,BRAC6,WT,No_FD,,,,phasic,phasic,silent,0.7,1.15,1412,no,0,no,0,91,3.5,2.4,338,10,-51.5,-44.66460588,709.7725389,,,,,,,,confirmed
+S1C1 27062019,F,Unknown,pan-MPOA-virgin,M,BRAC7,WT,No_FD,,,,tonic,tonic,silent,0.2,0.4,5089,no,0,yes,4.43,106,2,1.7,239,10,-50.3,-42.37482239,644.2120839,,,,,,,,confirmed
+S1C2 27062019,F,Unknown,pan-MPOA-virgin,M,BRAC7,WT,No_FD,,,,tonic,tonic,phasic,9.9,10,100,no,0,no,0,67.6,3.2,2.8,256,6,-43,-37.43452777,634.894712,,,,,,,,confirmed
+s1c1 29062019,F,Unknown,pan-MPOA-virgin,P,BRAC8,WT,No_FD,,,,tonic,tonic,phasic,1.6,1.9,634,yes,14.25,yes,21.61,91.4,2.6,2.5,279,,-51.2,-42.9298753,496.0741018,,,,,,,,confirmed
+S1C2 29062019,F,Unknown,pan-MPOA-virgin,P,BRAC8,WT,No_FD,,,,tonic,tonic,phasic,5.1,5.8,194,yes,1.65,yes,12,96.3,3.7,3.1,389,,-55.7,-40.1342035,162.4503403,,,,,,,,confirmed
+s1c1 30602019,F,Unknown,pan-MPOA-virgin,D,BRAC9,WT,No_FD,,,,tonic,tonic,silent,1.25,1.6,797,yes,11.81,yes,16.94,118.1,1.08,1.6,169,,-62.7,-49.97633774,454.1496606,,,,,,,,confirmed
+s1c2 30602019,F,Unknown,pan-MPOA-virgin,D,BRAC9,WT,No_FD,,,,phasic,phasic,silent,0.3,0.7,3661,no,0,no,0,122.2,3.5,2.21,448,,-62.4,-51.17037591,613.0027957,,,,,,,,confirmed
+S2C2 30062019,F,Unknown,pan-MPOA-virgin,D,BRAC9,WT,No_FD,,,,silent,silent,silent,0,0,0,yes,24.6,yes,19.5,0,0,0,0,,0,-55.66857131,456.6111169,,,,,,,,confirmed
+S3C1 30062019,F,Unknown,pan-MPOA-virgin,D,BRAC9,WT,No_FD,,,,silent,silent,silent,0,0,0,no,0,no,0,0,0,0,0,,0,-57.83631711,629.6118732,,,,,,,,confirmed
+s1c1 09072019,F,Unknown,pan-MPOA-virgin,not taken,BRAC10,WT,No_FD,,,,phasic,phasic,silent,0.08,0.4,12563,yes,22.8,yes,7.51,105.2,1.7,1.7,210,,-66.4,-55.4449623,484.3761143,,,,,,,,confirmed
+s1c2 09072019,F,Unknown,pan-MPOA-virgin,not taken,BRAC10,WT,No_FD,,,,tonic,tonic,silent,3,3.1,334,no,0,no,0,89.4,2.3,2,230,1,-55.8,-46.96837861,629.699846,,,,,,,,confirmed
+s2c1 09072019,F,Unknown,pan-MPOA-virgin,not taken,BRAC10,WT,No_FD,,,,silent,silent,silent,0,0,0,no,0,no,0,0,0,0,0,4,0,-59.34987009,566.866273,,,,,,,,confirmed
+s3c1 09072019,F,Unknown,pan-MPOA-virgin,not taken,BRAC10,WT,No_FD,,,,silent,silent,silent,0,0,0,yes,33,yes,9.8,0,0,0,0,9,0,-58.89601283,751.4477725,,,,,,,,confirmed
+s1c1 29072019,F,Unknown,pan-MPOA-virgin,?,BRAC11,WT,No_FD,,,,silent,silent,silent,0,0,0,yes,5.98,yes,2.62,0,0,0,0,18,0,-53.44859139,773.8047417,,,,,,,,confirmed
+s1c2 29072019,F,Unknown,pan-MPOA-virgin,?,BRAC11,WT,No_FD,,,yes,tonic,tonic,silent,0.8,1.7,1236,yes,12.66,yes,3.63,76.1,4.5,2.9,336,24,-42,-33.65929303,549.1027471,,,,,,,,confirmed
+s2c1 29072019,F,Unknown,pan-MPOA-virgin,?,BRAC11,WT,No_FD,,,,phasic,phasic,silent,1.5,2.6,682,no,0,yes,11,136.8,1,1.34,187,,-67.7,-50.00531487,400.9769877,,,,,,,,confirmed
+s2c2 29072019,F,Unknown,pan-MPOA-virgin,?,BRAC11,WT,No_FD,,,,tonic,tonic,silent,2.05,3,487,yes,15.44,yes,3.54,90.8,2.4,1.8,227.5,,-56.5,-39.04949689,440.5341595,,,,,,,,confirmed
+S1C1 30072019,F,Unknown,pan-MPOA-virgin,D,BRAC12,WT,No_FD,,,,silent,silent,silent,0,0,0,no,0,yes,16.72,0,0,0,0,8,0,-52.4457131,666.4810508,,,,,,,,confirmed
+S1C2 30072019,F,Unknown,pan-MPOA-virgin,D,BRAC12,WT,No_FD,,,no,silent,silent,silent,0,0,0,yes,12.15,yes,9.83,0,0,0,0,12,0,-50.931449,654.2066221,,,,,,,,confirmed
+S2C1 30072019,F,Unknown,pan-MPOA-virgin,D,BRAC12,WT,No_FD,,,yes,tonic,tonic,silent,3.3,4.2,307,no,0,yes,15.63,90.8,2.2,2,225,6,-55.8,-42.55686322,729.4071417,,,,,,,,confirmed
+S3C1 30072019,F,Unknown,pan-MPOA-virgin,D,BRAC12,WT,No_FD,,,,tonic,tonic,phasic,3.2,3.6,315,no,0,no,0,111.6,1.3,1.6,190,4,-63.2,-53.8791989,609.3512016,,,,,,,,confirmed
+S3C2 30072019,F,Unknown,pan-MPOA-virgin,D,BRAC12,WT,No_FD,,,no,phasic,phasic,silent,0.2,5,5285,no,0,yes,6.5,98.4,1.8,1.9,202,70,-60.6,-42.81522671,275.6928631,,,,,,,,confirmed
+S1C1 02082019,F,Unknown,pan-MPOA-virgin,M,BRAC13,WT,No_FD,,,,phasic,phasic,silent,0.3,0.9,3283,yes,21.5,yes,19.1,96.8,1.5,1.6,176,,-54.3,-44.61365002,229.8812704,,,,,,,,confirmed
+S1C2 02082019,F,Unknown,pan-MPOA-virgin,M,BRAC13,WT,No_FD,,,no,tonic,tonic,silent,10.3,10.8,96.7,no,0,no,0,106.4,0.6,1.4,97,2,-57,-51.00154134,561.4287862,,,,,,,,confirmed
+S2C1 02082019,F,Unknown,pan-MPOA-virgin,M,BRAC13,WT,No_FD,,,no,tonic,tonic,silent,4.1,4.2,246.7,no,0,yes,3.75,105.7,2,1.9,242,9,-61.2,-47.87877751,294.4161681,,,,,,,,confirmed
+S1c1 19082019,F,Unknown,pan-MPOA-virgin,D,BRAC14,WT,No_FD,,,yes,tonic,tonic,silent,0.1,0.2,9375,yes,26,yes,13,89.4,2.2,1.9,223,6,-53.1,-34.12664935,330.1679284,,,,,,,,confirmed
+S1c2 19082019,F,Unknown,pan-MPOA-virgin,D,BRAC14,WT,No_FD,,,,silent,silent,silent,0,0,0,no,0,no,0,0,0,0,0,,0,-51.95367058,524.0500354,,,,,,,,confirmed
+S2c1 19082019,F,Unknown,pan-MPOA-virgin,D,BRAC14,WT,No_FD,,,no,silent,silent,silent,0,0,0,no,0,no,0,0,0,0,0,39,0,-58.80171848,281.8751873,,,,,,,,confirmed
+S1C1 29082019,F,Unknown,pan-MPOA-virgin,D,BRAC15,WT,No_FD,,,yes,tonic,tonic,silent,2.4,2.8,421,yes,4.61,yes,8.42,44.15,,11,655,11,-36.8,-30.03438943,784.475555,,,,,,,,confirmed
+S1C2 29082019,F,Unknown,pan-MPOA-virgin,D,BRAC15,WT,No_FD,,,yes,tonic,tonic,silent,0.02,0.02,42413,yes,14,yes,7.14,115.3,2,1.75,272,5,-52.1,-50.45994407,610.6660223,,,,,,,,confirmed
+S2C1 29082019,F,Unknown,pan-MPOA-virgin,D,BRAC15,WT,No_FD,,,no,phasic,phasic,silent,0.14,0.64,6675,yes,12.6,yes,14.53,110.3,1.7,1.8,217,7,-65.7,-51.20750613,517.7145392,,,,,,,,confirmed
+S2C2 29082019,F,Unknown,pan-MPOA-virgin,D,BRAC15,WT,No_FD,,,yes,phasic,phasic,silent,0.74,3.9,1321,yes,9.7,yes,6.71,81.6,3.7,2.25,318,6,-45.7,-44.73551264,728.9059234,,,,,,,,confirmed
+S1C1 21082019,F,Unknown,pan-MPOA-virgin,M,BRAC16,WT,No_FD,,,,tonic,tonic,silent,0.3,4.15,3086,,,,,113.1,1,1.6,139.6,,-66.1,-56.59590494,,,,,,,,,confirmed
+S1C2 21082019,F,Unknown,pan-MPOA-virgin,M,BRAC16,WT,No_FD,,,yes,tonic,tonic,silent,1.6,2,619,no,0,no,0,95.7,2.7,2.1,293,4,-47.2,-42.6946868,455.7879362,,,,,,,,confirmed
+S2C1 21082019,F,Unknown,pan-MPOA-virgin,M,BRAC16,WT,No_FD,,,no,silent,silent,silent,0,0,0,no,0,yes,9.46,0,0,0,0,13,0,-50.52052344,444.7702902,,,,,,,,confirmed
+S2C2 21082019,F,Unknown,pan-MPOA-virgin,M,BRAC16,WT,No_FD,,,yes,tonic,tonic,phasic,3.9,4.3,258,yes,36.53,yes,1.43,81.35,1.6,1.7,160,2,-56.6,-52.11715327,499.0279208,,,,,,,,confirmed
 S1C1 01052023,F,Unknown,pan-MPOA-virgin,D,BRAC7560.6e,WT,No_FD,,,,tonic,tonic,,0.8,1.1,1265,,,,,72.2,3.4,2.4,255,,-51.4,-40.90409684,,2.692982456,9.8,1,7.7,,,,
 S1C1 22072023,F,Unknown,pan-MPOA-virgin,P,BRAC8524.1g,WT,No_FD,,,,,,,,,,,,,,,,,,,,,,4.928571429,14.2,1.1,6.4,,,,confirmed
 S1C2 22072023,F,Unknown,pan-MPOA-virgin,P,BRAC8524.1g,WT,No_FD,,,,tonic,tonic,silent,7.4,7.7,134.3,no,0,yes,8.7,79.2,2.4,1.9,207.6,,-48.7,-42.5556798,346.2361936,1.742857143,9.5,1.1,9.7,,,,confirmed
@@ -160,51 +160,51 @@ s1c7 05012024,F,Unknown,pan-MPOA-virgin,P,BRAC8950.1g,WT,No_FD,,,no,silent,silen
 s1c1 15012024,F,Unknown,pan-MPOA-virgin,M,BRAC 9060.1h,WT,No_FD,,,yes,tonic,tonic,silent,9.75,10.04,102.5,no,0,yes,0.85,93.2,1.6,1.9,184.3,12,-54.5,-41.995,621.06,0.029605263,32.6,1.1,,,,,
 s1c2 15012024,F,Unknown,pan-MPOA-virgin,M,BRAC 9060.1h,WT,No_FD,,,yes,silent,silent,silent,0,0,0,no,0,yes,4.18,0,0,0,0,27,0,-47.14,998.89,,,,,,,,
 s1c3 15012024,F,Unknown,pan-MPOA-virgin,M,BRAC 9060.1h,WT,No_FD,,,,tonic,tonic,silent,5,5.2,200,no,0,yes,8,77.45,2.45,2.3,226.9,9,-45.9,-39.776,697.9,1.15920398,,,,,,,
-S1C2 20032025,F,Unknown,pan-MPOA-virgin,E,,WT,No_FD,,,,silent,silent,silent,0,0,0,no,0,yes,5.65,0,0,0,0,12,0,-36.4063151,1021.487354,,,,,,,,
-S1C3 20032025,F,Unknown,pan-MPOA-virgin,E,,WT,No_FD,,,,silent,silent,silent,0,0,0,yes,10,yes,23,0,0,0,0,39,0,-35.44683859,536.4267582,,,,,,,,
-S1C5 20032025,F,Unknown,pan-MPOA-virgin,E,,WT,No_FD,,,,silent,silent,silent ,0,0,0,no,0,yes ,3.91,0,0,0,0,15,0,-24.33532789,990.3164189,,,,,,,,
-s1c1 01042025,F,Unknown,pan-MPOA-virgin,D,,WT,No_FD,,,,tonic,tonic,phasic,9.4,9.6,106.6,no,0,yes,1.71,70,1.97,2,171.8,3,-59.1,-48.28605707,683.1170524,,,,,,,,
-s1c3 01042025,F,Unknown,pan-MPOA-virgin,D,,WT,No_FD,,,,silent,silent,silent,0,0,0,yes,8.1,yes,15.5,0,0,0,0,7,0,-48.26381743,623.5218883,,,,,,,,
-s1c4 01042025,F,Unknown,pan-MPOA-virgin,D,,WT,No_FD,,,,tonic,tonic,silent,9.8,10,102.1,yes,28.1,yes,5.6,75.5,2,1.6,169.4,6,-43.6,-38.09357336,744.891554,,,,,,,,
-s1c5 01042025,F,Unknown,pan-MPOA-virgin,D,,WT,No_FD,,,,tonic,tonic,silent,3.52,3.84,283.6,,,,,94.8,4.1,2.72,396.6,3,-59.6,-47.04540371,,,,,,,,,
-s1c6 01042025,F,Unknown,pan-MPOA-virgin,D,,WT,No_FD,,,,phasic,phasic,silent,3.1,4.3,322.9,,,,,60.4,6.2,3.1,363,3,-35.3,-30.33861474,,,,,,,,,
-s1c7 01042025,F,Unknown,pan-MPOA-virgin,D,,WT,No_FD,,,,tonic,tonic,silent,0.74,0.97,1341,yes,18.95,yes,12.7,89.1,2.3,2.1,236.8,9,-55.5,-39.57834743,779.6525039,,,,,,,,
-s1c9 01042025,F,Unknown,pan-MPOA-virgin,D,,WT,No_FD,,,,phasic,phasic,silent,1.9,3.24,527.6,no,0,no,0,64.9,3.9,2.8,266.9,27,-45.3,-36.85260301,783.1316203,,,,,,,,
-s1c1 02042025,F,Unknown,pan-MPOA-virgin,M,,WT,No_FD,,,,tonic,tonic,silent,6.9,7,144.4,yes,0.92,yes,22.95,58.41,2.4,2.1,163.6,6,-55.2,-39.96061613,806.12,,,,,,,,
-s1c2 02042025,F,Unknown,pan-MPOA-virgin,M,,WT,No_FD,,,,tonic,tonic,silent,5.5,5.8,180.9,no,0,no,0,45.3,6.3,3.2,248.1,,-41,-29.60552552,,,,,,,,,
-s1c4 02042025,F,Unknown,pan-MPOA-virgin,M,,WT,No_FD,,,,tonic,tonic,silent,0.16,0.34,5935,no,16.72,yes,10.6,83.4,2.7,2.1,232.3,21,-49.6,-34.7352147,728.1940326,,,,,,,,
-s1c2 14042025,F,Unknown,pan-MPOA-virgin,E,,WT,No_FD,,,,silent,silent,silent,0,0,0,no,0,yes,18.2,0,0,0,0,30,0,-43.8,1073.827073,,,,,,,,
-s1c3 14042025,F,Unknown,pan-MPOA-virgin,E,,WT,No_FD,,,,tonic,tonic,silent,0.48,0.67,2047,no,0,no,0,74.2,4.25,2.44,310,39,-42.85,-38.66859864,683.7701221,,,,,,,,
-s1c4 14042025,F,Unknown,pan-MPOA-virgin,E,,WT,No_FD,,,,phasic,phasic,silent,0.69,1.2,1446.5,no,0,no,0,57.7,3.3,2.36,200.4,4,-46.6,-41.22585287,1316.330929,,,,,,,,
-s1c5 14042025,F,Unknown,pan-MPOA-virgin,E,,WT,No_FD,,,,phasic,phasic,silent,0.01,0.01,60386,yes,17.6,yes,4.7,76.5,2.9,2.4,253,9,-48,-48.25940365,1036.784208,,,,,,,,
-s1c8 14042025,F,Unknown,pan-MPOA-virgin,E,,WT,No_FD,,,,tonic,tonic,silent,,,,,,,,,,,,,-45,,,,,,,,,,
-s1c2 02062025 ,F,Unknown,pan-MPOA-virgin,D,,WT,No_FD,,,yes,silent,silent,silent,0,0,0,yes,2.53,yes,2.35,0,0,0,0,21,0,-71.91296873,715.3289581,,,,,,,,
-s1c3 02062025 ,F,Unknown,pan-MPOA-virgin,D,,WT,No_FD,,,no,silent,silent,silent,0,0,0,no,0,yes,1.95,0,0,0,0,26,0,-66.88486583,776.7681344,0.126984127,8.8,1.6,15.4,Ramp=File 17 can't be analyzed ,,,
-s1c4 02062025 ,F,Unknown,pan-MPOA-virgin,D,,WT,No_FD,,,no ,tonic,silent,silent,0.2,1.13,5205,yes,8.7,yes,1.34,89.8,2.3,2.7,267.2,4,-54.2,-49.78777109,824.1100034,0.161290323,9.2,1.2,13.2,,,,
-s1c6 02062025 ,F,Unknown,pan-MPOA-virgin,D,,WT,No_FD,,,yes,tonic,tonic,phasic,6.4,6.7,156.4,yes,9.31,yes,22.9,66.9,3.6,2.4,252.9,12,-43.1,-38.54570608,341.1589803,0.066666667,7.4,1.4,7.35,,,,
-s1c7 02062025 ,F,Unknown,pan-MPOA-virgin,D,,WT,No_FD,,,,silent,silent,silent,0,0,0,,,,,0,0,0,0,6,0,-55.61817524,,,,,,1 spike onlyI/v curve very bad/bad ramp,,,
-s1c8 02062025 ,F,Unknown,pan-MPOA-virgin,D,,WT,No_FD,,,yes,silent,silent,silent,0,0,0,no,0,no,0,0,0,0,0,28,0,-54.74510659,842.4060974,0.01369863,6.4,7.8,,,,,
-s1c9 02062025 ,F,Unknown,pan-MPOA-virgin,D,,WT,No_FD,,,yes,phasic,phasic ,silent,0.33,0.4,2992,yes,32.8,yes,14,78.6,3.6,2.1,300,14,-45.3,-43.18272302,836.1175123,0.046082949,7.9,3,, ,,,
-s1c2 03062025,F,Unknown,pan-MPOA-virgin,M,,WT,No_FD,,,yes,silent,silent,silent,0,0,0,no,0,yes,3,0,0,0,0,22,0,-54.68906235,868.0363611,0.330097087,6.1,0.4,,,,,
-s1c4 03062025,F,Unknown,pan-MPOA-virgin,M,,WT,No_FD,,,yes,phasic,phasic,phasic,0.46,1.4,2169,no,0,yes,13,80,2.8,2,246.6,1,-72.9,-69.68876341,758.3417473,0.530927835,16,1.1,9.1,,,,
-s1c5 03062025,F,Unknown,pan-MPOA-virgin,M,,WT,No_FD,,,no,silent,silent,silent,0,0,0,no,0,no,0,0,0,0,0,36,0,-40.90100602,1162.076716,4.09649662,6.9,0.9,9.7,,,,
-s1c6 03062025,F,Unknown,pan-MPOA-virgin,M,,WT,No_FD,,,no,tonic,tonic,silent,0.31,0.53,3202,yes,6,yes,2,64.5,3.5,2.15,230.3,,-54.3,-47.16405466,758.4333889,1.810344828,7.2,0.8,9.6,,,no theobase ,
-s1c7 03062025,F,Unknown,pan-MPOA-virgin,M,,WT,No_FD,,,yes,phasic,phasic,silent,0.11,0.79,8966.3,no,0,no,0,66.15,4.1,2.28,277,12,-52.8,-54.70690429,1073.793635,0.046376812,28.5,2.3,13.8,,,,
-s1c8 03062025,F,Unknown,pan-MPOA-virgin,M,,WT,No_FD,,,yes,silent,silent,silent,0,0,0,no,0,no,0,0,0,0,0,20,0,-77.68614939,855.3145272,0.010607522,15,1.1,9.14,,,,
-s1c9 03062025,F,Unknown,pan-MPOA-virgin,M,,WT,No_FD,,,yes,silent,silent,silent,0,0,0,yes,2.2,yes,1.5,0,0,0,0,10,0,-34.46406565,742.4312719,,,,,,,cell not opened ,
-s1c8 10062025,F,Unknown,pan-MPOA-virgin,E,,WT,No_FD,,,yes,phasic,phasic,silent,1.83,2.3,543.6,yes,12,yes,,56.1,5.8,5.24,457,6,-26.6,-22.07899336,1312.311621,0.720283338,8.9,1.2,9,,,,
-s1c10 10062025,F,Unknown,pan-MPOA-virgin,E,,WT,No_FD,,,yes,silent,silent,silent,0,0,0,no,0,yes,1.4,0,0,0,0,16,0,-48.4022818,890.8236382,0.886051264,18.145,1.3,7.7,,,,
-s1c6 11062025,F,Unknown,pan-MPOA-virgin,P,,WT,No_FD,,,yes,silent,silent,silent,0,0,0,no,0,yes,3.6,0,0,0,0,13,0,-58.63354396,1211.103438,0.210187066,15.3,1.3,6.9,,,,
-s1c7 11062025,F,Unknown,pan-MPOA-virgin,P,,WT,No_FD,,,yes,silent,silent,silent,0,0,0,yes,35.98,yes,7.7,0,0,0,0,12,0,-58.47852447,746.612987,0.433082893,8.8355,1.3,16.1,,,,
-s1c9 11062025,F,Unknown,pan-MPOA-virgin,P,,WT,No_FD,,,yes,phasic,phasic,silent,2.19,2.59,455.1,no,0,no,0,53.9,6.3,3.12,345.2,12,-41.5,-37.08159846,1235.57276,1.266163793,13.2,0.6,6.15,,,,
-s1c10 11062025,F,Unknown,pan-MPOA-virgin,P,,WT,No_FD,,,no,tonic,tonic,silent,1.7,1.8,604,no,0,no,0,97.7,2.4,1.8,256.9,14,51.86,-42.46715489,876.7732111,0.326052672,7.8,0.3,32.6,,,,
-s1c11 11062025,F,Unknown,pan-MPOA-virgin,P,,WT,No_FD,,,yes,phasic,phasic,silent,,,,no,0,no,0,,,,,12,,,941.918757,0.12,7.3,0.7,72,,,,
-s1c12 11062025,F,Unknown,pan-MPOA-virgin,P,,WT,No_FD,,,yes,phasic,phasic,phasic,,,,no,0,yes,6.1,,,,,2,,,1075.008936,0.14,7.5,1.1,4.1,,,,
-s1c2 27062025,F,Unknown,pan-MPOA-virgin,E,,WT,No_FD,,,yes,tonic,tonic,silent,0.1,0.1,8369.1,no,0,yes,1.56,98,2.4,1.9,266.6,10,-56.2,-50.69023502,822.795286,0.978546706,16.7,1.2,11.9,,,,
-s1c3 27062025,F,Unknown,pan-MPOA-virgin,E,,WT,No_FD,,,,,,,,,,,,,,,,,,,,,,1.042770127,10.6,0.7,10.4,,,only synaptic ,
-s1c4 27062025,F,Unknown,pan-MPOA-virgin,E,,WT,No_FD,,,yes,silent,silent,silent,0,0,0,yes,13.8,no,0,0,0,0,0,,0,-53.06855364,715.3591734,0.031273735,6.13,2.9,,,,No decay read by the software/No Rheobase ,
-s1c5 27062025,F,Unknown,pan-MPOA-virgin,E,,WT,No_FD,,,no,silent,silent,silent,0,0,0,no,0,yes,14.43,0,0,0,0,16,0,-57.76272048,846.0247784,,,,,,,Cell not properly opened ,
-s1c6 27062025,F,Unknown,pan-MPOA-virgin,E,,WT,No_FD,,,no,tonic,tonic,silent,0.87,0.91,1137,yes,7.4,yes,10.3,105.1,1.6,1.6,193.1,24,-57,-57.55768766,668.4505822,0.628472027,9,0.9,7.7,,,,
+S1C2 20032025,F,Unknown,pan-MPOA-virgin,E,BRAC10695.1b,WT,No_FD,,,,silent,silent,silent,0,0,0,no,0,yes,5.65,0,0,0,0,12,0,-36.4063151,1021.487354,,,,,,,,
+S1C3 20032025,F,Unknown,pan-MPOA-virgin,E,BRAC10695.1b,WT,No_FD,,,,silent,silent,silent,0,0,0,yes,10,yes,23,0,0,0,0,39,0,-35.44683859,536.4267582,,,,,,,,
+S1C5 20032025,F,Unknown,pan-MPOA-virgin,E,BRAC10695.1b,WT,No_FD,,,,silent,silent,silent ,0,0,0,no,0,yes ,3.91,0,0,0,0,15,0,-24.33532789,990.3164189,,,,,,,,
+s1c1 01042025,F,Unknown,pan-MPOA-virgin,D,BRAC10706.1d,WT,No_FD,,,,tonic,tonic,phasic,9.4,9.6,106.6,no,0,yes,1.71,70,1.97,2,171.8,3,-59.1,-48.28605707,683.1170524,,,,,,,,
+s1c3 01042025,F,Unknown,pan-MPOA-virgin,D,BRAC10706.1d,WT,No_FD,,,,silent,silent,silent,0,0,0,yes,8.1,yes,15.5,0,0,0,0,7,0,-48.26381743,623.5218883,,,,,,,,
+s1c4 01042025,F,Unknown,pan-MPOA-virgin,D,BRAC10706.1d,WT,No_FD,,,,tonic,tonic,silent,9.8,10,102.1,yes,28.1,yes,5.6,75.5,2,1.6,169.4,6,-43.6,-38.09357336,744.891554,,,,,,,,
+s1c5 01042025,F,Unknown,pan-MPOA-virgin,D,BRAC10706.1d,WT,No_FD,,,,tonic,tonic,silent,3.52,3.84,283.6,,,,,94.8,4.1,2.72,396.6,3,-59.6,-47.04540371,,,,,,,,,
+s1c6 01042025,F,Unknown,pan-MPOA-virgin,D,BRAC10706.1d,WT,No_FD,,,,phasic,phasic,silent,3.1,4.3,322.9,,,,,60.4,6.2,3.1,363,3,-35.3,-30.33861474,,,,,,,,,
+s1c7 01042025,F,Unknown,pan-MPOA-virgin,D,BRAC10706.1d,WT,No_FD,,,,tonic,tonic,silent,0.74,0.97,1341,yes,18.95,yes,12.7,89.1,2.3,2.1,236.8,9,-55.5,-39.57834743,779.6525039,,,,,,,,
+s1c9 01042025,F,Unknown,pan-MPOA-virgin,D,BRAC10706.1d,WT,No_FD,,,,phasic,phasic,silent,1.9,3.24,527.6,no,0,no,0,64.9,3.9,2.8,266.9,27,-45.3,-36.85260301,783.1316203,,,,,,,,
+s1c1 02042025,F,Unknown,pan-MPOA-virgin,M,BRAC10706.1e,WT,No_FD,,,,tonic,tonic,silent,6.9,7,144.4,yes,0.92,yes,22.95,58.41,2.4,2.1,163.6,6,-55.2,-39.96061613,806.12,,,,,,,,
+s1c2 02042025,F,Unknown,pan-MPOA-virgin,M,BRAC10706.1e,WT,No_FD,,,,tonic,tonic,silent,5.5,5.8,180.9,no,0,no,0,45.3,6.3,3.2,248.1,,-41,-29.60552552,,,,,,,,,
+s1c4 02042025,F,Unknown,pan-MPOA-virgin,M,BRAC10706.1e,WT,No_FD,,,,tonic,tonic,silent,0.16,0.34,5935,no,16.72,yes,10.6,83.4,2.7,2.1,232.3,21,-49.6,-34.7352147,728.1940326,,,,,,,,
+s1c2 14042025,F,Unknown,pan-MPOA-virgin,E,BRAC10706.1f,WT,No_FD,,,,silent,silent,silent,0,0,0,no,0,yes,18.2,0,0,0,0,30,0,-43.8,1073.827073,,,,,,,,
+s1c3 14042025,F,Unknown,pan-MPOA-virgin,E,BRAC10706.1f,WT,No_FD,,,,tonic,tonic,silent,0.48,0.67,2047,no,0,no,0,74.2,4.25,2.44,310,39,-42.85,-38.66859864,683.7701221,,,,,,,,
+s1c4 14042025,F,Unknown,pan-MPOA-virgin,E,BRAC10706.1f,WT,No_FD,,,,phasic,phasic,silent,0.69,1.2,1446.5,no,0,no,0,57.7,3.3,2.36,200.4,4,-46.6,-41.22585287,1316.330929,,,,,,,,
+s1c5 14042025,F,Unknown,pan-MPOA-virgin,E,BRAC10706.1f,WT,No_FD,,,,phasic,phasic,silent,0.01,0.01,60386,yes,17.6,yes,4.7,76.5,2.9,2.4,253,9,-48,-48.25940365,1036.784208,,,,,,,,
+s1c8 14042025,F,Unknown,pan-MPOA-virgin,E,BRAC10706.1f,WT,No_FD,,,,tonic,tonic,silent,,,,,,,,,,,,,-45,,,,,,,,,,
+s1c2 02062025 ,F,Unknown,pan-MPOA-virgin,D,BRAC10906.2f,WT,No_FD,,,yes,silent,silent,silent,0,0,0,yes,2.53,yes,2.35,0,0,0,0,21,0,-71.91296873,715.3289581,,,,,,,,
+s1c3 02062025 ,F,Unknown,pan-MPOA-virgin,D,BRAC10906.2f,WT,No_FD,,,no,silent,silent,silent,0,0,0,no,0,yes,1.95,0,0,0,0,26,0,-66.88486583,776.7681344,0.126984127,8.8,1.6,15.4,Ramp=File 17 can't be analyzed ,,,
+s1c4 02062025 ,F,Unknown,pan-MPOA-virgin,D,BRAC10906.2f,WT,No_FD,,,no ,tonic,silent,silent,0.2,1.13,5205,yes,8.7,yes,1.34,89.8,2.3,2.7,267.2,4,-54.2,-49.78777109,824.1100034,0.161290323,9.2,1.2,13.2,,,,
+s1c6 02062025 ,F,Unknown,pan-MPOA-virgin,D,BRAC10906.2f,WT,No_FD,,,yes,tonic,tonic,phasic,6.4,6.7,156.4,yes,9.31,yes,22.9,66.9,3.6,2.4,252.9,12,-43.1,-38.54570608,341.1589803,0.066666667,7.4,1.4,7.35,,,,
+s1c7 02062025 ,F,Unknown,pan-MPOA-virgin,D,BRAC10906.2f,WT,No_FD,,,,silent,silent,silent,0,0,0,,,,,0,0,0,0,6,0,-55.61817524,,,,,,1 spike onlyI/v curve very bad/bad ramp,,,
+s1c8 02062025 ,F,Unknown,pan-MPOA-virgin,D,BRAC10906.2f,WT,No_FD,,,yes,silent,silent,silent,0,0,0,no,0,no,0,0,0,0,0,28,0,-54.74510659,842.4060974,0.01369863,6.4,7.8,,,,,
+s1c9 02062025 ,F,Unknown,pan-MPOA-virgin,D,BRAC10906.2f,WT,No_FD,,,yes,phasic,phasic ,silent,0.33,0.4,2992,yes,32.8,yes,14,78.6,3.6,2.1,300,14,-45.3,-43.18272302,836.1175123,0.046082949,7.9,3,, ,,,
+s1c2 03062025,F,Unknown,pan-MPOA-virgin,M,BRAC10906.2g,WT,No_FD,,,yes,silent,silent,silent,0,0,0,no,0,yes,3,0,0,0,0,22,0,-54.68906235,868.0363611,0.330097087,6.1,0.4,,,,,
+s1c4 03062025,F,Unknown,pan-MPOA-virgin,M,BRAC10906.2g,WT,No_FD,,,yes,phasic,phasic,phasic,0.46,1.4,2169,no,0,yes,13,80,2.8,2,246.6,1,-72.9,-69.68876341,758.3417473,0.530927835,16,1.1,9.1,,,,
+s1c5 03062025,F,Unknown,pan-MPOA-virgin,M,BRAC10906.2g,WT,No_FD,,,no,silent,silent,silent,0,0,0,no,0,no,0,0,0,0,0,36,0,-40.90100602,1162.076716,4.09649662,6.9,0.9,9.7,,,,
+s1c6 03062025,F,Unknown,pan-MPOA-virgin,M,BRAC10906.2g,WT,No_FD,,,no,tonic,tonic,silent,0.31,0.53,3202,yes,6,yes,2,64.5,3.5,2.15,230.3,,-54.3,-47.16405466,758.4333889,1.810344828,7.2,0.8,9.6,,,no theobase ,
+s1c7 03062025,F,Unknown,pan-MPOA-virgin,M,BRAC10906.2g,WT,No_FD,,,yes,phasic,phasic,silent,0.11,0.79,8966.3,no,0,no,0,66.15,4.1,2.28,277,12,-52.8,-54.70690429,1073.793635,0.046376812,28.5,2.3,13.8,,,,
+s1c8 03062025,F,Unknown,pan-MPOA-virgin,M,BRAC10906.2g,WT,No_FD,,,yes,silent,silent,silent,0,0,0,no,0,no,0,0,0,0,0,20,0,-77.68614939,855.3145272,0.010607522,15,1.1,9.14,,,,
+s1c9 03062025,F,Unknown,pan-MPOA-virgin,M,BRAC10906.2g,WT,No_FD,,,yes,silent,silent,silent,0,0,0,yes,2.2,yes,1.5,0,0,0,0,10,0,-34.46406565,742.4312719,,,,,,,cell not opened ,
+s1c8 10062025,F,Unknown,pan-MPOA-virgin,E,BRAC10784.3h,WT,No_FD,,,yes,phasic,phasic,silent,1.83,2.3,543.6,yes,12,yes,,56.1,5.8,5.24,457,6,-26.6,-22.07899336,1312.311621,0.720283338,8.9,1.2,9,,,,
+s1c10 10062025,F,Unknown,pan-MPOA-virgin,E,BRAC10784.3h,WT,No_FD,,,yes,silent,silent,silent,0,0,0,no,0,yes,1.4,0,0,0,0,16,0,-48.4022818,890.8236382,0.886051264,18.145,1.3,7.7,,,,
+s1c6 11062025,F,Unknown,pan-MPOA-virgin,P,BRAC10784.3i,WT,No_FD,,,yes,silent,silent,silent,0,0,0,no,0,yes,3.6,0,0,0,0,13,0,-58.63354396,1211.103438,0.210187066,15.3,1.3,6.9,,,,
+s1c7 11062025,F,Unknown,pan-MPOA-virgin,P,BRAC10784.3i,WT,No_FD,,,yes,silent,silent,silent,0,0,0,yes,35.98,yes,7.7,0,0,0,0,12,0,-58.47852447,746.612987,0.433082893,8.8355,1.3,16.1,,,,
+s1c9 11062025,F,Unknown,pan-MPOA-virgin,P,BRAC10784.3i,WT,No_FD,,,yes,phasic,phasic,silent,2.19,2.59,455.1,no,0,no,0,53.9,6.3,3.12,345.2,12,-41.5,-37.08159846,1235.57276,1.266163793,13.2,0.6,6.15,,,,
+s1c10 11062025,F,Unknown,pan-MPOA-virgin,P,BRAC10784.3i,WT,No_FD,,,no,tonic,tonic,silent,1.7,1.8,604,no,0,no,0,97.7,2.4,1.8,256.9,14,51.86,-42.46715489,876.7732111,0.326052672,7.8,0.3,32.6,,,,
+s1c11 11062025,F,Unknown,pan-MPOA-virgin,P,BRAC10784.3i,WT,No_FD,,,yes,phasic,phasic,silent,,,,no,0,no,0,,,,,12,,,941.918757,0.12,7.3,0.7,72,,,,
+s1c12 11062025,F,Unknown,pan-MPOA-virgin,P,BRAC10784.3i,WT,No_FD,,,yes,phasic,phasic,phasic,,,,no,0,yes,6.1,,,,,2,,,1075.008936,0.14,7.5,1.1,4.1,,,,
+s1c2 27062025,F,Unknown,pan-MPOA-virgin,E,BRAC10558.2j,WT,No_FD,,,yes,tonic,tonic,silent,0.1,0.1,8369.1,no,0,yes,1.56,98,2.4,1.9,266.6,10,-56.2,-50.69023502,822.795286,0.978546706,16.7,1.2,11.9,,,,
+s1c3 27062025,F,Unknown,pan-MPOA-virgin,E,BRAC10558.2j,WT,No_FD,,,,,,,,,,,,,,,,,,,,,,1.042770127,10.6,0.7,10.4,,,only synaptic ,
+s1c4 27062025,F,Unknown,pan-MPOA-virgin,E,BRAC10558.2j,WT,No_FD,,,yes,silent,silent,silent,0,0,0,yes,13.8,no,0,0,0,0,0,,0,-53.06855364,715.3591734,0.031273735,6.13,2.9,,,,No decay read by the software/No Rheobase ,
+s1c5 27062025,F,Unknown,pan-MPOA-virgin,E,BRAC10558.2j,WT,No_FD,,,no,silent,silent,silent,0,0,0,no,0,yes,14.43,0,0,0,0,16,0,-57.76272048,846.0247784,,,,,,,Cell not properly opened ,
+s1c6 27062025,F,Unknown,pan-MPOA-virgin,E,BRAC10558.2j,WT,No_FD,,,no,tonic,tonic,silent,0.87,0.91,1137,yes,7.4,yes,10.3,105.1,1.6,1.6,193.1,24,-57,-57.55768766,668.4505822,0.628472027,9,0.9,7.7,,,,
 S1C1 23012023,F,Unknown,virgin,D,BRAC7344.5e,WT,Agg+,yes,,,,,,,,,,,,,,,,,,,,,0.792168675,15.23,1,15.4,,,Cell lost only synaptic,
 S1C2 23012023,F,Unknown,virgin,D,BRAC7344.5e,WT,Agg+,yes,,,,,,,,,,,,,,,,,,,,,0.48,11.048,1.1,10.482,,,,
 S1C3 23012023,F,Unknown,virgin,D,BRAC7344.5e,WT,Agg+,yes,35.06807322,yes,silent,silent,silent,0,0,0,no,0,yes,5.55,0,0,0,0,27,0,-39.04526531,829.7533337,0.08,8.47,1.4,19.893,,,,
@@ -315,12 +315,12 @@ s1c2 01052025,F,Unknown,pan-MPOA-virgin-NPY2R-antag,M,BRAC8853.5a,,npy2r_antag,,
 s1c3 01052026,F,Unknown,pan-MPOA-virgin-NPY2R-antag,M,BRAC8853.5a,,npy2r_antag,,,no,tonic,tonic,silent,5.1,5.2,194.4,yes,5.4,yes,10.5,83,1.8,2,187.3,7,-60.8,-51.52306931,649.7604008,4.126731774,11.3,1.2,9.3,,,,
 s1c4 01052027,F,Unknown,pan-MPOA-virgin-NPY2R-antag,M,BRAC8853.5a,,npy2r_antag,,,yes,tonic,tonic,silent,5.5,5.8,180.7,yes,3,yes,11,65.7,3,2.1,195.8,27,-50.2,-40.37672512,603.929183,2.072158365,8,0.8,8,,,,
 s1c5 01052028,F,Unknown,pan-MPOA-virgin-NPY2R-antag,M,BRAC8853.5a,,npy2r_antag,,,yes,silent,silent,silent,0,0,0,yes,4.96,yes,1.91,0,0,0,0,18,0,-43.88779021,603.929183,0.356666667,10.6,0.8,6.4,,,,
-S2C1 22072023,F,Unknown,pan-MPOA-virgin-NPY10nM,to be stained ,,WT,npy_10_paired,,,,silent,silent,silent,0,0,0,,,yes,2.23,0,0,0,0,,0,-49.1560239,965.4,,,,,,,,
-S1C2 23072023,F,Unknown,pan-MPOA-virgin-NPY10nM,to be stained ,,WT,npy_10_paired,,,,silent ,silent,silent,0,0,0,,,yes,11.08,0,0,0,0,,0,-58.64170794,781.228592,,,,,,,,
-S2C1 23072023,F,Unknown,pan-MPOA-virgin-NPY10nM,to be stained ,,WT,npy_10_paired,,,,tonic,tonic,silent,0.74,,,,,yes,11.7,,,,,,,-43.66228154,606.1925648,,,,,,,,
-S2C1 24072023,F,Unknown,pan-MPOA-virgin-NPY10nM,to be stained ,,WT,npy_10_paired,,,,silent,silent,silent,0,0,0,,,yes,,0,0,0,0,,0,-52.35746004,359.3407257,,,,,,,,
-S1C1 30072023,F,Unknown,pan-MPOA-virgin-NPY10nM,to be stained ,,WT,npy_10_paired,,,,silent ,silent,silent,0,0,0,,,yes,19.99,0,0,0,0,,0,-48.85272872,268.7661163,,,,,,,,
-S2C1 30072023,F,Unknown,pan-MPOA-virgin-NPY10nM,to be stained ,,WT,npy_10_paired,,,,silent,silent,silent,0,0,0,,,yes,4.3,0,0,0,0,,0,-53.95698742,140.0296638,,,,,,,,
+S2C1 22072023,F,Unknown,pan-MPOA-virgin-NPY10nM,to be stained ,BRAC17,WT,npy_10_paired,,,,silent,silent,silent,0,0,0,,,yes,2.23,0,0,0,0,,0,-49.1560239,965.4,,,,,,,,
+S1C2 23072023,F,Unknown,pan-MPOA-virgin-NPY10nM,to be stained ,BRAC18,WT,npy_10_paired,,,,silent ,silent,silent,0,0,0,,,yes,11.08,0,0,0,0,,0,-58.64170794,781.228592,,,,,,,,
+S2C1 23072023,F,Unknown,pan-MPOA-virgin-NPY10nM,to be stained ,BRAC18,WT,npy_10_paired,,,,tonic,tonic,silent,0.74,,,,,yes,11.7,,,,,,,-43.66228154,606.1925648,,,,,,,,
+S2C1 24072023,F,Unknown,pan-MPOA-virgin-NPY10nM,to be stained ,BRAC19,WT,npy_10_paired,,,,silent,silent,silent,0,0,0,,,yes,,0,0,0,0,,0,-52.35746004,359.3407257,,,,,,,,
+S1C1 30072023,F,Unknown,pan-MPOA-virgin-NPY10nM,to be stained ,BRAC20,WT,npy_10_paired,,,,silent ,silent,silent,0,0,0,,,yes,19.99,0,0,0,0,,0,-48.85272872,268.7661163,,,,,,,,
+S2C1 30072023,F,Unknown,pan-MPOA-virgin-NPY10nM,to be stained ,BRAC20,WT,npy_10_paired,,,,silent,silent,silent,0,0,0,,,yes,4.3,0,0,0,0,,0,-53.95698742,140.0296638,,,,,,,,
 S1C2 23112023,F,Unknown,pan-MPOA-virgin-NPY10nM,to be stained ,BRAC8913.1d,WT,npy_10,,,no,tonic,tonic,silent,0.2,0.3,4458,yes,7.3,no,0,88.8,2,1.9,229,15,-64.2,-54.64650954,708.4442285,1.088985688,8.2,1.6,32.3,,,,
 S1C3 23112023,F,Unknown,pan-MPOA-virgin-NPY10nM,to be stained ,BRAC8913.1d,WT,npy_10,,,no,tonic,tonic,silent,0.03,0.1,26032,no,0,no,0,68.3,3.2,2.5,261.7,21,-64,-58.27168294,643.2922602,2.778858625,17,1.4,17.7,,,,
 S1C4 23112023,F,Unknown,pan-MPOA-virgin-NPY10nM,to be stained ,BRAC8913.1d,WT,npy_10,,,yes,tonic,tonic,silent,0.5,0.8,2070.3,no,0,no,0,69.1,2.8,2.1,219.1,12,-58.1,-50.33926285,958.4903478,0.676342525,6.9,1.2,17.9,,,,

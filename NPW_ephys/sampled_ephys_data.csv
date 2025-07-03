@@ -25,74 +25,74 @@
 23,S1C1 25052023,F,Unknown,pan-MPOA-virgin,M,BRAC7560.6f,WT,Pre,,,no,silent,silent,silent,0.0,0.0,0.0,no,0.0,no,0.0,0.0,0.0,0.0,0.0,24.0,0.0,-56.34871463,748.0319742,3.07079646,10.7,0.6,8.3,,,,
 24,S2C1 25052023,F,Unknown,pan-MPOA-virgin,M,BRAC7560.6f,WT,Pre,,,no,silent,silent,silent,0.0,0.0,0.0,no,0.0,no,0.0,0.0,0.0,0.0,0.0,30.0,0.0,-53.11796679,677.656372,,,,,,,,
 25,S3C1 25052023,F,Unknown,pan-MPOA-virgin,P,BRAC7560.6f,WT,Pre,,,,silent,silent,silent,0.0,0.0,0.0,yes,6.5,yes,16.9,0.0,0.0,0.0,0.0,,0.0,-51.95874652,,,,,,,,,
-26,S1C1 17062023,F,Unknown,pan-MPOA-virgin,M,BRAC,WT,Pre,,,,tonic,tonic,silent,0.3,0.8,3710.0,,,,,75.2,3.1,2.6,254.0,,-48.8,-39.76537198,,1.608,8.3,1.4,14.1,,,,
-27,S1C2 17062023,F,Unknown,pan-MPOA-virgin,M,BRAC,WT,Pre,,,yes,silent,silent,silent,0.0,0.0,0.0,no,0.0,no,0.0,0.0,0.0,0.0,0.0,20.0,0.0,-51.9729713,745.4814607,0.485714286,9.0,1.1,8.9,,,,
-28,S1C3 17062023,F,Unknown,pan-MPOA-virgin,M,BRAC,WT,Pre,,,no,phasic,phasic,silent,0.8,1.5,1285.0,yes,11.35,yes,13.8,68.7,4.1,2.7,281.0,40.0,-45.7,-38.69851541,426.3352174,0.06640625,11.6,0.3,13.0,,,,
-29,S1C1 25062023,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,Pre,,,,phasic,phasic,,0.43,1.2,2304.0,,,,,,,,,,,-37.88815018,,,,,,,,,confirmed
-30,S1C2 25062023,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,Pre,,,,silent,silent,,0.0,0.0,0.0,,,,,,,,,,,-48.18650383,,,,,,,,,confirmed
-31,S1C3 25062023,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,Pre,,,,tonic,tonic,,0.48,0.79,,,,,,0.0,0.0,0.0,0.0,,0.0,-36.5532648,,,,,,,,,confirmed
-32,S1C4 25062023,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,Pre,,,,tonic,tonic,,0.07,0.08,13755.0,,,,,,,,,,,-50.42715421,,,,,,,,,confirmed
-33,S1C5 25062023,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,Pre,,,,tonic,tonic,,2.78,3.15,360.0,no,0.0,yes,9.12,,,,,,,-39.87578837,672.3013199,,,,,,,,confirmed
-34,S1C6 25062023,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,Pre,,,,tonic,tonic,,1.3,1.6,766.0,,,,,,,,,,,-42.33070152,,,,,,,,,confirmed
-35,S2C1 25062023,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,Pre,,,,tonic,tonic,,4.8,5.5,208.0,yes,18.49,yes,9.92,,,,,,,-37.0447163,737.809561,,,,,,,,confirmed
-36,S2C2 25062023,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,Pre,,,,tonic,tonic,,15.1,15.4,66.0,no,0.0,yes,5.1,,,,,,,-41.1490031,685.6159776,,,,,,,,confirmed
-37,S1C1 24062023,F,Unknown,pan-MPOA-virgin,no VS,BRAC,WT,Pre,,,,tonic,tonic,,5.76,6.6,173.0,,,,,,,,,,,-47.49459358,,,,,,,,,confirmed
-38,S1C2 24062023,F,Unknown,pan-MPOA-virgin,no VS,BRAC,WT,Pre,,,,tonic,tonic,,6.4,6.8,156.0,,,,,,,,,,,-39.36870913,,,,,,,,,confirmed
-39,S1C3 24062023,F,Unknown,pan-MPOA-virgin,no VS,BRAC,WT,Pre,,,,phasic,phasic,,1.0,1.26,1005.0,,,,,,,,,,,-45.08997477,,,,,,,,,confirmed
-40,S1C4 24062023,F,Unknown,pan-MPOA-virgin,no VS,BRAC,WT,Pre,,,,tonic,tonic,,1.6,2.7,610.0,,,,,,,,,,,-53.0358199,,,,,,,,,confirmed
-41,S1C5 24062023,F,Unknown,pan-MPOA-virgin,no VS,BRAC,WT,Pre,,,,tonic,tonic,,0.2,0.25,5002.0,,,,,,,,,,,-37.30524098,,,,,,,,,confirmed
-42,S1C7 24062023,F,Unknown,pan-MPOA-virgin,no VS,BRAC,WT,Pre,,,,silent,silent,,0.0,0.0,0.0,,,,,0.0,0.0,0.0,0.0,,0.0,-52.79047819,,,,,,,,,confirmed
-43,S1C8 24062023,F,Unknown,pan-MPOA-virgin,no VS,BRAC,WT,Pre,,,,tonic,tonic,,0.42,0.6,2359.0,,,,,,,,,,,-39.15023973,,,,,,,,,confirmed
-44,S1C9 24062023,F,Unknown,pan-MPOA-virgin,no VS,BRAC,WT,Pre,,,,tonic,tonic,,2.92,3.2,341.0,,,,,,,,,,,-38.59381525,,,,,,,,,confirmed
-45,S1C10 2406202,F,Unknown,pan-MPOA-virgin,no VS,BRAC,WT,Pre,,,,tonic,tonic,,2.32,2.7,430.0,,,,,,,,,,,-38.96397946,,,,,,,,,confirmed
-46,S1C11 2406202,F,Unknown,pan-MPOA-virgin,no VS,BRAC,WT,Pre,,,,tonic,tonic,,0.1,0.3,9157.0,,,,,,,,,,,-49.53235644,,,,,,,,,confirmed
-47,S1C12 2406202,F,Unknown,pan-MPOA-virgin,no VS,BRAC,WT,Pre,,,,tonic,tonic,,7.73,8.01,129.0,,,,,,,,,,,-43.56016574,,,,,,,,,confirmed
-48,S1C13 2406202,F,Unknown,pan-MPOA-virgin,no VS,BRAC,WT,Pre,,,,silent,silent,,0.0,0.0,0.0,,,,,0.0,0.0,0.0,0.0,,0.0,-45.21914571,,,,,,,,,confirmed
-49,S1C1 14062019,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,Pre,,,,tonic,tonic,silent,2.8,3.0,350.0,yes,14.86,yes,19.59,105.7,3.3,2.33,395.0,,,,640.4532503,,,,,,,,
-50,S1C2 14062019,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,Pre,,,,tonic,tonic,silent,0.06,0.16,14314.0,yes,27.86,yes,12.5,91.8,1.8,1.75,188.0,5.0,-50.3,-45.39180865,620.8587578,,,,,,,,
-51,S1C1 15062019,F,Unknown,pan-MPOA-virgin,E,BRAC,WT,Pre,,,,phasic,phasic,silent,1.2,2.5,847.0,no,0.0,yes,12.42,127.0,2.7,1.96,387.0,10.0,-64.2,-46.33717827,732.9983119,,,,,,,,
-52,S1C2 15062019,F,Unknown,pan-MPOA-virgin,E,BRAC,WT,Pre,,,,tonic,tonic,silent,6.9,7.0,144.0,yes,38.0,yes,10.71,103.9,1.4,1.5,181.0,3.0,-56.1,-50.29145681,456.8516054,,,,,,,,
-53,S2C1 15062019,F,Unknown,pan-MPOA-virgin,E,BRAC,WT,Pre,,,,silent,silent,silent,0.0,0.0,0.0,no,0.0,yes,2.0,0.0,0.0,0.0,0.0,13.0,0.0,-58.42122913,621.4449758,,,,,,,,
-54,S2C2 15062019,F,Unknown,pan-MPOA-virgin,E,BRAC,WT,Pre,,,,silent,silent,silent,0.0,0.0,0.0,yes,6.2,yes,13.0,0.0,0.0,0.0,0.0,30.0,0.0,-51.10924683,285.7935404,,,,,,,,
-55,S1C1 16062019,F,Unknown,pan-MPOA-virgin,P,BRAC,WT,Pre,,,,tonic,tonic,silent,0.02,0.04,39100.0,no,0.0,yes,9.89,118.6,1.8,1.9,268.0,5.0,-61.6,-43.6786334,885.1873757,,,,,,,,confirmed
-56,S1C2 16062019,F,Unknown,pan-MPOA-virgin,P,BRAC,WT,Pre,,,,phasic,phasic,silent,1.1,1.3,939.0,yes,11.0,yes,6.81,99.4,1.9,1.8,220.0,,-55.5,-51.90323937,544.9501203,,,,,,,,confirmed
-57,S2C3 16062019,F,Unknown,pan-MPOA-virgin,P,BRAC,WT,Pre,,,,tonic,tonic,silent,3.8,4.1,262.0,no,0.0,no,0.0,77.0,4.3,3.2,341.0,12.0,-43.6,-38.42513615,698.9288039,,,,,,,,confirmed
-58,S2C4 16062019,F,Unknown,pan-MPOA-virgin,P,BRAC,WT,Pre,,,,phasic,phasic,silent,0.7,1.15,1412.0,no,0.0,no,0.0,91.0,3.5,2.4,338.0,10.0,-51.5,-44.66460588,709.7725389,,,,,,,,confirmed
-59,S1C1 27062019,F,Unknown,pan-MPOA-virgin,M,BRAC,WT,Pre,,,,tonic,tonic,silent,0.2,0.4,5089.0,no,0.0,yes,4.43,106.0,2.0,1.7,239.0,10.0,-50.3,-42.37482239,644.2120839,,,,,,,,confirmed
-60,S1C2 27062019,F,Unknown,pan-MPOA-virgin,M,BRAC,WT,Pre,,,,tonic,tonic,phasic,9.9,10.0,100.0,no,0.0,no,0.0,67.6,3.2,2.8,256.0,6.0,-43.0,-37.43452777,634.894712,,,,,,,,confirmed
-61,S1C1 29062019,F,Unknown,pan-MPOA-virgin,P,BRAC,WT,Pre,,,,tonic,tonic,phasic,1.6,1.9,634.0,yes,14.25,yes,21.61,91.4,2.6,2.5,279.0,,-51.2,-42.9298753,496.0741018,,,,,,,,confirmed
-62,S1C2 29062019,F,Unknown,pan-MPOA-virgin,P,BRAC,WT,Pre,,,,tonic,tonic,phasic,5.1,5.8,194.0,yes,1.65,yes,12.0,96.3,3.7,3.1,389.0,,-55.7,-40.1342035,162.4503403,,,,,,,,confirmed
-63,S1C1 30602019,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,Pre,,,,tonic,tonic,silent,1.25,1.6,797.0,yes,11.81,yes,16.94,118.1,1.08,1.6,169.0,,-62.7,-49.97633774,454.1496606,,,,,,,,confirmed
-64,S1C2 30602019,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,Pre,,,,phasic,phasic,silent,0.3,0.7,3661.0,no,0.0,no,0.0,122.2,3.5,2.21,448.0,,-62.4,-51.17037591,613.0027957,,,,,,,,confirmed
-65,S2C2 30062019,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,Pre,,,,silent,silent,silent,0.0,0.0,0.0,yes,24.6,yes,19.5,0.0,0.0,0.0,0.0,,0.0,-55.66857131,456.6111169,,,,,,,,confirmed
-66,S3C1 30062019,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,Pre,,,,silent,silent,silent,0.0,0.0,0.0,no,0.0,no,0.0,0.0,0.0,0.0,0.0,,0.0,-57.83631711,629.6118732,,,,,,,,confirmed
-67,S1C1 09072019,F,Unknown,pan-MPOA-virgin,not taken,BRAC,WT,Pre,,,,phasic,phasic,silent,0.08,0.4,12563.0,yes,22.8,yes,7.51,105.2,1.7,1.7,210.0,,-66.4,-55.4449623,484.3761143,,,,,,,,confirmed
-68,S1C2 09072019,F,Unknown,pan-MPOA-virgin,not taken,BRAC,WT,Pre,,,,tonic,tonic,silent,3.0,3.1,334.0,no,0.0,no,0.0,89.4,2.3,2.0,230.0,1.0,-55.8,-46.96837861,629.699846,,,,,,,,confirmed
-69,S2C1 09072019,F,Unknown,pan-MPOA-virgin,not taken,BRAC,WT,Pre,,,,silent,silent,silent,0.0,0.0,0.0,no,0.0,no,0.0,0.0,0.0,0.0,0.0,4.0,0.0,-59.34987009,566.866273,,,,,,,,confirmed
-70,S3C1 09072019,F,Unknown,pan-MPOA-virgin,not taken,BRAC,WT,Pre,,,,silent,silent,silent,0.0,0.0,0.0,yes,33.0,yes,9.8,0.0,0.0,0.0,0.0,9.0,0.0,-58.89601283,751.4477725,,,,,,,,confirmed
-71,S1C1 29072019,F,Unknown,pan-MPOA-virgin,?,BRAC,WT,Pre,,,,silent,silent,silent,0.0,0.0,0.0,yes,5.98,yes,2.62,0.0,0.0,0.0,0.0,18.0,0.0,-53.44859139,773.8047417,,,,,,,,confirmed
-72,S1C2 29072019,F,Unknown,pan-MPOA-virgin,?,BRAC,WT,Pre,,,yes,tonic,tonic,silent,0.8,1.7,1236.0,yes,12.66,yes,3.63,76.1,4.5,2.9,336.0,24.0,-42.0,-33.65929303,549.1027471,,,,,,,,confirmed
-73,S2C1 29072019,F,Unknown,pan-MPOA-virgin,?,BRAC,WT,Pre,,,,phasic,phasic,silent,1.5,2.6,682.0,no,0.0,yes,11.0,136.8,1.0,1.34,187.0,,-67.7,-50.00531487,400.9769877,,,,,,,,confirmed
-74,S2C2 29072019,F,Unknown,pan-MPOA-virgin,?,BRAC,WT,Pre,,,,tonic,tonic,silent,2.05,3.0,487.0,yes,15.44,yes,3.54,90.8,2.4,1.8,227.5,,-56.5,-39.04949689,440.5341595,,,,,,,,confirmed
-75,S1C1 30072019,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,Pre,,,,silent,silent,silent,0.0,0.0,0.0,no,0.0,yes,16.72,0.0,0.0,0.0,0.0,8.0,0.0,-52.4457131,666.4810508,,,,,,,,confirmed
-76,S1C2 30072019,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,Pre,,,no,silent,silent,silent,0.0,0.0,0.0,yes,12.15,yes,9.83,0.0,0.0,0.0,0.0,12.0,0.0,-50.931449,654.2066221,,,,,,,,confirmed
-77,S2C1 30072019,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,Pre,,,yes,tonic,tonic,silent,3.3,4.2,307.0,no,0.0,yes,15.63,90.8,2.2,2.0,225.0,6.0,-55.8,-42.55686322,729.4071417,,,,,,,,confirmed
-78,S3C1 30072019,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,Pre,,,,tonic,tonic,phasic,3.2,3.6,315.0,no,0.0,no,0.0,111.6,1.3,1.6,190.0,4.0,-63.2,-53.8791989,609.3512016,,,,,,,,confirmed
-79,S3C2 30072019,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,Pre,,,no,phasic,phasic,silent,0.2,5.0,5285.0,no,0.0,yes,6.5,98.4,1.8,1.9,202.0,70.0,-60.6,-42.81522671,275.6928631,,,,,,,,confirmed
-80,S1C1 02082019,F,Unknown,pan-MPOA-virgin,M,BRAC,WT,Pre,,,,phasic,phasic,silent,0.3,0.9,3283.0,yes,21.5,yes,19.1,96.8,1.5,1.6,176.0,,-54.3,-44.61365002,229.8812704,,,,,,,,confirmed
-81,S1C2 02082019,F,Unknown,pan-MPOA-virgin,M,BRAC,WT,Pre,,,no,tonic,tonic,silent,10.3,10.8,96.7,no,0.0,no,0.0,106.4,0.6,1.4,97.0,2.0,-57.0,-51.00154134,561.4287862,,,,,,,,confirmed
-82,S2C1 02082019,F,Unknown,pan-MPOA-virgin,M,BRAC,WT,Pre,,,no,tonic,tonic,silent,4.1,4.2,246.7,no,0.0,yes,3.75,105.7,2.0,1.9,242.0,9.0,-61.2,-47.87877751,294.4161681,,,,,,,,confirmed
-83,S1C1 19082019,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,Pre,,,yes,tonic,tonic,silent,0.1,0.2,9375.0,yes,26.0,yes,13.0,89.4,2.2,1.9,223.0,6.0,-53.1,-34.12664935,330.1679284,,,,,,,,confirmed
-84,S1C2 19082019,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,Pre,,,,silent,silent,silent,0.0,0.0,0.0,no,0.0,no,0.0,0.0,0.0,0.0,0.0,,0.0,-51.95367058,524.0500354,,,,,,,,confirmed
-85,S2C1 19082019,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,Pre,,,no,silent,silent,silent,0.0,0.0,0.0,no,0.0,no,0.0,0.0,0.0,0.0,0.0,39.0,0.0,-58.80171848,281.8751873,,,,,,,,confirmed
-86,S1C1 29082019,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,Pre,,,yes,tonic,tonic,silent,2.4,2.8,421.0,yes,4.61,yes,8.42,44.15,,11.0,655.0,11.0,-36.8,-30.03438943,784.475555,,,,,,,,confirmed
-87,S1C2 29082019,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,Pre,,,yes,tonic,tonic,silent,0.02,0.02,42413.0,yes,14.0,yes,7.14,115.3,2.0,1.75,272.0,5.0,-52.1,-50.45994407,610.6660223,,,,,,,,confirmed
-88,S2C1 29082019,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,Pre,,,no,phasic,phasic,silent,0.14,0.64,6675.0,yes,12.6,yes,14.53,110.3,1.7,1.8,217.0,7.0,-65.7,-51.20750613,517.7145392,,,,,,,,confirmed
-89,S2C2 29082019,F,Unknown,pan-MPOA-virgin,D,BRAC,WT,Pre,,,yes,phasic,phasic,silent,0.74,3.9,1321.0,yes,9.7,yes,6.71,81.6,3.7,2.25,318.0,6.0,-45.7,-44.73551264,728.9059234,,,,,,,,confirmed
-90,S1C1 21082019,F,Unknown,pan-MPOA-virgin,M,BRAC,WT,Pre,,,,tonic,tonic,silent,0.3,4.15,3086.0,,,,,113.1,1.0,1.6,139.6,,-66.1,-56.59590494,,,,,,,,,confirmed
-91,S1C2 21082019,F,Unknown,pan-MPOA-virgin,M,BRAC,WT,Pre,,,yes,tonic,tonic,silent,1.6,2.0,619.0,no,0.0,no,0.0,95.7,2.7,2.1,293.0,4.0,-47.2,-42.6946868,455.7879362,,,,,,,,confirmed
-92,S2C1 21082019,F,Unknown,pan-MPOA-virgin,M,BRAC,WT,Pre,,,no,silent,silent,silent,0.0,0.0,0.0,no,0.0,yes,9.46,0.0,0.0,0.0,0.0,13.0,0.0,-50.52052344,444.7702902,,,,,,,,confirmed
-93,S2C2 21082019,F,Unknown,pan-MPOA-virgin,M,BRAC,WT,Pre,,,yes,tonic,tonic,phasic,3.9,4.3,258.0,yes,36.53,yes,1.43,81.35,1.6,1.7,160.0,2.0,-56.6,-52.11715327,499.0279208,,,,,,,,confirmed
+26,S1C1 17062023,F,Unknown,pan-MPOA-virgin,M,BRAC1,WT,Pre,,,,tonic,tonic,silent,0.3,0.8,3710.0,,,,,75.2,3.1,2.6,254.0,,-48.8,-39.76537198,,1.608,8.3,1.4,14.1,,,,
+27,S1C2 17062023,F,Unknown,pan-MPOA-virgin,M,BRAC1,WT,Pre,,,yes,silent,silent,silent,0.0,0.0,0.0,no,0.0,no,0.0,0.0,0.0,0.0,0.0,20.0,0.0,-51.9729713,745.4814607,0.485714286,9.0,1.1,8.9,,,,
+28,S1C3 17062023,F,Unknown,pan-MPOA-virgin,M,BRAC1,WT,Pre,,,no,phasic,phasic,silent,0.8,1.5,1285.0,yes,11.35,yes,13.8,68.7,4.1,2.7,281.0,40.0,-45.7,-38.69851541,426.3352174,0.06640625,11.6,0.3,13.0,,,,
+29,S1C1 25062023,F,Unknown,pan-MPOA-virgin,D,BRAC2,WT,Pre,,,,phasic,phasic,,0.43,1.2,2304.0,,,,,,,,,,,-37.88815018,,,,,,,,,confirmed
+30,S1C2 25062023,F,Unknown,pan-MPOA-virgin,D,BRAC2,WT,Pre,,,,silent,silent,,0.0,0.0,0.0,,,,,,,,,,,-48.18650383,,,,,,,,,confirmed
+31,S1C3 25062023,F,Unknown,pan-MPOA-virgin,D,BRAC2,WT,Pre,,,,tonic,tonic,,0.48,0.79,,,,,,0.0,0.0,0.0,0.0,,0.0,-36.5532648,,,,,,,,,confirmed
+32,S1C4 25062023,F,Unknown,pan-MPOA-virgin,D,BRAC2,WT,Pre,,,,tonic,tonic,,0.07,0.08,13755.0,,,,,,,,,,,-50.42715421,,,,,,,,,confirmed
+33,S1C5 25062023,F,Unknown,pan-MPOA-virgin,D,BRAC2,WT,Pre,,,,tonic,tonic,,2.78,3.15,360.0,no,0.0,yes,9.12,,,,,,,-39.87578837,672.3013199,,,,,,,,confirmed
+34,S1C6 25062023,F,Unknown,pan-MPOA-virgin,D,BRAC2,WT,Pre,,,,tonic,tonic,,1.3,1.6,766.0,,,,,,,,,,,-42.33070152,,,,,,,,,confirmed
+35,S2C1 25062023,F,Unknown,pan-MPOA-virgin,D,BRAC2,WT,Pre,,,,tonic,tonic,,4.8,5.5,208.0,yes,18.49,yes,9.92,,,,,,,-37.0447163,737.809561,,,,,,,,confirmed
+36,S2C2 25062023,F,Unknown,pan-MPOA-virgin,D,BRAC2,WT,Pre,,,,tonic,tonic,,15.1,15.4,66.0,no,0.0,yes,5.1,,,,,,,-41.1490031,685.6159776,,,,,,,,confirmed
+37,S1C1 24062023,F,Unknown,pan-MPOA-virgin,no VS,BRAC3,WT,Pre,,,,tonic,tonic,,5.76,6.6,173.0,,,,,,,,,,,-47.49459358,,,,,,,,,confirmed
+38,S1C2 24062023,F,Unknown,pan-MPOA-virgin,no VS,BRAC3,WT,Pre,,,,tonic,tonic,,6.4,6.8,156.0,,,,,,,,,,,-39.36870913,,,,,,,,,confirmed
+39,S1C3 24062023,F,Unknown,pan-MPOA-virgin,no VS,BRAC3,WT,Pre,,,,phasic,phasic,,1.0,1.26,1005.0,,,,,,,,,,,-45.08997477,,,,,,,,,confirmed
+40,S1C4 24062023,F,Unknown,pan-MPOA-virgin,no VS,BRAC3,WT,Pre,,,,tonic,tonic,,1.6,2.7,610.0,,,,,,,,,,,-53.0358199,,,,,,,,,confirmed
+41,S1C5 24062023,F,Unknown,pan-MPOA-virgin,no VS,BRAC3,WT,Pre,,,,tonic,tonic,,0.2,0.25,5002.0,,,,,,,,,,,-37.30524098,,,,,,,,,confirmed
+42,S1C7 24062023,F,Unknown,pan-MPOA-virgin,no VS,BRAC3,WT,Pre,,,,silent,silent,,0.0,0.0,0.0,,,,,0.0,0.0,0.0,0.0,,0.0,-52.79047819,,,,,,,,,confirmed
+43,S1C8 24062023,F,Unknown,pan-MPOA-virgin,no VS,BRAC3,WT,Pre,,,,tonic,tonic,,0.42,0.6,2359.0,,,,,,,,,,,-39.15023973,,,,,,,,,confirmed
+44,S1C9 24062023,F,Unknown,pan-MPOA-virgin,no VS,BRAC3,WT,Pre,,,,tonic,tonic,,2.92,3.2,341.0,,,,,,,,,,,-38.59381525,,,,,,,,,confirmed
+45,S1C10 2406202,F,Unknown,pan-MPOA-virgin,no VS,BRAC3,WT,Pre,,,,tonic,tonic,,2.32,2.7,430.0,,,,,,,,,,,-38.96397946,,,,,,,,,confirmed
+46,S1C11 2406202,F,Unknown,pan-MPOA-virgin,no VS,BRAC3,WT,Pre,,,,tonic,tonic,,0.1,0.3,9157.0,,,,,,,,,,,-49.53235644,,,,,,,,,confirmed
+47,S1C12 2406202,F,Unknown,pan-MPOA-virgin,no VS,BRAC3,WT,Pre,,,,tonic,tonic,,7.73,8.01,129.0,,,,,,,,,,,-43.56016574,,,,,,,,,confirmed
+48,S1C13 2406202,F,Unknown,pan-MPOA-virgin,no VS,BRAC3,WT,Pre,,,,silent,silent,,0.0,0.0,0.0,,,,,0.0,0.0,0.0,0.0,,0.0,-45.21914571,,,,,,,,,confirmed
+49,S1C1 14062019,F,Unknown,pan-MPOA-virgin,D,BRAC4,WT,Pre,,,,tonic,tonic,silent,2.8,3.0,350.0,yes,14.86,yes,19.59,105.7,3.3,2.33,395.0,,,,640.4532503,,,,,,,,
+50,S1C2 14062019,F,Unknown,pan-MPOA-virgin,D,BRAC4,WT,Pre,,,,tonic,tonic,silent,0.06,0.16,14314.0,yes,27.86,yes,12.5,91.8,1.8,1.75,188.0,5.0,-50.3,-45.39180865,620.8587578,,,,,,,,
+51,S1C1 15062019,F,Unknown,pan-MPOA-virgin,E,BRAC5,WT,Pre,,,,phasic,phasic,silent,1.2,2.5,847.0,no,0.0,yes,12.42,127.0,2.7,1.96,387.0,10.0,-64.2,-46.33717827,732.9983119,,,,,,,,
+52,S1C2 15062019,F,Unknown,pan-MPOA-virgin,E,BRAC5,WT,Pre,,,,tonic,tonic,silent,6.9,7.0,144.0,yes,38.0,yes,10.71,103.9,1.4,1.5,181.0,3.0,-56.1,-50.29145681,456.8516054,,,,,,,,
+53,S2C1 15062019,F,Unknown,pan-MPOA-virgin,E,BRAC5,WT,Pre,,,,silent,silent,silent,0.0,0.0,0.0,no,0.0,yes,2.0,0.0,0.0,0.0,0.0,13.0,0.0,-58.42122913,621.4449758,,,,,,,,
+54,S2C2 15062019,F,Unknown,pan-MPOA-virgin,E,BRAC5,WT,Pre,,,,silent,silent,silent,0.0,0.0,0.0,yes,6.2,yes,13.0,0.0,0.0,0.0,0.0,30.0,0.0,-51.10924683,285.7935404,,,,,,,,
+55,S1C1 16062019,F,Unknown,pan-MPOA-virgin,P,BRAC6,WT,Pre,,,,tonic,tonic,silent,0.02,0.04,39100.0,no,0.0,yes,9.89,118.6,1.8,1.9,268.0,5.0,-61.6,-43.6786334,885.1873757,,,,,,,,confirmed
+56,S1C2 16062019,F,Unknown,pan-MPOA-virgin,P,BRAC6,WT,Pre,,,,phasic,phasic,silent,1.1,1.3,939.0,yes,11.0,yes,6.81,99.4,1.9,1.8,220.0,,-55.5,-51.90323937,544.9501203,,,,,,,,confirmed
+57,S2C3 16062019,F,Unknown,pan-MPOA-virgin,P,BRAC6,WT,Pre,,,,tonic,tonic,silent,3.8,4.1,262.0,no,0.0,no,0.0,77.0,4.3,3.2,341.0,12.0,-43.6,-38.42513615,698.9288039,,,,,,,,confirmed
+58,S2C4 16062019,F,Unknown,pan-MPOA-virgin,P,BRAC6,WT,Pre,,,,phasic,phasic,silent,0.7,1.15,1412.0,no,0.0,no,0.0,91.0,3.5,2.4,338.0,10.0,-51.5,-44.66460588,709.7725389,,,,,,,,confirmed
+59,S1C1 27062019,F,Unknown,pan-MPOA-virgin,M,BRAC7,WT,Pre,,,,tonic,tonic,silent,0.2,0.4,5089.0,no,0.0,yes,4.43,106.0,2.0,1.7,239.0,10.0,-50.3,-42.37482239,644.2120839,,,,,,,,confirmed
+60,S1C2 27062019,F,Unknown,pan-MPOA-virgin,M,BRAC7,WT,Pre,,,,tonic,tonic,phasic,9.9,10.0,100.0,no,0.0,no,0.0,67.6,3.2,2.8,256.0,6.0,-43.0,-37.43452777,634.894712,,,,,,,,confirmed
+61,S1C1 29062019,F,Unknown,pan-MPOA-virgin,P,BRAC8,WT,Pre,,,,tonic,tonic,phasic,1.6,1.9,634.0,yes,14.25,yes,21.61,91.4,2.6,2.5,279.0,,-51.2,-42.9298753,496.0741018,,,,,,,,confirmed
+62,S1C2 29062019,F,Unknown,pan-MPOA-virgin,P,BRAC8,WT,Pre,,,,tonic,tonic,phasic,5.1,5.8,194.0,yes,1.65,yes,12.0,96.3,3.7,3.1,389.0,,-55.7,-40.1342035,162.4503403,,,,,,,,confirmed
+63,S1C1 30602019,F,Unknown,pan-MPOA-virgin,D,BRAC9,WT,Pre,,,,tonic,tonic,silent,1.25,1.6,797.0,yes,11.81,yes,16.94,118.1,1.08,1.6,169.0,,-62.7,-49.97633774,454.1496606,,,,,,,,confirmed
+64,S1C2 30602019,F,Unknown,pan-MPOA-virgin,D,BRAC9,WT,Pre,,,,phasic,phasic,silent,0.3,0.7,3661.0,no,0.0,no,0.0,122.2,3.5,2.21,448.0,,-62.4,-51.17037591,613.0027957,,,,,,,,confirmed
+65,S2C2 30062019,F,Unknown,pan-MPOA-virgin,D,BRAC9,WT,Pre,,,,silent,silent,silent,0.0,0.0,0.0,yes,24.6,yes,19.5,0.0,0.0,0.0,0.0,,0.0,-55.66857131,456.6111169,,,,,,,,confirmed
+66,S3C1 30062019,F,Unknown,pan-MPOA-virgin,D,BRAC9,WT,Pre,,,,silent,silent,silent,0.0,0.0,0.0,no,0.0,no,0.0,0.0,0.0,0.0,0.0,,0.0,-57.83631711,629.6118732,,,,,,,,confirmed
+67,S1C1 09072019,F,Unknown,pan-MPOA-virgin,not taken,BRAC10,WT,Pre,,,,phasic,phasic,silent,0.08,0.4,12563.0,yes,22.8,yes,7.51,105.2,1.7,1.7,210.0,,-66.4,-55.4449623,484.3761143,,,,,,,,confirmed
+68,S1C2 09072019,F,Unknown,pan-MPOA-virgin,not taken,BRAC10,WT,Pre,,,,tonic,tonic,silent,3.0,3.1,334.0,no,0.0,no,0.0,89.4,2.3,2.0,230.0,1.0,-55.8,-46.96837861,629.699846,,,,,,,,confirmed
+69,S2C1 09072019,F,Unknown,pan-MPOA-virgin,not taken,BRAC10,WT,Pre,,,,silent,silent,silent,0.0,0.0,0.0,no,0.0,no,0.0,0.0,0.0,0.0,0.0,4.0,0.0,-59.34987009,566.866273,,,,,,,,confirmed
+70,S3C1 09072019,F,Unknown,pan-MPOA-virgin,not taken,BRAC10,WT,Pre,,,,silent,silent,silent,0.0,0.0,0.0,yes,33.0,yes,9.8,0.0,0.0,0.0,0.0,9.0,0.0,-58.89601283,751.4477725,,,,,,,,confirmed
+71,S1C1 29072019,F,Unknown,pan-MPOA-virgin,?,BRAC11,WT,Pre,,,,silent,silent,silent,0.0,0.0,0.0,yes,5.98,yes,2.62,0.0,0.0,0.0,0.0,18.0,0.0,-53.44859139,773.8047417,,,,,,,,confirmed
+72,S1C2 29072019,F,Unknown,pan-MPOA-virgin,?,BRAC11,WT,Pre,,,yes,tonic,tonic,silent,0.8,1.7,1236.0,yes,12.66,yes,3.63,76.1,4.5,2.9,336.0,24.0,-42.0,-33.65929303,549.1027471,,,,,,,,confirmed
+73,S2C1 29072019,F,Unknown,pan-MPOA-virgin,?,BRAC11,WT,Pre,,,,phasic,phasic,silent,1.5,2.6,682.0,no,0.0,yes,11.0,136.8,1.0,1.34,187.0,,-67.7,-50.00531487,400.9769877,,,,,,,,confirmed
+74,S2C2 29072019,F,Unknown,pan-MPOA-virgin,?,BRAC11,WT,Pre,,,,tonic,tonic,silent,2.05,3.0,487.0,yes,15.44,yes,3.54,90.8,2.4,1.8,227.5,,-56.5,-39.04949689,440.5341595,,,,,,,,confirmed
+75,S1C1 30072019,F,Unknown,pan-MPOA-virgin,D,BRAC12,WT,Pre,,,,silent,silent,silent,0.0,0.0,0.0,no,0.0,yes,16.72,0.0,0.0,0.0,0.0,8.0,0.0,-52.4457131,666.4810508,,,,,,,,confirmed
+76,S1C2 30072019,F,Unknown,pan-MPOA-virgin,D,BRAC12,WT,Pre,,,no,silent,silent,silent,0.0,0.0,0.0,yes,12.15,yes,9.83,0.0,0.0,0.0,0.0,12.0,0.0,-50.931449,654.2066221,,,,,,,,confirmed
+77,S2C1 30072019,F,Unknown,pan-MPOA-virgin,D,BRAC12,WT,Pre,,,yes,tonic,tonic,silent,3.3,4.2,307.0,no,0.0,yes,15.63,90.8,2.2,2.0,225.0,6.0,-55.8,-42.55686322,729.4071417,,,,,,,,confirmed
+78,S3C1 30072019,F,Unknown,pan-MPOA-virgin,D,BRAC12,WT,Pre,,,,tonic,tonic,phasic,3.2,3.6,315.0,no,0.0,no,0.0,111.6,1.3,1.6,190.0,4.0,-63.2,-53.8791989,609.3512016,,,,,,,,confirmed
+79,S3C2 30072019,F,Unknown,pan-MPOA-virgin,D,BRAC12,WT,Pre,,,no,phasic,phasic,silent,0.2,5.0,5285.0,no,0.0,yes,6.5,98.4,1.8,1.9,202.0,70.0,-60.6,-42.81522671,275.6928631,,,,,,,,confirmed
+80,S1C1 02082019,F,Unknown,pan-MPOA-virgin,M,BRAC13,WT,Pre,,,,phasic,phasic,silent,0.3,0.9,3283.0,yes,21.5,yes,19.1,96.8,1.5,1.6,176.0,,-54.3,-44.61365002,229.8812704,,,,,,,,confirmed
+81,S1C2 02082019,F,Unknown,pan-MPOA-virgin,M,BRAC13,WT,Pre,,,no,tonic,tonic,silent,10.3,10.8,96.7,no,0.0,no,0.0,106.4,0.6,1.4,97.0,2.0,-57.0,-51.00154134,561.4287862,,,,,,,,confirmed
+82,S2C1 02082019,F,Unknown,pan-MPOA-virgin,M,BRAC13,WT,Pre,,,no,tonic,tonic,silent,4.1,4.2,246.7,no,0.0,yes,3.75,105.7,2.0,1.9,242.0,9.0,-61.2,-47.87877751,294.4161681,,,,,,,,confirmed
+83,S1C1 19082019,F,Unknown,pan-MPOA-virgin,D,BRAC14,WT,Pre,,,yes,tonic,tonic,silent,0.1,0.2,9375.0,yes,26.0,yes,13.0,89.4,2.2,1.9,223.0,6.0,-53.1,-34.12664935,330.1679284,,,,,,,,confirmed
+84,S1C2 19082019,F,Unknown,pan-MPOA-virgin,D,BRAC14,WT,Pre,,,,silent,silent,silent,0.0,0.0,0.0,no,0.0,no,0.0,0.0,0.0,0.0,0.0,,0.0,-51.95367058,524.0500354,,,,,,,,confirmed
+85,S2C1 19082019,F,Unknown,pan-MPOA-virgin,D,BRAC14,WT,Pre,,,no,silent,silent,silent,0.0,0.0,0.0,no,0.0,no,0.0,0.0,0.0,0.0,0.0,39.0,0.0,-58.80171848,281.8751873,,,,,,,,confirmed
+86,S1C1 29082019,F,Unknown,pan-MPOA-virgin,D,BRAC15,WT,Pre,,,yes,tonic,tonic,silent,2.4,2.8,421.0,yes,4.61,yes,8.42,44.15,,11.0,655.0,11.0,-36.8,-30.03438943,784.475555,,,,,,,,confirmed
+87,S1C2 29082019,F,Unknown,pan-MPOA-virgin,D,BRAC15,WT,Pre,,,yes,tonic,tonic,silent,0.02,0.02,42413.0,yes,14.0,yes,7.14,115.3,2.0,1.75,272.0,5.0,-52.1,-50.45994407,610.6660223,,,,,,,,confirmed
+88,S2C1 29082019,F,Unknown,pan-MPOA-virgin,D,BRAC15,WT,Pre,,,no,phasic,phasic,silent,0.14,0.64,6675.0,yes,12.6,yes,14.53,110.3,1.7,1.8,217.0,7.0,-65.7,-51.20750613,517.7145392,,,,,,,,confirmed
+89,S2C2 29082019,F,Unknown,pan-MPOA-virgin,D,BRAC15,WT,Pre,,,yes,phasic,phasic,silent,0.74,3.9,1321.0,yes,9.7,yes,6.71,81.6,3.7,2.25,318.0,6.0,-45.7,-44.73551264,728.9059234,,,,,,,,confirmed
+90,S1C1 21082019,F,Unknown,pan-MPOA-virgin,M,BRAC16,WT,Pre,,,,tonic,tonic,silent,0.3,4.15,3086.0,,,,,113.1,1.0,1.6,139.6,,-66.1,-56.59590494,,,,,,,,,confirmed
+91,S1C2 21082019,F,Unknown,pan-MPOA-virgin,M,BRAC16,WT,Pre,,,yes,tonic,tonic,silent,1.6,2.0,619.0,no,0.0,no,0.0,95.7,2.7,2.1,293.0,4.0,-47.2,-42.6946868,455.7879362,,,,,,,,confirmed
+92,S2C1 21082019,F,Unknown,pan-MPOA-virgin,M,BRAC16,WT,Pre,,,no,silent,silent,silent,0.0,0.0,0.0,no,0.0,yes,9.46,0.0,0.0,0.0,0.0,13.0,0.0,-50.52052344,444.7702902,,,,,,,,confirmed
+93,S2C2 21082019,F,Unknown,pan-MPOA-virgin,M,BRAC16,WT,Pre,,,yes,tonic,tonic,phasic,3.9,4.3,258.0,yes,36.53,yes,1.43,81.35,1.6,1.7,160.0,2.0,-56.6,-52.11715327,499.0279208,,,,,,,,confirmed
 94,S1C1 01052023,F,Unknown,pan-MPOA-virgin,D,BRAC7560.6e,WT,Pre,,,,tonic,tonic,,0.8,1.1,1265.0,,,,,72.2,3.4,2.4,255.0,,-51.4,-40.90409684,,2.692982456,9.8,1.0,7.7,,,,
 95,S1C1 22072023,F,Unknown,pan-MPOA-virgin,P,BRAC8524.1g,WT,Pre,,,,,,,,,,,,,,,,,,,,,,4.928571429,14.2,1.1,6.4,,,,confirmed
 96,S1C2 22072023,F,Unknown,pan-MPOA-virgin,P,BRAC8524.1g,WT,Pre,,,,tonic,tonic,silent,7.4,7.7,134.3,no,0.0,yes,8.7,79.2,2.4,1.9,207.6,,-48.7,-42.5556798,346.2361936,1.742857143,9.5,1.1,9.7,,,,confirmed
@@ -122,51 +122,51 @@
 120,S1C1 15012024,F,Unknown,pan-MPOA-virgin,M,BRAC 9060.1h,WT,Pre,,,yes,tonic,tonic,silent,9.75,10.04,102.5,no,0.0,yes,0.85,93.2,1.6,1.9,184.3,12.0,-54.5,-41.995,621.06,0.029605263,32.6,1.1,,,,,
 121,S1C2 15012024,F,Unknown,pan-MPOA-virgin,M,BRAC 9060.1h,WT,Pre,,,yes,silent,silent,silent,0.0,0.0,0.0,no,0.0,yes,4.18,0.0,0.0,0.0,0.0,27.0,0.0,-47.14,998.89,,,,,,,,
 122,S1C3 15012024,F,Unknown,pan-MPOA-virgin,M,BRAC 9060.1h,WT,Pre,,,,tonic,tonic,silent,5.0,5.2,200.0,no,0.0,yes,8.0,77.45,2.45,2.3,226.9,9.0,-45.9,-39.776,697.9,1.15920398,,,,,,,
-123,S1C2 20032025,F,Unknown,pan-MPOA-virgin,E,,WT,Pre,,,,silent,silent,silent,0.0,0.0,0.0,no,0.0,yes,5.65,0.0,0.0,0.0,0.0,12.0,0.0,-36.4063151,1021.487354,,,,,,,,
-124,S1C3 20032025,F,Unknown,pan-MPOA-virgin,E,,WT,Pre,,,,silent,silent,silent,0.0,0.0,0.0,yes,10.0,yes,23.0,0.0,0.0,0.0,0.0,39.0,0.0,-35.44683859,536.4267582,,,,,,,,
-125,S1C5 20032025,F,Unknown,pan-MPOA-virgin,E,,WT,Pre,,,,silent,silent,silent,0.0,0.0,0.0,no,0.0,yes,3.91,0.0,0.0,0.0,0.0,15.0,0.0,-24.33532789,990.3164189,,,,,,,,
-126,S1C1 01042025,F,Unknown,pan-MPOA-virgin,D,,WT,Pre,,,,tonic,tonic,phasic,9.4,9.6,106.6,no,0.0,yes,1.71,70.0,1.97,2.0,171.8,3.0,-59.1,-48.28605707,683.1170524,,,,,,,,
-127,S1C3 01042025,F,Unknown,pan-MPOA-virgin,D,,WT,Pre,,,,silent,silent,silent,0.0,0.0,0.0,yes,8.1,yes,15.5,0.0,0.0,0.0,0.0,7.0,0.0,-48.26381743,623.5218883,,,,,,,,
-128,S1C4 01042025,F,Unknown,pan-MPOA-virgin,D,,WT,Pre,,,,tonic,tonic,silent,9.8,10.0,102.1,yes,28.1,yes,5.6,75.5,2.0,1.6,169.4,6.0,-43.6,-38.09357336,744.891554,,,,,,,,
-129,S1C5 01042025,F,Unknown,pan-MPOA-virgin,D,,WT,Pre,,,,tonic,tonic,silent,3.52,3.84,283.6,,,,,94.8,4.1,2.72,396.6,3.0,-59.6,-47.04540371,,,,,,,,,
-130,S1C6 01042025,F,Unknown,pan-MPOA-virgin,D,,WT,Pre,,,,phasic,phasic,silent,3.1,4.3,322.9,,,,,60.4,6.2,3.1,363.0,3.0,-35.3,-30.33861474,,,,,,,,,
-131,S1C7 01042025,F,Unknown,pan-MPOA-virgin,D,,WT,Pre,,,,tonic,tonic,silent,0.74,0.97,1341.0,yes,18.95,yes,12.7,89.1,2.3,2.1,236.8,9.0,-55.5,-39.57834743,779.6525039,,,,,,,,
-132,S1C9 01042025,F,Unknown,pan-MPOA-virgin,D,,WT,Pre,,,,phasic,phasic,silent,1.9,3.24,527.6,no,0.0,no,0.0,64.9,3.9,2.8,266.9,27.0,-45.3,-36.85260301,783.1316203,,,,,,,,
-133,S1C1 02042025,F,Unknown,pan-MPOA-virgin,M,,WT,Pre,,,,tonic,tonic,silent,6.9,7.0,144.4,yes,0.92,yes,22.95,58.41,2.4,2.1,163.6,6.0,-55.2,-39.96061613,806.12,,,,,,,,
-134,S1C2 02042025,F,Unknown,pan-MPOA-virgin,M,,WT,Pre,,,,tonic,tonic,silent,5.5,5.8,180.9,no,0.0,no,0.0,45.3,6.3,3.2,248.1,,-41.0,-29.60552552,,,,,,,,,
-135,S1C4 02042025,F,Unknown,pan-MPOA-virgin,M,,WT,Pre,,,,tonic,tonic,silent,0.16,0.34,5935.0,no,16.72,yes,10.6,83.4,2.7,2.1,232.3,21.0,-49.6,-34.7352147,728.1940326,,,,,,,,
-136,S1C2 14042025,F,Unknown,pan-MPOA-virgin,E,,WT,Pre,,,,silent,silent,silent,0.0,0.0,0.0,no,0.0,yes,18.2,0.0,0.0,0.0,0.0,30.0,0.0,-43.8,1073.827073,,,,,,,,
-137,S1C3 14042025,F,Unknown,pan-MPOA-virgin,E,,WT,Pre,,,,tonic,tonic,silent,0.48,0.67,2047.0,no,0.0,no,0.0,74.2,4.25,2.44,310.0,39.0,-42.85,-38.66859864,683.7701221,,,,,,,,
-138,S1C4 14042025,F,Unknown,pan-MPOA-virgin,E,,WT,Pre,,,,phasic,phasic,silent,0.69,1.2,1446.5,no,0.0,no,0.0,57.7,3.3,2.36,200.4,4.0,-46.6,-41.22585287,1316.330929,,,,,,,,
-139,S1C5 14042025,F,Unknown,pan-MPOA-virgin,E,,WT,Pre,,,,phasic,phasic,silent,0.01,0.01,60386.0,yes,17.6,yes,4.7,76.5,2.9,2.4,253.0,9.0,-48.0,-48.25940365,1036.784208,,,,,,,,
-140,S1C8 14042025,F,Unknown,pan-MPOA-virgin,E,,WT,Pre,,,,tonic,tonic,silent,,,,,,,,,,,,,-45.0,,,,,,,,,,
-141,S1C2 02062025,F,Unknown,pan-MPOA-virgin,D,,WT,Pre,,,yes,silent,silent,silent,0.0,0.0,0.0,yes,2.53,yes,2.35,0.0,0.0,0.0,0.0,21.0,0.0,-71.91296873,715.3289581,,,,,,,,
-142,S1C3 02062025,F,Unknown,pan-MPOA-virgin,D,,WT,Pre,,,no,silent,silent,silent,0.0,0.0,0.0,no,0.0,yes,1.95,0.0,0.0,0.0,0.0,26.0,0.0,-66.88486583,776.7681344,0.126984127,8.8,1.6,15.4,Ramp=File 17 can't be analyzed ,,,
-143,S1C4 02062025,F,Unknown,pan-MPOA-virgin,D,,WT,Pre,,,no,tonic,silent,silent,0.2,1.13,5205.0,yes,8.7,yes,1.34,89.8,2.3,2.7,267.2,4.0,-54.2,-49.78777109,824.1100034,0.161290323,9.2,1.2,13.2,,,,
-144,S1C6 02062025,F,Unknown,pan-MPOA-virgin,D,,WT,Pre,,,yes,tonic,tonic,phasic,6.4,6.7,156.4,yes,9.31,yes,22.9,66.9,3.6,2.4,252.9,12.0,-43.1,-38.54570608,341.1589803,0.066666667,7.4,1.4,7.35,,,,
-145,S1C7 02062025,F,Unknown,pan-MPOA-virgin,D,,WT,Pre,,,,silent,silent,silent,0.0,0.0,0.0,,,,,0.0,0.0,0.0,0.0,6.0,0.0,-55.61817524,,,,,,1 spike onlyI/v curve very bad/bad ramp,,,
-146,S1C8 02062025,F,Unknown,pan-MPOA-virgin,D,,WT,Pre,,,yes,silent,silent,silent,0.0,0.0,0.0,no,0.0,no,0.0,0.0,0.0,0.0,0.0,28.0,0.0,-54.74510659,842.4060974,0.01369863,6.4,7.8,,,,,
-147,S1C9 02062025,F,Unknown,pan-MPOA-virgin,D,,WT,Pre,,,yes,phasic,phasic,silent,0.33,0.4,2992.0,yes,32.8,yes,14.0,78.6,3.6,2.1,300.0,14.0,-45.3,-43.18272302,836.1175123,0.046082949,7.9,3.0,, ,,,
-148,S1C2 03062025,F,Unknown,pan-MPOA-virgin,M,,WT,Pre,,,yes,silent,silent,silent,0.0,0.0,0.0,no,0.0,yes,3.0,0.0,0.0,0.0,0.0,22.0,0.0,-54.68906235,868.0363611,0.330097087,6.1,0.4,,,,,
-149,S1C4 03062025,F,Unknown,pan-MPOA-virgin,M,,WT,Pre,,,yes,phasic,phasic,phasic,0.46,1.4,2169.0,no,0.0,yes,13.0,80.0,2.8,2.0,246.6,1.0,-72.9,-69.68876341,758.3417473,0.530927835,16.0,1.1,9.1,,,,
-150,S1C5 03062025,F,Unknown,pan-MPOA-virgin,M,,WT,Pre,,,no,silent,silent,silent,0.0,0.0,0.0,no,0.0,no,0.0,0.0,0.0,0.0,0.0,36.0,0.0,-40.90100602,1162.076716,4.09649662,6.9,0.9,9.7,,,,
-151,S1C6 03062025,F,Unknown,pan-MPOA-virgin,M,,WT,Pre,,,no,tonic,tonic,silent,0.31,0.53,3202.0,yes,6.0,yes,2.0,64.5,3.5,2.15,230.3,,-54.3,-47.16405466,758.4333889,1.810344828,7.2,0.8,9.6,,,no theobase ,
-152,S1C7 03062025,F,Unknown,pan-MPOA-virgin,M,,WT,Pre,,,yes,phasic,phasic,silent,0.11,0.79,8966.3,no,0.0,no,0.0,66.15,4.1,2.28,277.0,12.0,-52.8,-54.70690429,1073.793635,0.046376812,28.5,2.3,13.8,,,,
-153,S1C8 03062025,F,Unknown,pan-MPOA-virgin,M,,WT,Pre,,,yes,silent,silent,silent,0.0,0.0,0.0,no,0.0,no,0.0,0.0,0.0,0.0,0.0,20.0,0.0,-77.68614939,855.3145272,0.010607522,15.0,1.1,9.14,,,,
-154,S1C9 03062025,F,Unknown,pan-MPOA-virgin,M,,WT,Pre,,,yes,silent,silent,silent,0.0,0.0,0.0,yes,2.2,yes,1.5,0.0,0.0,0.0,0.0,10.0,0.0,-34.46406565,742.4312719,,,,,,,cell not opened ,
-155,S1C8 10062025,F,Unknown,pan-MPOA-virgin,E,,WT,Pre,,,yes,phasic,phasic,silent,1.83,2.3,543.6,yes,12.0,yes,,56.1,5.8,5.24,457.0,6.0,-26.6,-22.07899336,1312.311621,0.720283338,8.9,1.2,9.0,,,,
-156,S1C10 1006202,F,Unknown,pan-MPOA-virgin,E,,WT,Pre,,,yes,silent,silent,silent,0.0,0.0,0.0,no,0.0,yes,1.4,0.0,0.0,0.0,0.0,16.0,0.0,-48.4022818,890.8236382,0.886051264,18.145,1.3,7.7,,,,
-157,S1C6 11062025,F,Unknown,pan-MPOA-virgin,P,,WT,Pre,,,yes,silent,silent,silent,0.0,0.0,0.0,no,0.0,yes,3.6,0.0,0.0,0.0,0.0,13.0,0.0,-58.63354396,1211.103438,0.210187066,15.3,1.3,6.9,,,,
-158,S1C7 11062025,F,Unknown,pan-MPOA-virgin,P,,WT,Pre,,,yes,silent,silent,silent,0.0,0.0,0.0,yes,35.98,yes,7.7,0.0,0.0,0.0,0.0,12.0,0.0,-58.47852447,746.612987,0.433082893,8.8355,1.3,16.1,,,,
-159,S1C9 11062025,F,Unknown,pan-MPOA-virgin,P,,WT,Pre,,,yes,phasic,phasic,silent,2.19,2.59,455.1,no,0.0,no,0.0,53.9,6.3,3.12,345.2,12.0,-41.5,-37.08159846,1235.57276,1.266163793,13.2,0.6,6.15,,,,
-160,S1C10 1106202,F,Unknown,pan-MPOA-virgin,P,,WT,Pre,,,no,tonic,tonic,silent,1.7,1.8,604.0,no,0.0,no,0.0,97.7,2.4,1.8,256.9,14.0,51.86,-42.46715489,876.7732111,0.326052672,7.8,0.3,32.6,,,,
-161,S1C11 1106202,F,Unknown,pan-MPOA-virgin,P,,WT,Pre,,,yes,phasic,phasic,silent,,,,no,0.0,no,0.0,,,,,12.0,,,941.918757,0.12,7.3,0.7,72.0,,,,
-162,S1C12 1106202,F,Unknown,pan-MPOA-virgin,P,,WT,Pre,,,yes,phasic,phasic,phasic,,,,no,0.0,yes,6.1,,,,,2.0,,,1075.008936,0.14,7.5,1.1,4.1,,,,
-163,S1C2 27062025,F,Unknown,pan-MPOA-virgin,E,,WT,Pre,,,yes,tonic,tonic,silent,0.1,0.1,8369.1,no,0.0,yes,1.56,98.0,2.4,1.9,266.6,10.0,-56.2,-50.69023502,822.795286,0.978546706,16.7,1.2,11.9,,,,
-164,S1C3 27062025,F,Unknown,pan-MPOA-virgin,E,,WT,Pre,,,,,,,,,,,,,,,,,,,,,,1.042770127,10.6,0.7,10.4,,,only synaptic ,
-165,S1C4 27062025,F,Unknown,pan-MPOA-virgin,E,,WT,Pre,,,yes,silent,silent,silent,0.0,0.0,0.0,yes,13.8,no,0.0,0.0,0.0,0.0,0.0,,0.0,-53.06855364,715.3591734,0.031273735,6.13,2.9,,,,No decay read by the software/No Rheobase ,
-166,S1C5 27062025,F,Unknown,pan-MPOA-virgin,E,,WT,Pre,,,no,silent,silent,silent,0.0,0.0,0.0,no,0.0,yes,14.43,0.0,0.0,0.0,0.0,16.0,0.0,-57.76272048,846.0247784,,,,,,,Cell not properly opened ,
-167,S1C6 27062025,F,Unknown,pan-MPOA-virgin,E,,WT,Pre,,,no,tonic,tonic,silent,0.87,0.91,1137.0,yes,7.4,yes,10.3,105.1,1.6,1.6,193.1,24.0,-57.0,-57.55768766,668.4505822,0.628472027,9.0,0.9,7.7,,,,
+123,S1C2 20032025,F,Unknown,pan-MPOA-virgin,E,BRAC10695.1b,WT,Pre,,,,silent,silent,silent,0.0,0.0,0.0,no,0.0,yes,5.65,0.0,0.0,0.0,0.0,12.0,0.0,-36.4063151,1021.487354,,,,,,,,
+124,S1C3 20032025,F,Unknown,pan-MPOA-virgin,E,BRAC10695.1b,WT,Pre,,,,silent,silent,silent,0.0,0.0,0.0,yes,10.0,yes,23.0,0.0,0.0,0.0,0.0,39.0,0.0,-35.44683859,536.4267582,,,,,,,,
+125,S1C5 20032025,F,Unknown,pan-MPOA-virgin,E,BRAC10695.1b,WT,Pre,,,,silent,silent,silent,0.0,0.0,0.0,no,0.0,yes,3.91,0.0,0.0,0.0,0.0,15.0,0.0,-24.33532789,990.3164189,,,,,,,,
+126,S1C1 01042025,F,Unknown,pan-MPOA-virgin,D,BRAC10706.1d,WT,Pre,,,,tonic,tonic,phasic,9.4,9.6,106.6,no,0.0,yes,1.71,70.0,1.97,2.0,171.8,3.0,-59.1,-48.28605707,683.1170524,,,,,,,,
+127,S1C3 01042025,F,Unknown,pan-MPOA-virgin,D,BRAC10706.1d,WT,Pre,,,,silent,silent,silent,0.0,0.0,0.0,yes,8.1,yes,15.5,0.0,0.0,0.0,0.0,7.0,0.0,-48.26381743,623.5218883,,,,,,,,
+128,S1C4 01042025,F,Unknown,pan-MPOA-virgin,D,BRAC10706.1d,WT,Pre,,,,tonic,tonic,silent,9.8,10.0,102.1,yes,28.1,yes,5.6,75.5,2.0,1.6,169.4,6.0,-43.6,-38.09357336,744.891554,,,,,,,,
+129,S1C5 01042025,F,Unknown,pan-MPOA-virgin,D,BRAC10706.1d,WT,Pre,,,,tonic,tonic,silent,3.52,3.84,283.6,,,,,94.8,4.1,2.72,396.6,3.0,-59.6,-47.04540371,,,,,,,,,
+130,S1C6 01042025,F,Unknown,pan-MPOA-virgin,D,BRAC10706.1d,WT,Pre,,,,phasic,phasic,silent,3.1,4.3,322.9,,,,,60.4,6.2,3.1,363.0,3.0,-35.3,-30.33861474,,,,,,,,,
+131,S1C7 01042025,F,Unknown,pan-MPOA-virgin,D,BRAC10706.1d,WT,Pre,,,,tonic,tonic,silent,0.74,0.97,1341.0,yes,18.95,yes,12.7,89.1,2.3,2.1,236.8,9.0,-55.5,-39.57834743,779.6525039,,,,,,,,
+132,S1C9 01042025,F,Unknown,pan-MPOA-virgin,D,BRAC10706.1d,WT,Pre,,,,phasic,phasic,silent,1.9,3.24,527.6,no,0.0,no,0.0,64.9,3.9,2.8,266.9,27.0,-45.3,-36.85260301,783.1316203,,,,,,,,
+133,S1C1 02042025,F,Unknown,pan-MPOA-virgin,M,BRAC10706.1e,WT,Pre,,,,tonic,tonic,silent,6.9,7.0,144.4,yes,0.92,yes,22.95,58.41,2.4,2.1,163.6,6.0,-55.2,-39.96061613,806.12,,,,,,,,
+134,S1C2 02042025,F,Unknown,pan-MPOA-virgin,M,BRAC10706.1e,WT,Pre,,,,tonic,tonic,silent,5.5,5.8,180.9,no,0.0,no,0.0,45.3,6.3,3.2,248.1,,-41.0,-29.60552552,,,,,,,,,
+135,S1C4 02042025,F,Unknown,pan-MPOA-virgin,M,BRAC10706.1e,WT,Pre,,,,tonic,tonic,silent,0.16,0.34,5935.0,no,16.72,yes,10.6,83.4,2.7,2.1,232.3,21.0,-49.6,-34.7352147,728.1940326,,,,,,,,
+136,S1C2 14042025,F,Unknown,pan-MPOA-virgin,E,BRAC10706.1f,WT,Pre,,,,silent,silent,silent,0.0,0.0,0.0,no,0.0,yes,18.2,0.0,0.0,0.0,0.0,30.0,0.0,-43.8,1073.827073,,,,,,,,
+137,S1C3 14042025,F,Unknown,pan-MPOA-virgin,E,BRAC10706.1f,WT,Pre,,,,tonic,tonic,silent,0.48,0.67,2047.0,no,0.0,no,0.0,74.2,4.25,2.44,310.0,39.0,-42.85,-38.66859864,683.7701221,,,,,,,,
+138,S1C4 14042025,F,Unknown,pan-MPOA-virgin,E,BRAC10706.1f,WT,Pre,,,,phasic,phasic,silent,0.69,1.2,1446.5,no,0.0,no,0.0,57.7,3.3,2.36,200.4,4.0,-46.6,-41.22585287,1316.330929,,,,,,,,
+139,S1C5 14042025,F,Unknown,pan-MPOA-virgin,E,BRAC10706.1f,WT,Pre,,,,phasic,phasic,silent,0.01,0.01,60386.0,yes,17.6,yes,4.7,76.5,2.9,2.4,253.0,9.0,-48.0,-48.25940365,1036.784208,,,,,,,,
+140,S1C8 14042025,F,Unknown,pan-MPOA-virgin,E,BRAC10706.1f,WT,Pre,,,,tonic,tonic,silent,,,,,,,,,,,,,-45.0,,,,,,,,,,
+141,S1C2 02062025,F,Unknown,pan-MPOA-virgin,D,BRAC10906.2f,WT,Pre,,,yes,silent,silent,silent,0.0,0.0,0.0,yes,2.53,yes,2.35,0.0,0.0,0.0,0.0,21.0,0.0,-71.91296873,715.3289581,,,,,,,,
+142,S1C3 02062025,F,Unknown,pan-MPOA-virgin,D,BRAC10906.2f,WT,Pre,,,no,silent,silent,silent,0.0,0.0,0.0,no,0.0,yes,1.95,0.0,0.0,0.0,0.0,26.0,0.0,-66.88486583,776.7681344,0.126984127,8.8,1.6,15.4,Ramp=File 17 can't be analyzed ,,,
+143,S1C4 02062025,F,Unknown,pan-MPOA-virgin,D,BRAC10906.2f,WT,Pre,,,no,tonic,silent,silent,0.2,1.13,5205.0,yes,8.7,yes,1.34,89.8,2.3,2.7,267.2,4.0,-54.2,-49.78777109,824.1100034,0.161290323,9.2,1.2,13.2,,,,
+144,S1C6 02062025,F,Unknown,pan-MPOA-virgin,D,BRAC10906.2f,WT,Pre,,,yes,tonic,tonic,phasic,6.4,6.7,156.4,yes,9.31,yes,22.9,66.9,3.6,2.4,252.9,12.0,-43.1,-38.54570608,341.1589803,0.066666667,7.4,1.4,7.35,,,,
+145,S1C7 02062025,F,Unknown,pan-MPOA-virgin,D,BRAC10906.2f,WT,Pre,,,,silent,silent,silent,0.0,0.0,0.0,,,,,0.0,0.0,0.0,0.0,6.0,0.0,-55.61817524,,,,,,1 spike onlyI/v curve very bad/bad ramp,,,
+146,S1C8 02062025,F,Unknown,pan-MPOA-virgin,D,BRAC10906.2f,WT,Pre,,,yes,silent,silent,silent,0.0,0.0,0.0,no,0.0,no,0.0,0.0,0.0,0.0,0.0,28.0,0.0,-54.74510659,842.4060974,0.01369863,6.4,7.8,,,,,
+147,S1C9 02062025,F,Unknown,pan-MPOA-virgin,D,BRAC10906.2f,WT,Pre,,,yes,phasic,phasic,silent,0.33,0.4,2992.0,yes,32.8,yes,14.0,78.6,3.6,2.1,300.0,14.0,-45.3,-43.18272302,836.1175123,0.046082949,7.9,3.0,, ,,,
+148,S1C2 03062025,F,Unknown,pan-MPOA-virgin,M,BRAC10906.2g,WT,Pre,,,yes,silent,silent,silent,0.0,0.0,0.0,no,0.0,yes,3.0,0.0,0.0,0.0,0.0,22.0,0.0,-54.68906235,868.0363611,0.330097087,6.1,0.4,,,,,
+149,S1C4 03062025,F,Unknown,pan-MPOA-virgin,M,BRAC10906.2g,WT,Pre,,,yes,phasic,phasic,phasic,0.46,1.4,2169.0,no,0.0,yes,13.0,80.0,2.8,2.0,246.6,1.0,-72.9,-69.68876341,758.3417473,0.530927835,16.0,1.1,9.1,,,,
+150,S1C5 03062025,F,Unknown,pan-MPOA-virgin,M,BRAC10906.2g,WT,Pre,,,no,silent,silent,silent,0.0,0.0,0.0,no,0.0,no,0.0,0.0,0.0,0.0,0.0,36.0,0.0,-40.90100602,1162.076716,4.09649662,6.9,0.9,9.7,,,,
+151,S1C6 03062025,F,Unknown,pan-MPOA-virgin,M,BRAC10906.2g,WT,Pre,,,no,tonic,tonic,silent,0.31,0.53,3202.0,yes,6.0,yes,2.0,64.5,3.5,2.15,230.3,,-54.3,-47.16405466,758.4333889,1.810344828,7.2,0.8,9.6,,,no theobase ,
+152,S1C7 03062025,F,Unknown,pan-MPOA-virgin,M,BRAC10906.2g,WT,Pre,,,yes,phasic,phasic,silent,0.11,0.79,8966.3,no,0.0,no,0.0,66.15,4.1,2.28,277.0,12.0,-52.8,-54.70690429,1073.793635,0.046376812,28.5,2.3,13.8,,,,
+153,S1C8 03062025,F,Unknown,pan-MPOA-virgin,M,BRAC10906.2g,WT,Pre,,,yes,silent,silent,silent,0.0,0.0,0.0,no,0.0,no,0.0,0.0,0.0,0.0,0.0,20.0,0.0,-77.68614939,855.3145272,0.010607522,15.0,1.1,9.14,,,,
+154,S1C9 03062025,F,Unknown,pan-MPOA-virgin,M,BRAC10906.2g,WT,Pre,,,yes,silent,silent,silent,0.0,0.0,0.0,yes,2.2,yes,1.5,0.0,0.0,0.0,0.0,10.0,0.0,-34.46406565,742.4312719,,,,,,,cell not opened ,
+155,S1C8 10062025,F,Unknown,pan-MPOA-virgin,E,BRAC10784.3h,WT,Pre,,,yes,phasic,phasic,silent,1.83,2.3,543.6,yes,12.0,yes,,56.1,5.8,5.24,457.0,6.0,-26.6,-22.07899336,1312.311621,0.720283338,8.9,1.2,9.0,,,,
+156,S1C10 1006202,F,Unknown,pan-MPOA-virgin,E,BRAC10784.3h,WT,Pre,,,yes,silent,silent,silent,0.0,0.0,0.0,no,0.0,yes,1.4,0.0,0.0,0.0,0.0,16.0,0.0,-48.4022818,890.8236382,0.886051264,18.145,1.3,7.7,,,,
+157,S1C6 11062025,F,Unknown,pan-MPOA-virgin,P,BRAC10784.3i,WT,Pre,,,yes,silent,silent,silent,0.0,0.0,0.0,no,0.0,yes,3.6,0.0,0.0,0.0,0.0,13.0,0.0,-58.63354396,1211.103438,0.210187066,15.3,1.3,6.9,,,,
+158,S1C7 11062025,F,Unknown,pan-MPOA-virgin,P,BRAC10784.3i,WT,Pre,,,yes,silent,silent,silent,0.0,0.0,0.0,yes,35.98,yes,7.7,0.0,0.0,0.0,0.0,12.0,0.0,-58.47852447,746.612987,0.433082893,8.8355,1.3,16.1,,,,
+159,S1C9 11062025,F,Unknown,pan-MPOA-virgin,P,BRAC10784.3i,WT,Pre,,,yes,phasic,phasic,silent,2.19,2.59,455.1,no,0.0,no,0.0,53.9,6.3,3.12,345.2,12.0,-41.5,-37.08159846,1235.57276,1.266163793,13.2,0.6,6.15,,,,
+160,S1C10 1106202,F,Unknown,pan-MPOA-virgin,P,BRAC10784.3i,WT,Pre,,,no,tonic,tonic,silent,1.7,1.8,604.0,no,0.0,no,0.0,97.7,2.4,1.8,256.9,14.0,51.86,-42.46715489,876.7732111,0.326052672,7.8,0.3,32.6,,,,
+161,S1C11 1106202,F,Unknown,pan-MPOA-virgin,P,BRAC10784.3i,WT,Pre,,,yes,phasic,phasic,silent,,,,no,0.0,no,0.0,,,,,12.0,,,941.918757,0.12,7.3,0.7,72.0,,,,
+162,S1C12 1106202,F,Unknown,pan-MPOA-virgin,P,BRAC10784.3i,WT,Pre,,,yes,phasic,phasic,phasic,,,,no,0.0,yes,6.1,,,,,2.0,,,1075.008936,0.14,7.5,1.1,4.1,,,,
+163,S1C2 27062025,F,Unknown,pan-MPOA-virgin,E,BRAC10558.2j,WT,Pre,,,yes,tonic,tonic,silent,0.1,0.1,8369.1,no,0.0,yes,1.56,98.0,2.4,1.9,266.6,10.0,-56.2,-50.69023502,822.795286,0.978546706,16.7,1.2,11.9,,,,
+164,S1C3 27062025,F,Unknown,pan-MPOA-virgin,E,BRAC10558.2j,WT,Pre,,,,,,,,,,,,,,,,,,,,,,1.042770127,10.6,0.7,10.4,,,only synaptic ,
+165,S1C4 27062025,F,Unknown,pan-MPOA-virgin,E,BRAC10558.2j,WT,Pre,,,yes,silent,silent,silent,0.0,0.0,0.0,yes,13.8,no,0.0,0.0,0.0,0.0,0.0,,0.0,-53.06855364,715.3591734,0.031273735,6.13,2.9,,,,No decay read by the software/No Rheobase ,
+166,S1C5 27062025,F,Unknown,pan-MPOA-virgin,E,BRAC10558.2j,WT,Pre,,,no,silent,silent,silent,0.0,0.0,0.0,no,0.0,yes,14.43,0.0,0.0,0.0,0.0,16.0,0.0,-57.76272048,846.0247784,,,,,,,Cell not properly opened ,
+167,S1C6 27062025,F,Unknown,pan-MPOA-virgin,E,BRAC10558.2j,WT,Pre,,,no,tonic,tonic,silent,0.87,0.91,1137.0,yes,7.4,yes,10.3,105.1,1.6,1.6,193.1,24.0,-57.0,-57.55768766,668.4505822,0.628472027,9.0,0.9,7.7,,,,
 168,S1C1 23012023,F,Unknown,virgin,D,BRAC7344.5e,WT,Agg+,yes,,,,,,,,,,,,,,,,,,,,,0.792168675,15.23,1.0,15.4,,,Cell lost only synaptic,
 169,S1C2 23012023,F,Unknown,virgin,D,BRAC7344.5e,WT,Agg+,yes,,,,,,,,,,,,,,,,,,,,,0.48,11.048,1.1,10.482,,,,
 170,S1C3 23012023,F,Unknown,virgin,D,BRAC7344.5e,WT,Agg+,yes,35.06807322,yes,silent,silent,silent,0.0,0.0,0.0,no,0.0,yes,5.55,0.0,0.0,0.0,0.0,27.0,0.0,-39.04526531,829.7533337,0.08,8.47,1.4,19.893,,,,
@@ -258,12 +258,12 @@
 256,S1C3 01052026,F,Unknown,pan-MPOA-virgin-NPY2R-antag,M,BRAC8853.5a,,npy2r_antag,,,no,tonic,tonic,silent,5.1,5.2,194.4,yes,5.4,yes,10.5,83.0,1.8,2.0,187.3,7.0,-60.8,-51.52306931,649.7604008,4.126731774,11.3,1.2,9.3,,,,
 257,S1C4 01052027,F,Unknown,pan-MPOA-virgin-NPY2R-antag,M,BRAC8853.5a,,npy2r_antag,,,yes,tonic,tonic,silent,5.5,5.8,180.7,yes,3.0,yes,11.0,65.7,3.0,2.1,195.8,27.0,-50.2,-40.37672512,603.929183,2.072158365,8.0,0.8,8.0,,,,
 258,S1C5 01052028,F,Unknown,pan-MPOA-virgin-NPY2R-antag,M,BRAC8853.5a,,npy2r_antag,,,yes,silent,silent,silent,0.0,0.0,0.0,yes,4.96,yes,1.91,0.0,0.0,0.0,0.0,18.0,0.0,-43.88779021,603.929183,0.356666667,10.6,0.8,6.4,,,,
-259,S2C1 22072023,F,Unknown,pan-MPOA-virgin-NPY10nM,to be stained,,WT,npy_10_paired,,,,silent,silent,silent,0.0,0.0,0.0,,,yes,2.23,0.0,0.0,0.0,0.0,,0.0,-49.1560239,965.4,,,,,,,,
-260,S1C2 23072023,F,Unknown,pan-MPOA-virgin-NPY10nM,to be stained,,WT,npy_10_paired,,,,silent,silent,silent,0.0,0.0,0.0,,,yes,11.08,0.0,0.0,0.0,0.0,,0.0,-58.64170794,781.228592,,,,,,,,
-261,S2C1 23072023,F,Unknown,pan-MPOA-virgin-NPY10nM,to be stained,,WT,npy_10_paired,,,,tonic,tonic,silent,0.74,,,,,yes,11.7,,,,,,,-43.66228154,606.1925648,,,,,,,,
-262,S2C1 24072023,F,Unknown,pan-MPOA-virgin-NPY10nM,to be stained,,WT,npy_10_paired,,,,silent,silent,silent,0.0,0.0,0.0,,,yes,,0.0,0.0,0.0,0.0,,0.0,-52.35746004,359.3407257,,,,,,,,
-263,S1C1 30072023,F,Unknown,pan-MPOA-virgin-NPY10nM,to be stained,,WT,npy_10_paired,,,,silent,silent,silent,0.0,0.0,0.0,,,yes,19.99,0.0,0.0,0.0,0.0,,0.0,-48.85272872,268.7661163,,,,,,,,
-264,S2C1 30072023,F,Unknown,pan-MPOA-virgin-NPY10nM,to be stained,,WT,npy_10_paired,,,,silent,silent,silent,0.0,0.0,0.0,,,yes,4.3,0.0,0.0,0.0,0.0,,0.0,-53.95698742,140.0296638,,,,,,,,
+259,S2C1 22072023,F,Unknown,pan-MPOA-virgin-NPY10nM,to be stained,BRAC17,WT,npy_10_paired,,,,silent,silent,silent,0.0,0.0,0.0,,,yes,2.23,0.0,0.0,0.0,0.0,,0.0,-49.1560239,965.4,,,,,,,,
+260,S1C2 23072023,F,Unknown,pan-MPOA-virgin-NPY10nM,to be stained,BRAC18,WT,npy_10_paired,,,,silent,silent,silent,0.0,0.0,0.0,,,yes,11.08,0.0,0.0,0.0,0.0,,0.0,-58.64170794,781.228592,,,,,,,,
+261,S2C1 23072023,F,Unknown,pan-MPOA-virgin-NPY10nM,to be stained,BRAC18,WT,npy_10_paired,,,,tonic,tonic,silent,0.74,,,,,yes,11.7,,,,,,,-43.66228154,606.1925648,,,,,,,,
+262,S2C1 24072023,F,Unknown,pan-MPOA-virgin-NPY10nM,to be stained,BRAC19,WT,npy_10_paired,,,,silent,silent,silent,0.0,0.0,0.0,,,yes,,0.0,0.0,0.0,0.0,,0.0,-52.35746004,359.3407257,,,,,,,,
+263,S1C1 30072023,F,Unknown,pan-MPOA-virgin-NPY10nM,to be stained,BRAC20,WT,npy_10_paired,,,,silent,silent,silent,0.0,0.0,0.0,,,yes,19.99,0.0,0.0,0.0,0.0,,0.0,-48.85272872,268.7661163,,,,,,,,
+264,S2C1 30072023,F,Unknown,pan-MPOA-virgin-NPY10nM,to be stained,BRAC20,WT,npy_10_paired,,,,silent,silent,silent,0.0,0.0,0.0,,,yes,4.3,0.0,0.0,0.0,0.0,,0.0,-53.95698742,140.0296638,,,,,,,,
 265,S1C2 23112023,F,Unknown,pan-MPOA-virgin-NPY10nM,to be stained,BRAC8913.1d,WT,npy_10,,,no,tonic,tonic,silent,0.2,0.3,4458.0,yes,7.3,no,0.0,88.8,2.0,1.9,229.0,15.0,-64.2,-54.64650954,708.4442285,1.088985688,8.2,1.6,32.3,,,,
 266,S1C3 23112023,F,Unknown,pan-MPOA-virgin-NPY10nM,to be stained,BRAC8913.1d,WT,npy_10,,,no,tonic,tonic,silent,0.03,0.1,26032.0,no,0.0,no,0.0,68.3,3.2,2.5,261.7,21.0,-64.0,-58.27168294,643.2922602,2.778858625,17.0,1.4,17.7,,,,
 267,S1C4 23112023,F,Unknown,pan-MPOA-virgin-NPY10nM,to be stained,BRAC8913.1d,WT,npy_10,,,yes,tonic,tonic,silent,0.5,0.8,2070.3,no,0.0,no,0.0,69.1,2.8,2.1,219.1,12.0,-58.1,-50.33926285,958.4903478,0.676342525,6.9,1.2,17.9,,,,
