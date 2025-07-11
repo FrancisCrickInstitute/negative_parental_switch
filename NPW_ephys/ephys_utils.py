@@ -3,6 +3,9 @@ from statsmodels.stats.multitest import multipletests
 import numpy as np
 import pandas as pd
 import statsmodels.formula.api as smf
+import matplotlib.patches as mpatches
+from matplotlib.patches import Rectangle
+import matplotlib.colors as mcolors
 
 
 
@@ -201,3 +204,91 @@ def plot_significance_texts_shifted(
                 fontsize=13,
                 color=combo_colors[combo],
             )
+
+def plot_significance_bars_shifted(
+    ax, sampled_df, result_df, combos, palette, state_col="state", base_y=0, y_shift=0.2, bar_height=0.5, bar_width=10
+):
+    """
+    Plot significance indicators as semi-transparent bars near y=0 with vertical shifts and combo-specific colors.
+    
+    Parameters:
+    - ax: matplotlib axis
+    - sampled_df: DataFrame with 'state', 'Injected', prop columns
+    - result_df: DataFrame with ['comparison', 'interaction', 'pvalue_corrected', 'reject_null']
+    - combos: list of tuples of state pairs, e.g. [("Pre", "Agg+"), ...]
+    - state_col: str, column name for states in sampled_df
+    - palette: dict or list of colors corresponding to states or combos
+    - base_y: float, baseline y coordinate to start placing bars
+    - y_shift: float, vertical distance between bars for different combos
+    - bar_height: float, height of each significance bar
+    - bar_width: float, width of the bar in x-axis
+    """
+
+    def avg_color(c1, c2):
+        c1_rgb = np.array(mcolors.to_rgb(c1))
+        c2_rgb = np.array(mcolors.to_rgb(c2))
+        return (c1_rgb + c2_rgb) / 2
+
+    # Get colors for each combo
+    combo_colors = {}
+    for c in combos:
+        if isinstance(palette, dict):
+            c1, c2 = palette[c[0]], palette[c[1]]
+        else:
+            states = sampled_df[state_col].unique().tolist()
+            c1, c2 = palette[states.index(c[0])], palette[states.index(c[1])]
+        combo_colors[c] = avg_color(c1, c2)
+
+    signif_results = result_df[result_df["reject_null"]]
+
+    for i, combo in enumerate(combos):
+        combo_mask = signif_results["comparison"] == f"{combo[0]} vs {combo[1]}"
+        combo_results = signif_results[combo_mask]
+
+        for _, row in combo_results.iterrows():
+            pval = row["pvalue_corrected"]
+            term = row["interaction"]
+            match = re.search(r"Injected\[T\.([^\]]+)\]", term)
+         
+            if not match:
+                continue
+            injected_val = float(match.group(1))
+            y = base_y + (i - 1) * y_shift
+
+            # Determine alpha from significance level
+            if pval < 0.001:
+                alpha = 0.8
+            elif pval < 0.01:
+                alpha = 0.5
+            elif pval < 0.05:
+                alpha = 0.2
+            else:
+                continue  # skip not significant
+
+            y = base_y + (i - 1) * y_shift
+            color = combo_colors[combo]
+
+            rect = Rectangle(
+                (injected_val - bar_width / 2, y),
+                width=bar_width,
+                height=bar_height,
+                color=color,
+                alpha=alpha,
+                linewidth=0
+            )
+         
+            ax.add_patch(rect)
+            rect.set_zorder(10)  # After add_patch
+
+    # if there are no rectangle, don't add legend
+    if  ax.patches:
+    
+        legend_patches = [
+            mpatches.Patch(color='grey', alpha=0.8, label='p < 0.001'),
+            mpatches.Patch(color='grey', alpha=0.5, label='p < -0.01'),
+            mpatches.Patch(color='grey', alpha=0.2, label='p < 0.05'),
+        ]
+        ax.legend(handles=legend_patches, loc='upper left', fontsize=10, bbox_to_anchor=(0, 1))
+        leg = ax.get_legend()
+        if leg:
+            leg.set_frame_on(False)
