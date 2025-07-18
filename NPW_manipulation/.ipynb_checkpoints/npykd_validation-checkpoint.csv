@@ -1,0 +1,7 @@
+﻿mice_ID,condition,npykd_neurons_with_npy,npy_with_npykd,threshold_gfp,threshold_npy,pearson_corr,validation,note
+JKBR4.1e_slice3_slide2,npykd,0.107,0.028,23935,32530,,invalid,"a bit saturated in the GFP cannel , probably rescan, the inner planes of the cells were not stained with npy super well"
+JKBR4.1e_slice3_slide2_rescan,npykd,0.039,0.003,6513,12622,,valid,
+JKAJ30.1c,npykd,0.058,0.012,17174,18806,,valid,
+JKAJ32.4g_mouse3,npykd,0.171,0.55,,,,invalid,doesn't look like the npy channel got stained
+JKBR6.2b,scrambled,0.347,0.039,5907,665,,,
+JKBR5.1b,,,,,,,,
