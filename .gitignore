@@ -1,7 +1,12 @@
-/NPW_transcripts/receptor_map/*.csv
-/NPW_transcripts/receptor_map/*.h5ad
-/NPW_transcripts/transcriptormics_merfish/merfish_data/**
-/NPW_transcripts/transcriptormics_merfish/merfish_data/**
-*.h5ad
-*.feather
-NPW_transcripts/transcriptormics _merfish/merfish_data/merfish_all_cells.csv
+NPW_transcripts/receptor_map/*.csv
+NPY-R project/*
+NPW_ephys/output_figures/*
+NPS_behaviour_analysis/boris_virtual_env/**
+NPS_behaviour_analysis/data backup/**
+NPS_behaviour_analysis/heatmap/**
+NPS_behaviour_analysis/output_figures/**
+/NPW_transcripts/transcriptormics _merfish/Merfish_ABC_data/expression_matrices/MERFISH-C57BL6J-638850-imputed/20240831
+/NPW_transcripts/transcriptormics _merfish/Merfish_ABC_data
+/NPW_transcripts/transcriptormics _merfish/merfish_data
+# Ignore all .DS_Store files everywhere
+**/.DS_Store

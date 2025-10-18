@@ -1,8 +1,8 @@
 ﻿mice_ID,estrous_stage,condition,agg_state,state_latency,food_consumption,experiment_date,validation,validation_comme t,comment
-JKAJ31.7e,,ZD7288,Agg+,17,0,20/06/2024,histolog valid,control aggressive,mild initial bite
-JKAj33.6d,,ZD7288,Agg+,27,0,20/06/2024,histolog valid,,
-JKAJ31.7d,,ZD7288,Agg+,254,0.02,20/06/2024,histolog valid,,
-BRAC9442.3i,,ZD7288,Agg+,20,,14/06/2024,histolog valid,,"mild attack, the cannulation on one side got a bit clotted"
+JKAJ31.7e,E(?),ZD7288,Agg+,17,0,20/06/2024,histolog valid,control aggressive,mild initial bite
+JKAj33.6d,D,ZD7288,Agg+,27,0,20/06/2024,histolog valid,,
+JKAJ31.7d,E(?),ZD7288,Agg+,254,0.02,20/06/2024,histolog valid,,
+BRAC9442.3i,P,ZD7288,Agg+,20,,14/06/2024,histolog valid,,"mild attack, the cannulation on one side got a bit clotted"
 JKAJ31.7e,,ACSF,Agg+,,0.19,30/07/2024,invalid,control aggressive,cannula blocked
 JKAJ33.6d,,ACSF,Agg-,,0.07,30/07/2024,,,cannula blocked
 JKAJ31.7d,,ACSF,Agg-,,0.04,30/07/2024,,,one side infusion(?)
