@@ -1,4 +1,4 @@
-# negative_parental_switch
+# Negative Parental Switch
 
 ## Overview
 This repository contains all supplementary materials and analyses for the paper  
@@ -14,6 +14,7 @@ If you require access to the full datasets, please contact the corresponding aut
 
 ## Folder Structure
 
+```bash
 ├── cfos_analysis/
 ├── NPS_behaviour_analysis/
 ├── NPS_ephys/
@@ -21,6 +22,7 @@ If you require access to the full datasets, please contact the corresponding aut
 ├── NPS_hormone/
 ├── NPS_manipulation/
 └── README.md
+
 
 
 ---
