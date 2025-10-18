@@ -8,5 +8,6 @@ NPS_behaviour_analysis/output_figures/**
 /NPS_transcripts/transcriptormics _merfish/Merfish_ABC_data/expression_matrices/MERFISH-C57BL6J-638850-imputed/20240831
 /NPS_transcripts/transcriptormics _merfish/Merfish_ABC_data
 /NPS_transcripts/transcriptormics _merfish/merfish_data
+NPS_transcripts/receptor_map/data/*.csv
 # Ignore all .DS_Store files everywhere
 **/.DS_Store
