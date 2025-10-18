@@ -8,3 +8,5 @@ NPS_behaviour_analysis/output_figures/**
 /NPW_transcripts/transcriptormics _merfish/Merfish_ABC_data/expression_matrices/MERFISH-C57BL6J-638850-imputed/20240831
 /NPW_transcripts/transcriptormics _merfish/Merfish_ABC_data
 /NPW_transcripts/transcriptormics _merfish/merfish_data
+# Ignore all .DS_Store files everywhere
+**/.DS_Store
